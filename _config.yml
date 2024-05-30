@@ -29,9 +29,12 @@ instagram_username: yuri_umemoto
 youtube_username: yuriumemoto
 
 # Build settings
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+#plugins:
+#  - jekyll-feed
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
