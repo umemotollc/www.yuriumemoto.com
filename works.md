@@ -1,7 +1,7 @@
 ---
 title: Works
 category: page
-permalink: works
+permalink: works/
 ---
 
 - [2018-2019](/works 2018-2019)
