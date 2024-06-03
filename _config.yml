@@ -11,7 +11,7 @@ plugins:
 pagenate: 3
 pagenate_path: "/page/page:num/"
 
-permalink: /:year/:month/:title.html
+permalink: /:year/:month/:day/:title.html
 
 
 title: Yuri UMEMOTO
