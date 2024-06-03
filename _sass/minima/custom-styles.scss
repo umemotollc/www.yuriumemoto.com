@@ -29,7 +29,8 @@ a {
 a:visited { color: #1111FF; }
 a:hover { color: #111111; text-decoration: underline; }
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
-.social-media-list a:hover .username, .pagination a:hover .username { text-decoration: underline; }
+.social-media-list a:hover .username,
+.pagination a:hover .username { text-decoration: underline; }
 
 
 /** Site header */
@@ -53,7 +54,7 @@ a:hover { color: #111111; text-decoration: underline; }
 .site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; }
 .site-nav .nav-trigger { display: none; }
 .site-nav .menu-icon { float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; }
-.site-nav .menu-icon > svg path { fill: #424242; }
+.site-nav .menu-icon > svg path { fill: #1111FF; }
 .site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; }
 .site-nav input ~ .trigger { clear: both; display: none; }
 .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }
@@ -82,11 +83,23 @@ a:hover { color: #111111; text-decoration: underline; }
 
 .footer-heading { font-size: 1.125rem; margin-bottom: 15px; }
 
-.feed-subscribe .svg-icon { padding: 5px 5px 2px 0; }
+/** Icons */
+.orange { color: #f66a0a; }
+.grey { color: #828282; }
+.blue { color: #1111FF; }
+
+.svg-icon { width: 1.25em; height: 1.25em; display: inline-block; fill: blue; vertical-align: text-bottom; }
+
+
+.feed-subscribe .svg-icon {
+	padding: 5px 5px 2px 0;
+	display: none;
+//	visibility: hidden;
+}
 
 .contact-list, .social-media-list, .pagination { list-style: none; margin-left: 0; }
 
-.footer-col-wrapper, .social-links { font-size: 0.9375rem; color: #828282; }
+.footer-col-wrapper, .social-links { font-size: 0.9375rem; color: #c0c0c0; }
 
 .footer-col { margin-bottom: 15px; }
 
@@ -253,6 +266,8 @@ a:hover { color: #111111; text-decoration: underline; }
 .social-media-list, .pagination { display: table; margin: 0 auto; }
 .social-media-list li, .pagination li { float: left; margin: 5px 10px 5px 0; }
 .social-media-list li:last-of-type, .pagination li:last-of-type { margin-right: 0; }
-.social-media-list li a, .pagination li a { display: block; padding: 10px 12px; border: 1px solid #e8e8e8; }
-.social-media-list li a:hover, .pagination li a:hover { border-color: #dbdbdb; }
+.social-media-list li a, .pagination li a {
+display: block; padding: 10px 12px;
+border: 0px solid #e8e8e8; }
+.social-media-list li a:hover, .pagination li a:hover { border-color: #c0c0c0; }
 
