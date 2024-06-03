@@ -1,58 +1,77 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-* Japanese follows English. 日本語は英語の後に記載。
+* Japanese follows English. 日本語は英語の後に記載。  
+[ENG] / [日本語](#梅本佑利うめもとゆうり)
 
 ## Yuri Umemoto 
- 
-Composer born in Tokyo in 2002, debuted in 2018. He has worked with prominent performers of contemporary music in Japan and abroad, creating works that connect Western music and Japanese subcultures. His collaborative works include the orchestral piece "Oo./x" with composer Akiko Yamane, a collaboration with graphic artist Lee Kan kyo, and a new piece developed in collaboration with Yamaha Corporation. In 2023, he worked on an official arrangement of Ryuichi Sakamoto's work for a Japanese TV program.
- 
-He has been Born Creative Festival (2019, Tokyo Metropolitan Theater), BBC Proms Young Composer (2020)[^bbc], Endless Imaginary (2021, Rhizomatiks), Tokyo Music Evening Yube (2021), Sendai Classic Festival (2021), Spring Festival in Tokyo (2022), Kanagawa Prefectural Music Hall project, BtoC (Tokyo Opera City Cultural Foundation) Among others performed at many festivals and events.
- 
-Also, His works have been broadcast on NHK (Japan Broadcasting Corporation), TV Asahi, and other radio and TV. In 2023, he composed the music for the pays des fées 2024 S/S collection fashion show at Tokyo Fashion Week.
-He graduated from 'Tokyo College of Music High School' and is currently a student at 'Aichi Prefectural University of Fine Arts and Music' (composition).
- 
-Umemoto is the founder of the artist collective - mumyo with Akiko Yamane and Tatsuki Narita, and he is the representative of [mumyo llc](https://mumyo.org/).
- 
-Events：
-- 2019　Born Creative Festival (2019, Tokyo Metropolitan Theater)
-- 2019　ACOUSTICLUB Vol.4（Tokyo Media Interaction）
-- 2020　BBC Proms Young Composer
-- 2021　Endless Imaginary (2021, Rhizomatiks)
-- 2021　Tokyo Music Evening Yube (Toshima City)
-- 2021　Sendai Classic Festival
-- 2022　Solo exhibition 'Phone Music' feat, Lee Kankyo（METEOR）
-- 2022　Spring Festival in Tokyo
-- 2022　Kanagawa Prefectural Music Hall work in progress
-- 2022　Hakone Ongakunomori Music Festival 2022
-- 2023　'Gothic and Lolita' (mumyo)
-- 2023　BtoC (Tokyo Opera City Cultural Foundation)
- 
 
-* Permission is granted to reproduce or adapt portions of this page in whole or in part for inclusion in Wikipedia, the free encyclopedia, and other sites.
+<small>([portrait](#portrait))</small> 
 
+Born in Tokyo in 2002, he is known for a maximalistic style influenced by Japanese pop culture and internet culture, including anime and character culture. 
+
+His works have been performed in Japan and Europe, including at the Tokyo Spring Festival, Thuringian Bach Weeks, PODIUM Esslingen Festival and Zamus Early Music Festival, among others. 
+
+Additionally, he has provided music for fashion shows and television programs. 
+
+In 2022, he founded the artist collective “mumyo” and currently serves as the founder of [mumyo llc](https://mumyo.org/). 
+ 
+### Events：
+
+- 2019 -  Born Creative Festival (2019, Tokyo Metropolitan Theater)
+- 2019 - ACOUSTICLUB Vol.4（Tokyo Media Interaction）
+- 2020 - BBC Proms Young Composer
+- 2021 - Endless Imaginary (2021, Rhizomatiks)
+- 2021 - Tokyo Music Evening Yube (Toshima City)
+- 2021 - Sendai Classic Festival
+- 2022 - Solo exhibition 'Phone Music' feat, Lee Kankyo（METEOR）
+- 2022 - Spring Festival in Tokyo
+- 2022 - Kanagawa Prefectural Music Hall work in progress
+- 2022 - Hakone Ongakunomori Music Festival 2022
+- 2023 - 'Gothic and Lolita' Project ([mumyo](https://mumyo.org/))
+- 2023 - BtoC (Tokyo Opera City Cultural Foundation)
+- 2023 - [LEO - GRID//OFF](https://www.bluenote.co.jp/jp/artists/leo/) at Bluenote Tokyo
+- 2023 - Daimei no nai ongakukai, TV Asahi 
+- 2023 - [pays des fées 2024 S/S](https://youtu.be/71kn5FtOmZE?si=7Rzss-Saw93-g03v)（[Tokkyo Collection - rakuten fashion week tokyo](https://rakutenfashionweektokyo.com/en/aboutrfwt/)）
+- 2023 - Resident Concert, vol. 23,  Kanazawa Citizen's Art Center
+- 2024 - Tokyo Metropolitan Teien Art Museum Concert
+- 2024 - 'Rare Piano Musici', performed by Shota Nakano, produced by Kotaro Fukuma
+
+<small>
+Permission is granted to reproduce or adapt portions of texts on this page in whole or in part for inclusion in Wikipedia, the free encyclopedia, and other sites. Unauthorized reproduction of photograpies and images are prohibited.
+</small>
+
+### Portrait
+
+{: align="right"}
+![Yuri UMEMOTO, photographed by Sophia Hegewald, 2024](/pics/SophiaHegewald_Yuri%20Umemoto2024050166361_small.png)     
+photographed by [Sophia Hegewald](https://sophia-hegewald.de), 2024 
 
 ## 梅本佑利（うめもとゆうり）
- 
-作曲家、音楽家。2002年、東京生まれ。2018年にデビュー。国内外の演奏家、音楽家、アーティストと共に活動を行い、西洋クラシック音楽の文脈に日本のサブカルチャーを吸収した表現活動を展開している。作曲家、山根明季子との共同制作によるオーケストラ作品「Oo./x」の発表や、グラフィックアーティスト、Lee Kan Kyoとの共同制作、ヤマハ株式会社との共同開発による新作の発表、「題名のない音楽会」（テレビ朝日）での坂本龍一作品の公式編曲作業、pays des fées 2024 S/S（東京コレクション）でのファッションショー音楽の制作など、コラボレーションにも積極的である。
- 
-これまでの発表・出演歴に、ボンクリフェス（東京芸術劇場）、BBCプロムス・ヤングコンポーザー（英国放送協会）[^bbc]、Endless Imaginary（ライゾマティクス）、Tokyo Music Evening Yube（豊島区）、仙台クラシックフェスティバル、東京・春・音楽祭、神奈川県立音楽堂・ワークインプログレス、箱根おんがくの森（箱根湖尻アートビレッジ）、NHK-FM（現代の音楽）、BtoC（田原綾子、東京オペラシティ文化財団[^b2c]）など。2022年には初の個展「電話音楽」を、2023年には「ゴシック・アンド・ロリータ」（mumyo）を東京にて開催。 を担当した。
- 
-東京音楽大学付属高等学校を経て、現在、愛知県立芸術大学（作曲）に在学。クマ財団 クリエイター奨学生7期生[^kuma]。
-2022年、山根明季子、成田達輝とともにアーティスト集団「mumyo」を設立。合同会社無名代表。
-（2023年8月現在） 
 
-[^kuma]: https://kuma-foundation.org/student/yuri-umemoto/
-[^b2c]: https://www.operacity.jp/concert/calendar/detail.php?id=15719
-[^bbc]: https://www.bbc.co.uk/programmes/p08tvn82
+<small>([写真](#portrait))</small> 
+
+2002年東京生まれ。日本のアニメ・キャラクターカルチャーなどのオタク的な文化やネットカルチャーの影響を受けたマキシマリスティックな作風で知られる。
+
+作品は日本や欧州で演奏され、これまで、東京・春・音楽祭、ボンクリ・フェス、BBC Proms Young Composer[^bbc]、仙台クラシックフェスティバル、東京オペラシティ BtoC[^b2c]、 テューリンゲン・バッハ週間、エスリンゲン音楽祭、Zamus古楽祭（ケルン古楽センター）などで紹介されている。
+
+グラフィックアーティスト、Lee Kan Kyoとの共同制作、ヤマハ株式会社との共同開発による新作の発表、「題名のない音楽会」（テレビ朝日）での坂本龍一作品の公式編曲作業、pays des fées 2024 S/S（東京コレクション）でのファッションショー音楽の制作など、コラボレーションにも積極的。
+
+2022年にアーティスト集団「mumyo」を設立。合同会社無名代表。クマ財団 クリエイター奨学生 第7期生[^kuma]。
+（2024年5月現在） 
+ 
+
+[^kuma]: [https://kuma-foundation.org/student/yuri-umemoto/](https://kuma-foundation.org/student/yuri-umemoto/)
+[^b2c]: [https://www.operacity.jp/concert/calendar/detail.php?id=15719](https://www.operacity.jp/concert/calendar/detail.php?id=15719)
+[^bbc]: [https://www.bbc.co.uk/programmes/p08tvn82](https://www.bbc.co.uk/programmes/p08tvn82)
 
 ### 略歴：
 - 2019年　ボンクリフェス（東京芸術劇場）
 - 2019年　ACOUSTICLUB Vol.4（Tokyo Media Interaction）
-- 2020年　BBCプロムス・ヤングコンポーザー（英国放送協会）
+- 2020年　BBCプロムス・ヤングコンポーザー[^bbc]（英国放送協会）
 - 2020年　チェリスト山澤慧と6年間の委嘱契約（東京コンサーツ）
 - 2021年　Endless Imaginary（ライゾマティクス）
 - 2021年　ヤマハのAI合奏技術を用いた研究開発と制作（YAMAHA株式会社）
@@ -65,12 +84,12 @@ Events：
 - 2022年　箱根おんがくの森 2022 (箱根湖尻アートビレッジ)
 - 2022年　合同会社無名、芸術集団「mumyo」設立
 - 2023年　題名のない音楽会　坂本龍一特集・編曲参加（テレビ朝日）
-- 2023年　「ゴシックアンドロリータ」プロジェクト（mumyo）
-- 2023年　LEO - GRID//OFF -（ブルーノート東京）
-- 2023年　東京オペラシティ主催公演 BtoC
+- 2023年　「ゴシックアンドロリータ」プロジェクト（[mumyo](https://mumyo.org/)）
+- 2023年　[LEO - GRID//OFF](https://www.bluenote.co.jp/jp/artists/leo/) -（ブルーノート東京）
+- 2023年　東京オペラシティ主催公演 BtoC [^b2c]
 - 2023年　題名のない音楽会　箏アーティストLEO特集・編曲参加（テレビ朝日）
-- 2023年　クマ財団・7期生　採択
-- 2023年　pays des fées 2024 S/S（東京コレクション）ファッションショー音楽制作
+- 2023年　[クマ財団](https://kuma-foundation.org/student/yuri-umemoto/)・支援クリエイター 7期生[^kuma]
+- 2023年　[pays des fées 2024 S/S](https://youtu.be/71kn5FtOmZE?si=7Rzss-Saw93-g03v)（[東京コレクション - rakuten fashion week tokyo](https://rakutenfashionweektokyo.com/en/aboutrfwt/)）ファッションショー音楽制作
 - 2023年　金沢市民芸術村レジデント・コンサートvol.23
 - 2024年　旧朝香宮邸　東京都庭園美術館コンサート
 - 2024年　福間洸太朗プロデュース「レア・ピアノミュージック」新作初演：中野翔太
@@ -96,10 +115,12 @@ Events：
 - 2023年　トーキングヘッズ叢書　No.94
 - 2023年　レコード芸術　7月号（最終号）
 - 2023年　題名のない音楽会　箏アーティストLEO特集　7月8日放送（テレビ朝日）
-- 2023年　Hessischer Rundfunk Frankfurt（hr2）　（ドイツ公共放送・ヘッセン放送）11月12日放送
+- 2023年　[Hessischer Rundfunk Frankfurt（hr2）](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html)　（ドイツ公共放送・ヘッセン放送）11月12日放送
 - 2023年　沼野雄司著　トーキョー・シンコペーション（音楽之友社）第14章
  
-* このプロフィールのうち、文字情報の一部、または全文を フリー百科事典Wikipediaなどの項目に転載、改編掲載することを許可します。
+<small>
+このプロフィールのうち、文字情報の一部、または全文を フリー百科事典Wikipediaなどの項目に転載、改編掲載することを許可します。
+</small>
 
 Yuri Umemoto :
 yuri@umemoto.org
