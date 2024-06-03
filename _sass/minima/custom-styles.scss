@@ -99,7 +99,10 @@ a:hover { color: #111111; text-decoration: underline; }
 
 .contact-list, .social-media-list, .pagination { list-style: none; margin-left: 0; }
 
-.footer-col-wrapper, .social-links { font-size: 0.9375rem; color: #c0c0c0; }
+.footer-col-wrapper, .social-links {
+	font-size: 0.9375rem;
+	color: #1111FF;
+}
 
 .footer-col { margin-bottom: 15px; }
 

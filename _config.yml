@@ -13,6 +13,7 @@ pagenate_path: "/page/page:num/"
 
 permalink: /:year/:month/:day/:title.html
 
+timezone: Asia/Tokyo
 
 title: Yuri UMEMOTO
 logo: /pics/patapata.gif
