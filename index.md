@@ -3,13 +3,15 @@ layout: home
 ###title: Yuri Umemoto
 ---
 
-**梅本佑利** 
+**梅本佑利**　<br>
 composer, musician, producer
- 
-[X (Twitter), Instagram etc.](https://linktr.ee/yuriumemoto)
-[Works in chronological order](/works/)
-[mumyo llc](https://mumyo.org/)
- 
-**Scores & Sheet Music:**
-Digital scores are available to buy: [Click here for details](/score). 
- [Official Online Shop](https://umemoto.square.site/)
+　<br>　<br>
+[about me](/about-me)&emsp;[経歴](/about-me-jpn)&emsp;[works](/works/)&emsp;[YouTube](https://www.youtube.com/@YuriUmemoto)&emsp;[X (Twitter), Instagram...](https://linktr.ee/yuriumemoto)&emsp;[mumyo llc](https://mumyo.org/)
+<br>　<br>
+##### **scores:**
+digital scores are available to buy:　<br>
+[click here for details](/score).
+　<br>　<br>
+##### **merch**
+[official online shop](https://umemoto.square.site/)
+　<br>　<br>　<br>　<br>　<br>　<br>
