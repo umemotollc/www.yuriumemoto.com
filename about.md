@@ -3,11 +3,10 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
-* Japanese follows English. 日本語は英語の後に記載。  
+  
 [ENG] / [日本語](#梅本佑利うめもとゆうり)
 
-## Yuri Umemoto 
+#### Yuri Umemoto 
 
 <small>([portrait](#portrait))</small> 
 
@@ -19,7 +18,7 @@ Additionally, he has provided music for fashion shows and television programs.
 
 In 2022, he founded the artist collective “mumyo” and currently serves as the founder of [mumyo llc](https://mumyo.org/). 
  
-### Events：
+#### Events：
 
 - 2019 -  Born Creative Festival (2019, Tokyo Metropolitan Theater)
 - 2019 - ACOUSTICLUB Vol.4（Tokyo Media Interaction）
@@ -44,15 +43,12 @@ In 2022, he founded the artist collective “mumyo” and currently serves as th
 Permission is granted to reproduce or adapt portions of texts on this page in whole or in part for inclusion in Wikipedia, the free encyclopedia, and other sites. Unauthorized reproduction of photograpies and images are prohibited.
 </small>
 
-### Portrait
+##### Portrait
 
-{: align="right"}
-![Yuri UMEMOTO, photographed by Sophia Hegewald, 2024](/pics/SophiaHegewald_Yuri%20Umemoto2024050166361_small.png)     
+![Yuri UMEMOTO, photo by Sophia Hegewald, 2024](/pics/SophiaHegewald_Yuri%20Umemoto2024050166361_small.png)     
 photographed by [Sophia Hegewald](https://sophia-hegewald.de), 2024 
 
-## 梅本佑利（うめもとゆうり）
-
-<small>([写真](#portrait))</small> 
+#### 梅本佑利（うめもとゆうり）
 
 2002年東京生まれ。日本のアニメ・キャラクターカルチャーなどのオタク的な文化やネットカルチャーの影響を受けたマキシマリスティックな作風で知られる。
 
@@ -63,12 +59,11 @@ photographed by [Sophia Hegewald](https://sophia-hegewald.de), 2024
 2022年にアーティスト集団「mumyo」を設立。合同会社無名代表。クマ財団 クリエイター奨学生 第7期生[^kuma]。
 （2024年5月現在） 
  
-
 [^kuma]: [https://kuma-foundation.org/student/yuri-umemoto/](https://kuma-foundation.org/student/yuri-umemoto/)
 [^b2c]: [https://www.operacity.jp/concert/calendar/detail.php?id=15719](https://www.operacity.jp/concert/calendar/detail.php?id=15719)
 [^bbc]: [https://www.bbc.co.uk/programmes/p08tvn82](https://www.bbc.co.uk/programmes/p08tvn82)
 
-### 略歴：
+##### 略歴：
 - 2019年　ボンクリフェス（東京芸術劇場）
 - 2019年　ACOUSTICLUB Vol.4（Tokyo Media Interaction）
 - 2020年　BBCプロムス・ヤングコンポーザー[^bbc]（英国放送協会）
@@ -97,7 +92,7 @@ photographed by [Sophia Hegewald](https://sophia-hegewald.de), 2024
 - 2024年　テューリンゲン・バッハ週間（ドイツ・テューリンゲン州、Bachhaus）
 - 2024年　PODIUM Festival （Podium Esslingen, ドイツ・シュトゥットガルト県）
  
-### ラジオ・テレビ・新聞・雑誌・メディアなど：
+##### ラジオ・テレビ・新聞・雑誌・メディアなど：
 - 2020年　MOSTLY CLASSIC（産経新聞社）9月号
 - 2021年　中日新聞　12月7日 夕刊
 - 2021年　朝日新聞（愛知版）　12月8日 夕刊
