@@ -15,9 +15,10 @@ permalink: /:year/:month/:day/:title.html
 
 timezone: Asia/Tokyo
 
-title: Yuri UMEMOTO
+title: Yuri Umemoto
 logo: /pics/patapata.gif
-description:   Umemoto Yuri's official site. 
+description: Yuri Umemoto official website
+© Yuri Umemoto / Umemoto LLC, All Rights Reserved.
 show_downloads: false
 ##google_analytics:
 theme: minima
