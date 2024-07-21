@@ -72,7 +72,9 @@ for piano and fixed media
 
 for viola
 
-performed by Ayako Tahara
+JASRAC: 294-5425-5 
+
+first performed by Ayako Tahara
 
 ##### [Anime Phenomenological Reduction](/apr/ "Anime Phenomenological Reduction for choir") (2023)
 
@@ -90,6 +92,8 @@ arranged by Yuri Umemoto and Akiko Yamane
 
 for violin
 
+JASRAC: 282-9232-4
+
 Encore piece for "Gothic and Lolita" on April 2, 2023 in BUoY, Tokyo.
 
 Performed by Tatsuki Narita / 成田達輝
@@ -97,4 +101,6 @@ Performed by Tatsuki Narita / 成田達輝
 ##### [What the hell are you doing?!](/wthayd/ "Yuri Umemoto - What the hell are you doing?!") (2023)
 
 for violin(or any instrument) and video
+
+JASRAC: 283-3177-0  
 
