@@ -33,11 +33,12 @@ In 2022, he founded the artist collective “mumyo” and currently serves as th
 - 2023 - 'Gothic and Lolita' Project ([mumyo](https://mumyo.org/))
 - 2023 - BtoC (Tokyo Opera City Cultural Foundation)
 - 2023 - [LEO - GRID//OFF](https://www.bluenote.co.jp/jp/artists/leo/) at Bluenote Tokyo
-- 2023 - Daimei no nai ongakukai, TV Asahi 
+- 2023 - Daimei no nai ongakukai, TV Asahi Broadcasting
 - 2023 - [pays des fées 2024 S/S](https://youtu.be/71kn5FtOmZE?si=7Rzss-Saw93-g03v)（[Tokkyo Collection - rakuten fashion week tokyo](https://rakutenfashionweektokyo.com/en/aboutrfwt/)）
 - 2023 - Resident Concert, vol. 23,  Kanazawa Citizen's Art Center
 - 2024 - Tokyo Metropolitan Teien Art Museum Concert
 - 2024 - 'Rare Piano Musici', performed by Shota Nakano, produced by Kotaro Fukuma
+- 2024 - ['Orchestra Remix: Classic Meets Hip-Hop'](https://ppt.or.jp/concerts/%e4%ba%a4%e9%9f%bf%e3%83%a9%e3%83%83%e3%83%97-%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%81%a8%e3%83%a9%e3%83%83%e3%83%97%e3%81%8c%e6%8c%91%e3%82%80%e6%9c%aa%e7%9f%a5%e3%81%ae%e9%a0%98%e5%9f%9f/), performed by [DOTAMA](http://dotamatica.com) and [HUNGER (GAGLE)](https://gagle-official.com), with [Pacific Philparminia Tokyo](https://ppt.or.jp) at Suntory Hall, Tokyo. 
 
 <small>
 Permission is granted to reproduce or adapt portions of texts on this page in whole or in part for inclusion in Wikipedia, the free encyclopedia, and other sites. Unauthorized reproduction of photograpies and images are prohibited.
@@ -56,8 +57,8 @@ photographed by [Sophia Hegewald](https://sophia-hegewald.de), 2024
 
 グラフィックアーティスト、Lee Kan Kyoとの共同制作、ヤマハ株式会社との共同開発による新作の発表、「題名のない音楽会」（テレビ朝日）での坂本龍一作品の公式編曲作業、pays des fées 2024 S/S（東京コレクション）でのファッションショー音楽の制作など、コラボレーションにも積極的。
 
-2022年にアーティスト集団「mumyo」を設立。合同会社無名代表。クマ財団 クリエイター奨学生 第7期生[^kuma]。
-（2024年5月現在） 
+2022年にアーティスト集団「mumyo」を設立。合同会社無名代表。クマ財団 クリエイター奨学生 第7-8期生[^kuma]。
+（2024年7月現在） 
  
 [^kuma]: [https://kuma-foundation.org/student/yuri-umemoto/](https://kuma-foundation.org/student/yuri-umemoto/)
 [^b2c]: [https://www.operacity.jp/concert/calendar/detail.php?id=15719](https://www.operacity.jp/concert/calendar/detail.php?id=15719)
@@ -91,6 +92,8 @@ photographed by [Sophia Hegewald](https://sophia-hegewald.de), 2024
 - 2024年　ル・フレノワ（フランス）国立現代芸術スタジオにて滞在制作
 - 2024年　テューリンゲン・バッハ週間（ドイツ・テューリンゲン州、Bachhaus）
 - 2024年　PODIUM Festival （Podium Esslingen, ドイツ・シュトゥットガルト県）
+- 2024年　[クマ財団](https://kuma-foundation.org/student/yuri-umemoto/)・支援クリエイター 8期生[^kuma]
+- 2024年　サントリーホール　[パシフィックフィルハーモニア東京『交響ラップ』](https://ppt.or.jp/concerts/%e4%ba%a4%e9%9f%bf%e3%83%a9%e3%83%83%e3%83%97-%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%81%a8%e3%83%a9%e3%83%83%e3%83%97%e3%81%8c%e6%8c%91%e3%82%80%e6%9c%aa%e7%9f%a5%e3%81%ae%e9%a0%98%e5%9f%9f/) -- 「MCバトルのための、スーパー・サンプリング クラシック・ボム」, (MC) [DOTAMA](http://dotamatica.com), (MC) [HUNGER (GAGLE)](https://gagle-official.com) 
  
 ##### ラジオ・テレビ・新聞・雑誌・メディアなど：
 - 2020年　MOSTLY CLASSIC（産経新聞社）9月号
@@ -112,6 +115,8 @@ photographed by [Sophia Hegewald](https://sophia-hegewald.de), 2024
 - 2023年　題名のない音楽会　箏アーティストLEO特集　7月8日放送（テレビ朝日）
 - 2023年　[Hessischer Rundfunk Frankfurt（hr2）](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html)　（ドイツ公共放送・ヘッセン放送）11月12日放送
 - 2023年　沼野雄司著　トーキョー・シンコペーション（音楽之友社）第14章
+- 2024年　サントリー芸術財団 [『日本の作曲　2020−2022年』](https://www.suntory.co.jp/sfa/music/publication/)
+- 2024年　[中日新聞 7月11日](https://www.chunichi.co.jp/article/924718)
  
 <small>
 このプロフィールのうち、文字情報の一部、または全文を フリー百科事典Wikipediaなどの項目に転載、改編掲載することを許可します。
