@@ -20,6 +20,6 @@ To place your order,  please send your message to **yuri@umemoto.org**.
 **[STUDY SCORES]**
 
 If you're a younger student than I am*, studying music academically and wish to study the score, I am happy to offer it to you for free. 
-*) Anyone born on or before April 23, 2002.
+*) Anyone born on or after April 23, 2002.
 
 If needed, please provide 1. your name, 2. intended use, 3. school name, and 4. the score you would like, and send it to my email address: **yuri@umemoto.org**
