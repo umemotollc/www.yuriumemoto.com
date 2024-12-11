@@ -25,10 +25,10 @@ theme: minima
 
 minima:
  date_format: "%-d %b %Y (%Y年 %m月 %d日)"
- social_links:
-  - {platform: twitter, user_url: "https://x.com/yuriumemoto"}
-  - {platform: youtube, user_url: "https://www.youtube.com/c/YuriUmemoto"}
-  - {platform: instagram, user_url: "https://www.instagram.com/yuri_umemoto"}
+## social_links:
+##  - {platform: twitter, user_url: "https://x.com/yuriumemoto"}
+##  - {platform: youtube, user_url: "https://www.youtube.com/c/YuriUmemoto"}
+##  - {platform: instagram, user_url: "https://www.instagram.com/yuri_umemoto"}
 
 author:
  name: Yuri Umemoto, UMEMOTO LLC
