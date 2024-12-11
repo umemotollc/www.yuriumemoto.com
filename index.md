@@ -4,7 +4,7 @@ layout: home
 ---
 
 梅本佑利<br>
-composer, musician, producer
+composer
 　<br>　<br>
 [about me](/about-me)&emsp;
 [経歴](/about-me-jpn)&emsp;
@@ -13,3 +13,4 @@ composer, musician, producer
 [X, Instagram...](https://linktr.ee/yuriumemoto)&emsp;
 [digital scores](/score)&emsp;
 [merchandise](https://umemoto.square.site/)
+
