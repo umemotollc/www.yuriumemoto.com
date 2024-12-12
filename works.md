@@ -4,7 +4,7 @@ category: page
 permalink: works/
 ---
 
-([collaborations](#anchor1))
+(small/)([collaborations](#anchor1))
 
 **shopping mall in landfill**
 for tenor saxophone (2024)
@@ -130,10 +130,10 @@ for guitar (2018)
 
 ****collaborations****  
 
-**2024** | Completed a residency at [Le Fresnoy](https://www.lefresnoy.net/en/), National Studio for Contemporary Arts in France, and produced the soundtrack for an installation by [Chayarat Ritaram](https://www.lefresnoy.net/en/ecole/etudiant/607/).  
+**2024**: Completed a residency at [Le Fresnoy](https://www.lefresnoy.net/en/), National Studio for Contemporary Arts in France, and produced the soundtrack for an installation by [Chayarat Ritaram](https://www.lefresnoy.net/en/ecole/etudiant/607/).  
 
-**2024** | Composed music for the [pays des fées](https://www.pays-des-fees.com/) 2024 S/S show during [Tokyo Fashion Week](https://rakutenfashionweektokyo.com/en/).  
+**2024**: Composed music for the [pays des fées](https://www.pays-des-fees.com/) 2024 S/S show during [Tokyo Fashion Week](https://rakutenfashionweektokyo.com/en/).  
 
-**2023** | Arranged music by [Ryuichi Sakamoto](https://www.sitesakamoto.com/biography) for a TV Asahi program.  
+**2023**: Arranged music by [Ryuichi Sakamoto](https://www.sitesakamoto.com/biography) for a TV Asahi program.  
 
-**2022** | Collaborated with [Lee Kan Kyo](https://leekankyo.com/bio) to create a painting series.  
+**2022**: Collaborated with [Lee Kan Kyo](https://leekankyo.com/bio) to create a painting series.  
