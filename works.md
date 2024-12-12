@@ -128,7 +128,7 @@ for guitar (2018)
 
 <a id="anchor1"></a>
 
-****collaborations****  
+**collaborations**  
 
 **2024**: Completed a residency at [Le Fresnoy](https://www.lefresnoy.net/en/), National Studio for Contemporary Arts in France, and produced the soundtrack for an installation by [Chayarat Ritaram](https://www.lefresnoy.net/en/ecole/etudiant/607/).  
 
