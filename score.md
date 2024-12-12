@@ -17,7 +17,7 @@ To place your order,  please send your message to **yuri@umemoto.org**.
  - Digital score (in pdf) and audio tracks for practice will be provided for Works for live instruments with fixed media.
 
 
-**[Study Scores]**
+**[study scores]**
 
 If you're a younger student than I am*, studying music and wish to study the score, I am happy to offer it to you for free. 
 *) Anyone born on or after April 23, 2002.
