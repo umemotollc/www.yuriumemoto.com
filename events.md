@@ -71,6 +71,7 @@ Performed by Yoshiko Hannya
 Performed by Luís Miguel Leite  
 
 **AUGUST 29, 2023** | Tokyo, Japan @ Rakuten Fashion Week TOKYO / pays des fées 2024 S/S  
+*music for fashion show  
 
 **JUNE 13, 2023** | Tokyo, Japan @ Tokyo Opera City / B→C  
 *Dempa-chan never dies♡* for viola  
