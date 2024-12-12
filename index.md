@@ -10,7 +10,8 @@ composer
 [works](/works/)&emsp;
 [events](/events/)&emsp;
 [YouTube](https://www.youtube.com/@YuriUmemoto)&emsp;
-[Instagram, X...](https://linktr.ee/yuriumemoto)&emsp;
+[Instagram](https://www.instagram.com/yuri_umemoto)&emsp;
+[X](https://x.com/yuriumemoto)&emsp;
 [scores](/scores)&emsp;
 [merchandise](https://umemoto.square.site/)
 
