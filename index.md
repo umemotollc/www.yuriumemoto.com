@@ -8,6 +8,7 @@ composer
 　<br>　<br>
 [about](/about)&emsp;
 [works](/works/)&emsp;
+[events](/events/)&emsp;
 [YouTube](https://www.youtube.com/@YuriUmemoto)&emsp;
 [Instagram, X...](https://linktr.ee/yuriumemoto)&emsp;
 [scores](/scores)&emsp;
