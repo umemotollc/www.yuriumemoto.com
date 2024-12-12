@@ -4,7 +4,7 @@ category: page
 permalink: works/
 ---
 
-(small/)([collaborations](#anchor1))
+<small>([collaborations](#anchor1))</small>
 
 **shopping mall in landfill**
 for tenor saxophone (2024)
