@@ -6,11 +6,10 @@ layout: home
 梅本佑利<br>
 composer
 　<br>　<br>
-[about me](/about-me)&emsp;
-[経歴](/about-me-jpn)&emsp;
+[about](/about-me)&emsp;
 [works](/works/)&emsp;
 [YouTube](https://www.youtube.com/@YuriUmemoto)&emsp;
-[X, Instagram...](https://linktr.ee/yuriumemoto)&emsp;
-[digital scores](/score)&emsp;
+[Instagram, X...](https://linktr.ee/yuriumemoto)&emsp;
+[scores](/score)&emsp;
 [merchandise](https://umemoto.square.site/)
 
