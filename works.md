@@ -1,5 +1,5 @@
 ---
-title: Works
+title: works
 category: page
 permalink: works/
 ---
