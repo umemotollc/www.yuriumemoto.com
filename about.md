@@ -8,4 +8,4 @@ Yuri Umemoto, born in Tokyo in 2002, is a composer whose works go beyond traditi
 
 His works have been performed by various ensembles, orchestras, and soloists internationally, and have been prominently featured in festivals such as the Thuringian Bach Festival, PODIUM Esslingen, zamus: early music festival, and the Köthen Bach Festival.  
 
-<small>([portrait](https://sophia-hegewald.de/yuri-umemoto-komponist))</small>  
+<small>([portraits by Sophia Hegewald](https://sophia-hegewald.de/yuri-umemoto-komponist))</small>  
