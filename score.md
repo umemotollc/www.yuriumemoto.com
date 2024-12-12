@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Score and Sheet Music
-permalink: score
+title: scores
+permalink: scores
 ---
 
 Digital scores are available to buy. 
