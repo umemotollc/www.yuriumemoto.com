@@ -4,103 +4,120 @@ category: page
 permalink: works/
 ---
 
-- [2018-2019](/works 2018-2019)
-- [2020](/works 2020)
-- [2021](/works 2021)
-- [2022](/works 2022)
+**shopping mall in landfill**
+for tenor saxophone (2024)
 
-# 2023
+**look at me, senpai**
+for violin, cello and fixed media (2024)
 
-##### [Overwritten Girl - “good night.”](/kumaexhibition/ "3 video music works by Yuri Umemoto for Exhibition as the 7th fellow of the Kuma Foundation") (2023)
+**typing on the keyboard, i feel so small.**
+for harpsichord (2024)
 
-for video
+**I don't love you...Senpai.**
+for snare drum and electronics (2024)
 
-Exhibition as the 7th fellow of the Kuma Foundation  
-[KUMA experiment 2023-24 vol.2 "ASTERISM (⁂)"](https://kuma-foundation.org/gallery/information/9920/ "https://kuma-foundation.org/gallery/information/9920/")
+**Overwritten Girl - “Overwriting Overwritten Girl”**
+videogram (2023)
 
-##### [Overwritten Girl - “Overwriting Overwriten Girl”](/kumaexhibition/ "3 video music works by Yuri Umemoto for Exhibition as the 7th fellow of the Kuma Foundation")  (2023)
+**Overwritten Girl - “good night.”**
+videogram (2023)
 
-for video
+**Song of the Data Angel**
+videogram (2023)
 
-Exhibition as the 7th fellow of the Kuma Foundation
+**barrage▂▃▅▆▇▂▃▅゚∀゚)ノ゚∀゚)ノ∀゚)ノ゚)ノ)ノ━━━rrrっ!!**
+for piano and fixed media (2023)
 
-[KUMA experiment 2023-24 vol.2 "ASTERISM (⁂)"](https://kuma-foundation.org/gallery/information/9920/ "https://kuma-foundation.org/gallery/information/9920/")
+**Dempa-chan never dies♡**
+for any instrument(s) (2023)
+versions for viola or piano
 
-##### [Song of the Data Angel](/kumaexhibition/ "3 video music works by Yuri Umemoto for Exhibition as the 7th fellow of the Kuma Foundation") (2023)
+**will i never understand falling in love?**
+song (2023)
 
-for video
+**Endless Haruhi Scale**
+videogram (2023)
 
-Exhibition as the 7th fellow of the Kuma Foundation
+**but...you're a minor, right?**
+for piano and fixed media (2023)
 
-[KUMA experiment 2023-24 vol.2 "ASTERISM (⁂)"](https://kuma-foundation.org/gallery/information/9920/ "https://kuma-foundation.org/gallery/information/9920/")
+**Anime Phenomenological Reduction**
+for voices (2023)
 
-##### [will i never understand falling in love?](/2023/09/25/yuri-umemoto-will-i-never-understand-falling-in-love-2023/ "Yuri Umemoto - will i never understand falling in love? (2023)") (2023)
+**i'm scared of dying. what do i do?**
+for violin (2023) 
 
-for voice or any instrument
+**Copy and paste, mass produced/consumed irregular/imperfectly shaped plastic pearls and Me.**
+for violin (2023) 
 
-##### [I Languish and Die](/ilad/ "I Languish and Die") (2023)
+**Embellish Me!**
+for violin (2023) 
 
-for trumpet and piano
+**Alice in Abandoned Akihabara No.1, No.2**
+for violin (2023) 
 
-a jazz arrangement by Yuri Umemoto based on Carlo Gesualdo's 5-voice madrigal "Languisco e moro."
+**Melt Me!**
+for violin (2023)
 
-##### [Music for "pays des fées" 2024 S/S](/2024ss/ "Yuri Umemoto - Music for "pays des fées" 2024 S/S at Tokyo Fashion Week") (2023)
+**What the hell are you doing?!**
+videogram (2023)
 
-at Tokyo Fashion Week
+**Moe²Girl No.2**
+for any instrument(s) and fixed media (2022)
+versions for piano, violin, cello, or violin-cello
 
-##### [aug.hocket](/ah/ "Yuri Umemoto - aug.hocket (2023)") (2023)
+**Moe²Girl**
+for any instrument(s) and fixed media (2022)
+versions for piano, violin, cello, or violin-cello
 
-for cello
+**Plastic Vagina**
+for violin (2022)
 
-performed by Kei Yamazawa
+**DEVILBOY**
+for violin and Disklavier™ (2021)
+A collaborative project with Yamaha Corporation: A piece for Disklavier™ (a reproducing piano) and violin utilizing AI Music Ensemble Technology.
 
-##### [Endless Haruhi Scale](/ehs/ "Yuri Umemoto - Endless Haruhi Scale (2023)") (2023)
+**Tagging**
+for Cadenza, Mozart Violin Concerto No.3 (2021) 
 
-エンドレス・ハルヒ・スケール
+**Super Grape!**
+for violin (2021)
 
-for video
+**050-5445-5449**
+Lion Exterminator Saint-Saëns
+for MOH (music on hold) (2022)
 
-#####  [but you're a minor, right?](/bymr/ "Yuri Umemoto - "but...you're a minor, right?" for piano (2023)") (2023)
+**050-5445-5448**
+Plumber Franz Liszt
+for MOH (music on hold) (2022)
 
-でも、未成年でしょ？
+**050-5857-9289**
+Locksmith Josef Strauss
+for IVR (interactive voice response) (2022)
 
-for piano and fixed media
+**MOMOMOMOMOEMOE♡**
+for violin (2021)
 
-#####  [Dempa-chan never dies♡](/dnd/ "Yuri Umemoto - Dempa-chan never dies♡ (2023) for viola") (2023)
+**SUPERBACHBOY 3**
+for cello and electronics (2021)
 
-[電波ちゃんは死なない ♡](/dnd/ "Yuri Umemoto - Dempa-chan never dies♡ (2023) for viola")
+**SUPERBACHBOY 2**
+for violin (2021)
 
-for viola
+**SUPERBACHBOY**
+for cello (2020)
 
-JASRAC: 294-5425-5 
+**Oo./x**
+for orchestra (2020)
 
-first performed by Ayako Tahara
+**Piko-ko!**
+for piano (2020)
 
-##### [Anime Phenomenological Reduction](/apr/ "Anime Phenomenological Reduction for choir") (2023)
+**Fluffy Pink!**
+for string quartet (2020)
 
-[アニメ・現象学的還元](/apr/ "Anime Phenomenological Reduction for choir")
+**Dawning**
+for guitar (2019)
 
-for choir (anime voices)
-
-performed by students of Aichi University of the Arts, Faculty of Arts and Music / 愛知県立芸術大学 音楽/美術学部の学生
-
-##### (arrangement)  [Ryuichi Sakamoto - "andata" (piano/organ, violin ver.)](/andata/ "Ryuichi Sakamoto - "andata" (piano/organ, violin ver.) arranged by Yuri Umemoto and Akiko Yamane") (2023)
-
-arranged by Yuri Umemoto and Akiko Yamane
-
-##### [i'm scared of dying. what do i do?](/isodwdid/ "Yuri Umemoto - i'm scared of dying. what do i do? (2023) for violin") (2023)
-
-for violin
-
-JASRAC: 282-9232-4
-
-Encore piece for "Gothic and Lolita" on April 2, 2023 in BUoY, Tokyo.
-
-Performed by Tatsuki Narita / 成田達輝
-
-##### [What the hell are you doing?!](/wthayd/ "Yuri Umemoto - What the hell are you doing?!") (2023)
-
-for violin(or any instrument) and video
-
-JASRAC: 283-3177-0  
-
+**Euangelion**
+for guitar (2018)
