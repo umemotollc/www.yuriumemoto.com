@@ -77,7 +77,7 @@ versions for piano, violin, cello, or violin-cello
 for any instrument(s) and fixed media (2022)
 versions for piano, violin, cello, or violin-cello
 
-**Plastic Vagina**
+**[Plastic Vagina](https://youtu.be/OU8-vKPXb9s?si=Hib1aM1LSv7AmeDw)**
 for violin (2022)
 
 **[DEVILBOY](https://youtu.be/U6eHapViaDw?si=dwIMzNvazbWNY-jz)**
