@@ -4,7 +4,12 @@ category: page
 permalink: works/
 ---
 
-<small>([collaborations](#anchor1))</small>
+<small>[[works](#anchor1)]</small>
+<small>[[collaborations](#anchor2)]</small>
+
+**works**  
+
+<a id="anchor1"></a>
 
 **shopping mall in landfill**
 for tenor saxophone (2024)
@@ -126,7 +131,7 @@ for guitar (2018)
 
  <br> 
 
-<a id="anchor1"></a>
+<a id="anchor2"></a>
 
 **collaborations**  
 
