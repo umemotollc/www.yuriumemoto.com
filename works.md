@@ -143,4 +143,4 @@ for guitar (2018)
 
 **2023**: Arranged music by [Ryuichi Sakamoto](https://www.sitesakamoto.com/biography) for a TV Asahi program.  
 
-**2022**: Collaborated with [Lee Kan Kyo](https://leekankyo.com/bio) to create a [painting series](https://www.instagram.com/p/CZ11HlxJfbo/?img_index=1).  
+**2022**: Collaborated with [Lee Kan Kyo](https://leekankyo.com/) to create a [painting series](https://www.fashionsnap.com/article/leekankyo-interview/#lg=1&slide=11).
