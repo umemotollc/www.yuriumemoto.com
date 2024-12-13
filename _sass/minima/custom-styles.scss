@@ -132,7 +132,7 @@ a:hover { color: #111111; text-decoration: underline; }
   //height: 32px;
 }
 
-.menu-btn{
+.menu-btn {
   top: 20px;
   left: 10px;
   display: flex;
@@ -141,40 +141,17 @@ a:hover { color: #111111; text-decoration: underline; }
   justify-content: center;
   align-items: center;
   z-index: 90;
-  //background-color: #c0c0c0;
+  background-color: transparent; /* 背景色を透明に */
+  background-image: url("{{ '/assets/images/menu-icon.png' | relative_url }}"); /* PNG画像を指定 */
+  background-size: cover; /* 画像をボタンにフィットさせる */
+  background-repeat: no-repeat;
+  cursor: pointer;
 }
-/* three horizonal lines  */
+
 .menu-btn span,
 .menu-btn span:before,
-.menu-btn span:after{
-  content: '';
-  display: block;
-  height: 3px;
-  width: 20px;
-  border-radius: 3px;
-  //background-color: #c0c0c0;
-  position: absolute;
-}
-
-.menu-btn span:before{
-  background-color: #1111ff;
-  bottom: 6px;
-}
-.menu-btn span:after{
-  background-color: #1111ff;
-  top: 6px;
-}
-
-#menu-btn-check:checked ~ .menu-btn span{
-  background-color: rgba( 255, 255, 255, 0 ); 
-}
-#menu-btn-check:checked ~ .menu-btn span::before{
-  bottom: 0;
-  transform: rotate( 45deg ); 
-}
-#menu-btn-check:checked ~ .menu-btn span::after{
-  top: 0;
-  transform: rotate( -45deg ); 
+.menu-btn span:after {
+  display: none; /* 三本線を非表示にする */
 }
 /* hide menu */
 #menu-btn-check{
