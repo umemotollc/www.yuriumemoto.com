@@ -17,7 +17,7 @@ timezone: Asia/Tokyo
 
 title: Yuri Umemoto
 logo: /pics/patapata.gif
-description: Yuri Umemoto (b.2002) is a composer from Tokyo.
+description: Yuri Umemoto (b.2002) is a composer from Tokyo. ©︎ Yuri Umemoto / UMEMOTO LLC
 show_downloads: false
 ##google_analytics:
 theme: minima
@@ -33,7 +33,6 @@ minima:
 author:
  name: Yuri Umemoto, UMEMOTO LLC
  email: yuri@umemoto.org
- © Yuri Umemoto / UMEMOTO LLC, All Rights Reserved.
  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.yuriumemoto.com" # the base hostname & protocol for your site, e.g. http://example.com
