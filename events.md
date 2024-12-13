@@ -87,7 +87,7 @@ Commissioned and performed by Tatsuki Narita
 
 **FEBRUARY 18-27, 2022** | Tokyo, Japan @ [METEOR](https://super-meteor.com/) / Yuri Umemoto 'Phone Music'  
 *050-5445-5449*, *050-5445-5448*, *050-5857-9289*  
-Collaboration with [Lee Kan Kyo](https://leekankyo.com/bio)  
+Collaboration with [Lee Kan Kyo](https://leekankyo.com/)  
 
 **APRIL 2, 2021** | Tokyo, Japan @ Panasonic Center Tokyo / [Endless Imaginary](https://rhizomatiks.com/s/event/endlessimaginary/)  
 Talk event with [Rhizomatiks](https://rhizomatiks.com/)  
