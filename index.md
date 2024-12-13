@@ -13,5 +13,6 @@ composer
 [Instagram](https://www.instagram.com/yuri_umemoto)&emsp;
 [X](https://x.com/yuriumemoto)&emsp;
 [scores](/scores)&emsp;
-[merch](https://umemoto.square.site/)
+[merch](https://umemoto.square.site/)&emsp;
+[contact](/contact)
 
