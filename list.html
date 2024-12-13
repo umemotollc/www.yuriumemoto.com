@@ -1,0 +1,143 @@
+---
+layout: default
+title: List of Works 
+author: Yuri Umemoto
+my_value: type
+---
+
+  <p>
+   {{page.title}} by {{page.author}} / 梅本佑利, 作品および活動 
+  </p>
+  <!-- list.jsのブロック idはlist.jsの呼び出しに使う　HTML末尾のスクリプトで指定している -->
+  <div id="listdata">
+    <div class="form-group row">
+      <label for="keyword">search　検索<span class="alert"> *複数のキーワードも可. </span></label>
+      <div class="col-md-8">
+      <!-- classをsearchにし、list.jsの検索欄に -->
+        <input id="keyword" class="search form-control form-control-lg" placeholder="input keywords" size="50" />
+      </div>
+      <div class="col-md-4">
+      <select id="type" class="form-control form-control-lg onChange="List();">
+        <option value="any"> any works and performances 全ての作品と上演</option>
+        <option value="videogram">videogram 映像作品</option>
+        <option value="composition">composition 作曲</option>
+        <option value="performance">performance 上演</option>
+      </select>
+      </div>
+      <dl>
+        <style>
+            .sort.desc:after {
+              content:"▼";
+            }
+            .sort.asc:after {
+              content:"▲";
+            }
+            </style>
+        <dt>sort</dt>
+        <dd class="sort" data-sort="year"  >by year </dd>
+        <dd class="sort" data-sort="title"  >by title</dd>
+    </dl>
+    
+<script>
+window.addEventListener('load', ()=>{
+  const url = new URL(window.location.href);
+  const q = url.searchParams.get("type");
+  const selectType = document.getElementById('type');
+  selectType.querySelector("option[value=" + q + "]").setAttribute("selected", "selected");
+  //console.log(selectType.value);
+});
+</script>
+
+    </div>
+    <span id="hits"></span>
+    <div class="form-group">
+      <ul class="pagination list-inline"></ul>
+    </div>
+    <br>
+    <ul class="list list-unstyled">
+      {% for item in site.data.works %}
+      <li >
+      <p class="horizon"></p>
+      <dl>
+        <dt class="title"> <B> {{ item.title }} </B> </dt>
+        <dd class="date">{{ item.date }}</dd>
+        <dd class="place">{{ item.place }}</dd>
+        <dd class="for">{{ item.for }}</dd>
+        <dd class="type">{{ item.type }}</dd>
+      {% if item.jasrac %}
+        <dd class="jasrac">JASRAC {{ item.jasrac }}</dd>
+      {% endif %}
+        <dd class="year">{{ item.year }}</dd>
+        <dd class="note">{{ item.note }}</dd>
+      {% if item.url %}
+        <dd class="url"> <a href="{{ item.url }}" target="_new"> {{ item.url }} </a> </dd>
+      {% endif %}
+      </dl>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <hr>
+  <footer>
+    <a href="#top">Back to Top / ページトップへ</a>
+  </footer>
+<!-- list.js スクリプトの記述 -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.fuzzysearch.js/0.1.0/list.fuzzysearch.min.js"></script>
+<script>
+  // fuzzy search設定
+  var fuzzyOptions = {
+  searchClass: "fuzzy-search",
+  location: 0,
+  distance: 100,
+  threshold: 0.4,
+    multiSearch: true
+　};
+  // List.jsの動作パラメータ設定
+  var options = {
+    // 対象とするclass を指定
+    valueNames: ['title', 'for', 'type', 'jasrac', 'year', 'date', 'place', 'note', 'url'],
+    // fuzzy search
+    plugins: [
+      ListFuzzySearch(fuzzyOptions)
+  　],
+    searchDelay: 750,
+    // ページネーション指定 pageはページごとの表示件数
+    page: 20,
+    pagination: {
+      paginationClass: 'pagination',
+      innerWindow: 4,
+      outerWindow: 1,
+    }
+  };
+  // list.jsの対象とする<div>のidを指定
+  var listObj = new List('listdata', options);
+  // iOS対応のため、inputイベントで動作させる。併せてヒット件数を表示させる。
+  $('#keyword').on('input', function() {
+    var searchString = $(this).val();
+    listObj.search(searchString);
+    $('#hits').html(listObj.matchingItems.length + "件ヒットしました");
+  });
+  // フィルター
+ $('#type').change(function() {
+    type = $('option:selected').val();
+    listObj.filter(function(item) {
+      if (type === 'any') {
+        return true;
+      }
+      else if (item.values().type.indexOf(type) > -1) {
+        return true;
+      }
+      else {
+        return false;
+      }
+    });
+    $('#hits').html(listObj.matchingItems.length + "件ヒットしました");
+  });
+  
+</script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+
+* This page references the code from the following URL: <a href="https://github.com/maedaak/listjs_jikyll-test/">https://github.com/maedaak/listjs_jikyll-test/</a>"
+
