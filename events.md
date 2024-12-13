@@ -122,16 +122,16 @@ Performed by Norio Sato
 Long Interview with Yuri Umemoto (梅本佑利) – [Read article](https://www.chunichi.co.jp/article/924718)  
 
 **JUNE 18, 2024** | General-Anzeiger  
-Review of *typing on the keyboard, i feel so small.* – Premiered in Bonn by Elina Albach ([Read review](https://ga.de/news/kultur-und-medien/regional/rueckkehr-zu-bach-mit-elina-albach_aid-114638937))  
+Review of *typing on the keyboard, i feel so small.* – Premiered in Bonn by Elina Albach ([read](https://ga.de/news/kultur-und-medien/regional/rueckkehr-zu-bach-mit-elina-albach_aid-114638937))  
 
 **DECEMBER 25, 2023** | Ongaku no Tomo Sha (音楽之友社)  
-Publication of *Tokyo Syncopation (トーキョー・シンコペーション)* – Chapter 14 focuses on Yuri Umemoto ([Details](https://www.ongakunotomo.co.jp/catalog/detail.php?id=210130))  
+Publication of *Tokyo Syncopation (トーキョー・シンコペーション)* – Chapter 14 focuses on Yuri Umemoto ([details](https://www.ongakunotomo.co.jp/catalog/detail.php?id=210130))  
 
 **NOVEMBER 12, 2023** | Hessischer Rundfunk Frankfurt (hr2)  
 *MOMOMOMOEMOE♡* for violin – Featured on [The Artist’s Corner](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html)  
 
 **SEPTEMBER 8, 2023** | Resonance FM  
-*Moe²Girl* for cello – Featured in a mixtape by [Ben Nobuto](https://www.mixcloud.com/Resonance/the-sampler-mixtape-61-ben-nobuto/)  
+*Moe²Girl* for cello – Featured in a [mixtape by Ben Nobuto](https://www.mixcloud.com/Resonance/the-sampler-mixtape-61-ben-nobuto/)  
 
 **JULY 8, 2023** | TV Asahi  
 *Daimei no Nai Ongaku Kai – Koto Artist LEO Special*  
