@@ -140,13 +140,13 @@ a:hover { color: #111111; text-decoration: underline; }
     width: 32px;
     justify-content: center;
     align-items: center;
-    z-index: 180;
+    z-index: 360;
     background-color: transparent;
     background-image: url("/assets/images/menu-icon.png") !important;
     background-size: cover;
     background-repeat: no-repeat;
     cursor: pointer;
-    transition: transform 0.2s ease; /* 回転アニメーション */
+    transition: transform 0.1s ease; /* 回転アニメーション */
 }
 
 /* クリック時にアイコンを回転 */
