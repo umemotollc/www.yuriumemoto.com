@@ -3,7 +3,7 @@ layout: home
 ###title: Yuri Umemoto
 ---
 
-梅本佑利<br>
+<small>梅本佑利</small><br>
 composer
 　<br>　<br>
 [about](/about)&emsp;
@@ -13,5 +13,5 @@ composer
 [Instagram](https://www.instagram.com/yuri_umemoto)&emsp;
 [X](https://x.com/yuriumemoto)&emsp;
 [scores](/scores)&emsp;
-[merchandise](https://umemoto.square.site/)
+[merch](https://umemoto.square.site/)
 
