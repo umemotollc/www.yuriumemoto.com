@@ -34,6 +34,16 @@ a:hover { color: #FF0000; text-decoration: none; }
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
 .social-media-list a:hover .username,
 .pagination a:hover .username { text-decoration: underline; }
+/* 選択時の文字色と背景色 */
+::selection {
+  color: #FF0000; /* 選択時の文字色（赤色） */
+  background: #FFFFFF; /* 選択時の背景色（白色） */
+}
+
+::-moz-selection {
+  color: #FF0000; /* Mozilla 用 */
+  background: #FFFFFF;
+}
 
 
 /** Site header */
