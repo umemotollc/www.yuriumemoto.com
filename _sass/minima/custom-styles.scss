@@ -30,10 +30,20 @@ a {
 	border-bottom:1px solid #1111FF;
 }
 a:visited { color: #1111FF; }
-a:hover { color: #111111; text-decoration: underline; }
+a:hover { color: #FF0000; text-decoration: none; }
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
 .social-media-list a:hover .username,
-.pagination a:hover .username { text-decoration: underline; }
+.pagination a:hover .username { text-decoration: none; }
+/* 選択時の文字色と背景色 */
+::selection {
+  color: #FF0000; /* 選択時の文字色（x色） */
+  background: #FFFFFF; /* 選択時の背景色（x色） */
+}
+
+::-moz-selection {
+  color: #FF0000; /* Mozilla 用 */
+  background: #FFFFFF;
+}
 
 
 /** Site header */
@@ -104,7 +114,7 @@ a:hover { color: #111111; text-decoration: underline; }
 .contact-list, .social-media-list, .pagination { list-style: none; margin-left: 0; }
 
 .footer-col-wrapper, .social-links {
-	font-size: 0.9375rem;
+	font-size: 0.7rem;
 	color: #1111FF;
 }
 
@@ -132,49 +142,32 @@ a:hover { color: #111111; text-decoration: underline; }
   //height: 32px;
 }
 
-.menu-btn{
-  top: 20px;
-  left: 10px;
-  display: flex;
-  height: 32px;
-  width: 32px;
-  justify-content: center;
-  align-items: center;
-  z-index: 90;
-  //background-color: #c0c0c0;
+.menu-btn {
+    top: 20px;
+    left: 10px;
+    display: flex;
+    height: 32px;
+    width: 32px;
+    justify-content: center;
+    align-items: center;
+    z-index: 90;
+    background-color: transparent;
+    background-image: url("/assets/images/menu-icon.png") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    transition: transform 0.1s ease; /* 回転アニメーション */
 }
-/* three horizonal lines  */
+
+/* クリック時にアイコンを回転 */
+#menu-btn-check:checked + .menu-btn {
+    transform: rotate(180deg); /* 90度回転 */
+}
+
 .menu-btn span,
 .menu-btn span:before,
-.menu-btn span:after{
-  content: '';
-  display: block;
-  height: 3px;
-  width: 20px;
-  border-radius: 3px;
-  //background-color: #c0c0c0;
-  position: absolute;
-}
-
-.menu-btn span:before{
-  background-color: #1111ff;
-  bottom: 6px;
-}
-.menu-btn span:after{
-  background-color: #1111ff;
-  top: 6px;
-}
-
-#menu-btn-check:checked ~ .menu-btn span{
-  background-color: rgba( 255, 255, 255, 0 ); 
-}
-#menu-btn-check:checked ~ .menu-btn span::before{
-  bottom: 0;
-  transform: rotate( 45deg ); 
-}
-#menu-btn-check:checked ~ .menu-btn span::after{
-  top: 0;
-  transform: rotate( -45deg ); 
+.menu-btn span:after {
+  display: none; /* 三本線を非表示にする */
 }
 /* hide menu */
 #menu-btn-check{
@@ -280,4 +273,3 @@ a:hover { color: #111111; text-decoration: underline; }
 display: block; padding: 10px 12px;
 border: 0px solid #e8e8e8; }
 .social-media-list li a:hover, .pagination li a:hover { border-color: #c0c0c0; }
-

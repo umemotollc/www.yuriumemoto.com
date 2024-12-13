@@ -1,6 +1,6 @@
 ---
 style: page
-title: Contact
+title: contact
 ---
 
 ### Yuri Umemoto

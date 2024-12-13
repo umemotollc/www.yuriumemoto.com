@@ -23,7 +23,7 @@
   for: snare drum and electronics
   type: composition
   year: 2024
-  jasrac: null
+  jasrac: 305-3890-4
   note: ''
   url: ''
 
@@ -44,7 +44,7 @@
 - title: Song of the Data Angel
   type: videogram
   year: 2023
-  jasrac: null
+  jasrac: 305-3886-6
   note: null
   url: null
 
@@ -52,7 +52,7 @@
   for: piano and fixed media
   year: 2023
   type: composition
-  jasrac: null
+  jasrac: 305-3892-1
   note: null
   url: null
 
@@ -60,22 +60,22 @@
   for: any instrument(s); versions for viola or piano
   year: 2023
   type: composition
-  note: versions for viola or piano
-  jasrac: null
+  note: null
+  jasrac: 294-5425-5
   url: null
 
 - title: will i never understand falling in love?
-  type: song, composition
+  type: composition
   year: 2023
   for: vocal or any instrument(s)
-  jasrac: null
+  jasrac: 305-3885-8
   note: null
   url: null
 
 - title: Endless Haruhi Scale
   type: videogram
   year: 2023
-  jasrac: null
+  jasrac: 305-3881-5
   note: null
   url: null
 
@@ -83,7 +83,7 @@
   for: piano and fixed media
   year: 2023
   type: composition
-  jasrac: null
+  jasrac: 305-3880-7
   note: null
   url: null
 
@@ -91,14 +91,14 @@
   for: voices
   year: 2023
   type: composition
-  jasrac: null
+  jasrac: 305-3879-3
   note: null
   url: null
 
 - title: i'm scared of dying. what do i do?
   for: violin
   year: 2023
-  jasrac: null
+  jasrac: 282-9232-4
   note: null
   url: null
 
@@ -113,16 +113,24 @@
 - title: Embellish Me!
   for: violin
   year: 2023
-  jasrac: null
+  jasrac: 283-3178-8
   type: composition
   note: null
   url: null
 
-- title: Alice in Abandoned Akihabara No.1, No.2
+- title: Alice in Abandoned Akihabara No.1
   for: violin
   year: 2023
   type: composition
-  jasrac: null
+  jasrac: 283-3181-8
+  note: null
+  url: null
+
+- title: Alice in Abandoned Akihabara No.2
+  for: violin
+  year: 2023
+  type: composition
+  jasrac: 283-3182-6
   note: null
   url: null
 
@@ -130,14 +138,14 @@
   for: violin
   year: 2023
   type: composition
-  jasrac: null
+  jasrac: 283-3179-6
   note: null
   url: null
 
 - title: What the hell are you doing?!
   type: videogram
   year: 2023
-  jasrac: null
+  jasrac: 283-3177-0
   type: composition
   note: null
   url: null
@@ -147,14 +155,22 @@
   year: 2022
   type: composition
   note: also versions for piano, violin, cello, or violin-cello
-  jasrac: null
+  jasrac: 283-6027-3
   url: null
 
 - title: Moe²Girl
   for: any instrument(s) and fixed media; versions for piano, violin, cello, or violin-cello
   year: 2022
   note: also versions for piano, violin, cello, or violin-cello
-  jasrac: null
+  jasrac: 283-3183-4
+  type: composition
+  url: null
+
+- title: Moe²Girl
+  for: piano, violin, cello, or violin-cello
+  year: 2022
+  note: null
+  jasrac: 283-3184-2
   type: composition
   url: null
 
@@ -194,30 +210,40 @@
   for: MOH (music on hold), on PSTN/PBX system
   year: 2022
   note: IVR programmed by Hijiri Umemoto.
-  jasrac: null
+  jasrac: 284-0284-7
   url: null
-  type: composition, videogram
+  type: composition
+
 
 - title: 050-5445-5448, Plumber Franz Liszt
   for: MOH (music on hold), on PSTN/PBX system
   year: 2022
   note: IVR programmed by Hijiri Umemoto.
-  jasrac: null
+  jasrac: 284-0285-5
   url: null
-  type: composition, videogram
+  type: composition
+
 
 - title: 050-5857-9289, Locksmith Josef Strauss
   for: IVR (interactive voice response)
   year: 2022
   note: IVR programmed by Hijiri Umemoto.
-  jasrac: null
+  jasrac: 284-0286-3
   url: null
-  type: composition, videogram
+  type: composition
 
 - title: MOMOMOMOMOEMOE♡
   for: violin
   year: 2021
-  jasrac: null
+  jasrac: 284-0292-8
+  note: null
+  url: null
+  type: composition
+
+- title: MOMOMOMOMOEMOE♡
+  for: cello
+  year: 2021
+  jasrac: 284-0291-0
   note: null
   url: null
   type: composition
@@ -225,7 +251,7 @@
 - title: SUPERBACHBOY 3
   for: cello and electronics
   year: 2021
-  jasrac: null
+  jasrac: 284-0289-8
   note: null
   type: composition
   url: null
@@ -233,7 +259,7 @@
 - title: SUPERBACHBOY 2
   for: violin
   year: 2021
-  jasrac: null
+  jasrac: 284-0290-1
   note: null
   url: null
   type: composition
@@ -263,9 +289,10 @@
   type: composition
 
 - title: Fluffy Pink!
+  title_ja: フラッフィー・ピンク
   for: string quartet
   year: 2020
-  jasrac: null
+  jasrac: 283-6029-0
   note: null
   url: null
   type: composition
@@ -282,11 +309,29 @@
   for: guitar
   year: 2018
   type: composition
-  jasrac: null
+  jasrac: 283-6028-1
   note: null
   url: null
 
-- title: Super Grape! (performance)
+- title: Overwritten Girl - Overwriting Overwritten Girl
+  type: composition
+  for: null
+  year: 2023
+  jasrac: 305-3887-4
+
+- title: Overwritten Girl - good night.
+  type: composition
+  for: null
+  year: 2023
+  jasrac: 306-7059-4
+  
+- title: Super Sampling Classic Bomb for MC Battle
+  type: composition
+  for: MC rap, orchestra
+  year: 2024
+  jasrac: 305-3893-9
+
+- title: Super Grape!
   for: violin
   year: 2024
   date: 2024-12-12
@@ -343,14 +388,14 @@
   place: Aachen, Germany @ St.-Marien-Kirche / Köthen Bach Festival
   type: performance
   note: performed by Joosten Ellée, CONTINUUM
-  jasrac: null
+  jasrac: 282-9232-4
   url: https://www.bachfesttage.de/
 
 - title: Yuri Umemoto DJ Live feat. Kei Yamazawa and diskslave
   year: 2024
   date: 2024-07-02
   place: Tokyo, Japan @ Shibuya PARCO​⁠ / SUPER DOMMUNE
-  type: performance, videogram
+  type: performance
   jasrac: null
   note: null
   url: https://www.youtube.com/watch?v=TuJePa_gSS8&t=2074s
@@ -372,7 +417,7 @@
   place: Cologne, Germany @ Alte Feuerwache Köln / zamus early music festival
   type: performance
   note: performed by Joosten Ellée, CONTINUUM
-  jasrac: null
+  jasrac: 282-9232-4
   url: https://www.zamus.de/projects/zamus-early-music-festival
 
 - title: Moe²Girl
@@ -452,14 +497,14 @@
   jasrac: null
   url: https://www.auditoriomanueldefalla.com/
 
-- title: Moe²Girl
+- title: pays des fées [Under Wateround] Rakuten Fashion Week TOKYO2024 Spring/Summer
   for: cello
   year: 2023
   date: 2023-08-29
   place: Tokyo, Japan @ Rakuten Fashion Week TOKYO / pays des fées 2024 S/S
-  type: performance, videogram
-  jasrac: null
-  url: https://rakutenfashionweektokyo.com/en/aboutrfwt/
+  type: performance
+  jasrac: 305-3883-1
+  url: https://www.youtube.com/watch?v=cxnJMG5JmHk
 
 - title: Dempa-chan never dies♡
   for: viola
@@ -488,7 +533,7 @@
   place: Tokyo, Japan @ The Ueno Royal Museum / Spring Festival in Tokyo
   type: performance
   note: commissioned and performed by Tatsuki Narita
-  jasrac: null
+  jasrac: 284-0280-4
   url: https://www.tokyo-harusai.com/
 
 - title: 050-5445-5449, 050-5445-5448, 050-5857-9289

@@ -1,0 +1,31 @@
+window.addEventListener('load', () => {
+    const url = new URL(window.location.href);
+    const q = url.searchParams.get("type") || "any"; // デフォルト値を"any"に設定
+    const selectType = document.getElementById('type');
+    selectType.value = q;
+  
+    // List.jsの動作パラメータ設定
+    const listObj = new List('listdata', options);
+  
+    // ページロード時のフィルター適用
+    listObj.filter(function(item) {
+      if (q === 'any') {
+        return true;
+      }
+      return item.values().type.indexOf(q) > -1;
+    });
+    document.getElementById('hits').innerHTML = listObj.matchingItems.length + "件ヒットしました";
+  
+    // セレクトボックスの変更時のフィルター適用
+    selectType.addEventListener('change', () => {
+      const type = selectType.value;
+      listObj.filter(function(item) {
+        if (type === 'any') {
+          return true;
+        }
+        return item.values().type.indexOf(type) > -1;
+      });
+      document.getElementById('hits').innerHTML = listObj.matchingItems.length + "件ヒットしました";
+    });
+  });
+  
