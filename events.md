@@ -3,10 +3,10 @@ title: events
 category: page
 permalink: events/
 ---
-<small>[[live / exhibitions](#anchor1)]</small>
+<small>[[live & exhibitions](#anchor1)]</small>
 <small>[[media](#anchor2)]</small>
 
-**live, exhibitions**  
+**live & exhibitions**  
 
 <a id="anchor1"></a>
 
