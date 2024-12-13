@@ -142,7 +142,7 @@ a:hover { color: #111111; text-decoration: underline; }
   align-items: center;
   z-index: 90;
   background-color: transparent; /* 背景色を透明に */
-  background-image: url("{{ '/assets/images/menu-icon.png' | relative_url }}"); /* PNG画像を指定 */
+  background-image: url("{{ '/assets/images/menu-icon.png' | relative_url }}") !important; /* ここに追加 */
   background-size: cover; /* 画像をボタンにフィットさせる */
   background-repeat: no-repeat;
   cursor: pointer;
