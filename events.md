@@ -3,6 +3,12 @@ title: events
 category: page
 permalink: events/
 ---
+<small>[[live / exhibitions](#anchor1)]</small>
+<small>[[media](#anchor2)]</small>
+
+**live, exhibitions**  
+
+<a id="anchor1"></a>
 
 **DECEMBER 12, 2024** | Copenhagen, Denmark @ [Mayhem](https://mayhemkbh.dk/)  
 *Super Grape!* for violin  
@@ -99,3 +105,9 @@ Commissioned and performed by Kei Yamazawa
 **SEPTEMBER 28, 2019** | Tokyo, Japan @ Tokyo Metropolitan Theater / Born Creative Festival  
 *Euangelion* for guitar  
 Performed by Norio Sato  
+
+ <br> 
+
+<a id="anchor2"></a>
+
+**media**  
