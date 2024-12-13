@@ -25,24 +25,36 @@ body {
 /** Links */
 a {
 	 color: #1111FF; 
-	text-decoration: none; 
-	//border-bottom:1px dotted #1111FF;
-	border-bottom:1px solid #1111FF;
+	 text-decoration: none; 
+	 border-bottom: 1px solid #1111FF; /* 通常時の青い下線 */
 }
 a:visited { color: #1111FF; }
 a:hover { color: #FF0000; text-decoration: none; }
-.social-media-list a:hover, .pagination a:hover { text-decoration: none; }
-.social-media-list a:hover .username,
-.pagination a:hover .username { text-decoration: underline; }
+
 /* 選択時の文字色と背景色 */
 ::selection {
-  color: #FFFFFF; /* 選択時の文字色（x色） */
-  background: #1111FF; /* 選択時の背景色（x色） */
+  color: #FF0000; /* 選択時の文字色（赤色） */
+  background: #FFFFFF; /* 選択時の背景色（白色） */
 }
 
 ::-moz-selection {
-  color: #FFFFFF; /* Mozilla 用 */
-  background: #1111FF;
+  color: #FF0000; /* Mozilla 用 */
+  background: #FFFFFF;
+}
+
+/* 擬似要素を使って下線を選択時に赤色に変更 */
+a::after {
+  content: "";
+  position: absolute;
+  bottom: -2px; /* テキストの下に配置 */
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #1111FF; /* 通常時の青い下線 */
+}
+
+a:hover::after, a:focus::after, a::selection::after {
+  background-color: #FF0000; /* 選択時の赤い下線 */
 }
 
 
