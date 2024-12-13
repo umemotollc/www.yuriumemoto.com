@@ -119,7 +119,7 @@ Performed by Norio Sato
 *look at me senpai* – Featured in a mix by [Posh Isolation](https://www.nts.live/shows/posh-isolation/episodes/posh-isolation-25th-september-2024)  
 
 **JULY 11, 2024** | Chunichi Shimbun (中日新聞)  
-Long Interview with Yuri Umemoto (梅本佑利) – [Read article](https://www.chunichi.co.jp/article/924718)  
+Long Interview with Yuri Umemoto – [read](https://www.chunichi.co.jp/article/924718)  
 
 **JUNE 18, 2024** | General-Anzeiger  
 Review of *typing on the keyboard, i feel so small.* – Premiered in Bonn by Elina Albach ([read](https://ga.de/news/kultur-und-medien/regional/rueckkehr-zu-bach-mit-elina-albach_aid-114638937))  
