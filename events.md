@@ -112,66 +112,53 @@ Performed by Norio Sato
 
 **media**  
 
-**NOVEMBER 4, 2024** | France @ Radio Campus Paris (93.9 FM)  
-*Super Grape! for violin*  
-Featured on the program *Absence!* ([radiocampusparis.org](https://www.radiocampusparis.org/emission/99P-absence/RPKL-absence-04112024))  
+**NOVEMBER 4, 2024** | Radio Campus Paris (93.9 FM)  
+*Super Grape! for violin* – Featured on [Absence!](https://www.radiocampusparis.org/emission/99P-absence/RPKL-absence-04112024)  
 
-**SEPTEMBER 25, 2024** | UK @ NTS Radio  
-*look at me senpai*  
-Featured in a mix by the Danish label [Posh Isolation](https://www.poshisolation.net/), curated by Loke Rahbek (Croatian Amor) and Soli City ([nts.live](https://www.nts.live/shows/posh-isolation/episodes/posh-isolation-25th-september-2024))  
+**SEPTEMBER 25, 2024** | NTS Radio  
+*look at me senpai* – Featured in a mix by [Posh Isolation](https://www.nts.live/shows/posh-isolation/episodes/posh-isolation-25th-september-2024)  
 
-**JULY 11, 2024** | Japan @ The Chunichi Shimbun (中日新聞)  
-Long Interview with Yuri Umemoto (梅本佑利) ([chunichi.co.jp](https://www.chunichi.co.jp/article/924718))  
+**JULY 11, 2024** | Chunichi Shimbun (中日新聞)  
+Long Interview with Yuri Umemoto (梅本佑利) – [Read article](https://www.chunichi.co.jp/article/924718)  
 
-**JUNE 18, 2024** | Germany @ General-Anzeiger (新聞)  
-Review of *typing on the keyboard, i feel so small.* for harpsichord  
-Premiered in Bonn by Elina Albach ([ga.de](https://ga.de/news/kultur-und-medien/regional/rueckkehr-zu-bach-mit-elina-albach_aid-114638937))  
+**JUNE 18, 2024** | General-Anzeiger  
+Review of *typing on the keyboard, i feel so small.* – Premiered in Bonn by Elina Albach ([Read review](https://ga.de/news/kultur-und-medien/regional/rueckkehr-zu-bach-mit-elina-albach_aid-114638937))  
 
-**DECEMBER 25, 2023** | Japan @ Ongaku no Tomo Sha (音楽之友社)  
-Publication of *Tokyo Syncopation (トーキョー・シンコペーション)* by Yuji Numano  
-Chapter 14 focuses on Yuri Umemoto ([ongakunotomo.co.jp](https://www.ongakunotomo.co.jp/catalog/detail.php?id=210130))  
+**DECEMBER 25, 2023** | Ongaku no Tomo Sha (音楽之友社)  
+Publication of *Tokyo Syncopation (トーキョー・シンコペーション)* – Chapter 14 focuses on Yuri Umemoto ([Details](https://www.ongakunotomo.co.jp/catalog/detail.php?id=210130))  
 
-**NOVEMBER 12, 2023** | Germany @ Hessischer Rundfunk Frankfurt (hr2)  
-*MOMOMOMOEMOE♡* for violin  
-Featured on *The Artist’s Corner – Johannes S. Sistermanns: SoundCard Nagoya* ([hr2.de](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html))  
+**NOVEMBER 12, 2023** | Hessischer Rundfunk Frankfurt (hr2)  
+*MOMOMOMOEMOE♡* for violin – Featured on [The Artist’s Corner](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html)  
 
-**SEPTEMBER 8, 2023** | UK @ Resonance FM  
-*Moe²Girl* for cello  
-Featured in a mixtape by Ben Nobuto ([mixcloud.com](https://www.mixcloud.com/Resonance/the-sampler-mixtape-61-ben-nobuto/))  
+**SEPTEMBER 8, 2023** | Resonance FM  
+*Moe²Girl* for cello – Featured in a mixtape by [Ben Nobuto](https://www.mixcloud.com/Resonance/the-sampler-mixtape-61-ben-nobuto/)  
 
-**JULY 8, 2023** | Japan @ TV Asahi (テレビ朝日)  
+**JULY 8, 2023** | TV Asahi  
 *Daimei no Nai Ongaku Kai – Koto Artist LEO Special*  
 
-**JULY 2023** | Japan @ Ongaku no Tomo Sha (音楽之友社)  
-*Record Art (レコード芸術)* (Final Issue)  
+**JULY 2023** | Ongaku no Tomo Sha (音楽之友社)  
+*Record Art (レコード芸術)* – Final Issue  
 
-**APRIL 2023** | Japan @ Ongaku no Tomo Sha (音楽之友社)  
-*Band Journal (バンド・ジャーナル)*  
-*Record Art (レコード芸術)*  
+**APRIL 2023** | Ongaku no Tomo Sha (音楽之友社)  
+*Band Journal (バンド・ジャーナル)* / *Record Art (レコード芸術)*  
 
-**MARCH 4, 2023** | Japan @ TV Asahi (テレビ朝日)  
+**MARCH 4, 2023** | TV Asahi  
 *Daimei no Nai Ongaku Kai – Ryuichi Sakamoto Special (2800th Episode)*  
 
-**OCTOBER 30, 2022** | Japan @ NHK-FM  
-*Moe²Girl* for cello  
-Featured on *Gendai no Ongaku (現代の音楽)*  
+**OCTOBER 30, 2022** | NHK-FM  
+*Moe²Girl* for cello – Featured on *Gendai no Ongaku (現代の音楽)*  
 
 **2022** | Japan  
-*Talking Heads Series (トーキングヘッズ叢書) No.92*  
-*Eureka (ユリイカ) – April Issue: hyperpop Special Feature*  
-*Ongaku no Tomo (音楽の友) – May Issue*  
-*intoxicate – April Issue*  
-*Tokyojin (東京人) – April Issue*  
-*FASHIONSNAP.COM*  
+*Talking Heads Series (トーキングヘッズ叢書) No.92* / *Eureka (ユリイカ)* – April Issue / *Ongaku no Tomo (音楽の友)* – May Issue / *intoxicate* – April Issue / *Tokyojin (東京人)* – April Issue / *FASHIONSNAP.COM*  
 
-**DECEMBER 8, 2021** | Japan @ The Asahi Shimbun (朝日新聞)  
+**DECEMBER 8, 2021** | Asahi Shimbun (朝日新聞)  
 Evening Edition (愛知版夕刊)  
 
-**DECEMBER 7, 2021** | Japan @ The Chunichi Shimbun (中日新聞)  
-Evening Edition (夕刊)  
+**DECEMBER 7, 2021** | Chunichi Shimbun (中日新聞)  
+Evening Edition  
 
-**JANUARY 11, 2021** | Japan @ The Chunichi Shimbun (中日新聞)  
-Evening Edition (夕刊)  
+**JANUARY 11, 2021** | Chunichi Shimbun (中日新聞)  
+Evening Edition  
 
-**SEPTEMBER 2020** | Japan @ Sankei Shimbun (産経新聞社)  
+**SEPTEMBER 2020** | Sankei Shimbun (産経新聞社)  
 *MOSTLY CLASSIC*  
