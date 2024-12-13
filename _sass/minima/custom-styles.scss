@@ -36,13 +36,13 @@ a:hover { color: #FF0000; text-decoration: none; }
 .pagination a:hover .username { text-decoration: underline; }
 /* 選択時の文字色と背景色 */
 ::selection {
-  color: #FF0000; /* 選択時の文字色（赤色） */
-  background: #FFFFFF; /* 選択時の背景色（白色） */
+  color: #FFFFFF; /* 選択時の文字色（x色） */
+  background: #1111FF; /* 選択時の背景色（x色） */
 }
 
 ::-moz-selection {
-  color: #FF0000; /* Mozilla 用 */
-  background: #FFFFFF;
+  color: #FFFFFF; /* Mozilla 用 */
+  background: #1111FF;
 }
 
 
