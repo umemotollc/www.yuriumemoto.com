@@ -116,7 +116,7 @@ var options = {
   
 window.addEventListener('load', ()=>{
     const url = new URL(window.location.href);
-    const  q = url.searchParams.get("q") || "any";
+    const  q = url.searchParams.get("type") || "any";
     //const k = url.searchParams.get("k");
     //document.getElementById("keyword").value = k;
     document.getElementById("type").value = q;
