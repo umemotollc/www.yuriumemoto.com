@@ -97,6 +97,10 @@ a:hover { color: #FF0000; text-decoration: none; }
 
 .footer-heading { font-size: 1.125rem; margin-bottom: 15px; }
 
+.footer-col p {
+    display: none; /* descriptionを非表示にする */
+}
+
 /** Icons */
 .orange { color: #f66a0a; }
 .grey { color: #828282; }
