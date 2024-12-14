@@ -97,19 +97,6 @@ a:hover { color: #FF0000; text-decoration: none; }
 
 .footer-heading { font-size: 1.125rem; margin-bottom: 15px; }
 
-/* description を非表示にする */
-.site-description {
-    display: none; /* サイト上では非表示 */
-}
-
-/* フッターの著作権表記 */
-.footer-copyright {
-    font-size: 10px; /* 小さめの文字サイズ */
-    color: #828282; /* グレー色（必要に応じて変更） */
-    text-align: center; /* センター揃え */
-    margin-top: 15px; /* 上部に少し余白 */
-}
-
 /** Icons */
 .orange { color: #f66a0a; }
 .grey { color: #828282; }
