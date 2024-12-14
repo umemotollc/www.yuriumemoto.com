@@ -11,9 +11,9 @@ permalink: events/
 <a id="anchor1"></a>
 
 **MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)  
-New paintings and installation
+New paintings and installation  
 
-**MARCH 29, 2025** | Tokyo, Japan
+**MARCH 29, 2025** | Tokyo, Japan  
 Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Et in terra pax, Laudamus te, Gratias agimus tibi, Domine Deus, Qui tollis, Qui sedes, Quoniam tu solus sanctus, Cum sancto spiritu and Confiteor* for piano  
 peform by Mai Kawano, Nobuaki Sato, Yuri Yamamoto
 
