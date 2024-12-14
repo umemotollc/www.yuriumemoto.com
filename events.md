@@ -10,7 +10,7 @@ permalink: events/
 
 <a id="anchor1"></a>
 
-**MARCH 22-30, 2025 | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)
+**MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)
 New paintings and installation
 
 **MARCH 29, 2025** | Tokyo, Japan
