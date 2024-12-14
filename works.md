@@ -11,19 +11,19 @@ permalink: works/
 
 <a id="anchor1"></a>
 
-**[Gloria in excelsis Deo]**
+**Gloria in excelsis Deo**
 for any instrument(s) and fixed media (2024)
 version for piano
 
-**[Christe eleison]**
+**Christe eleison**
 for any instrument(s) and fixed media (2024)
 versions for piano or cello
 
-**[Kyrie eleison]**
+**Kyrie eleison**
 for any instrument(s) and fixed media (2024)
 versions for piano or cello
 
-**[Confiteor]**
+**Confiteor**
 for any instrument(s) and fixed media (2024)
 versions for piano or cello
 
