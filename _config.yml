@@ -33,10 +33,10 @@ minima:
 
 header_pages:
   - about.md
-  - contact.md
   - works.md
-  - scores.md
   - events.md
+  - scores.md
+  - contact.md
 
 author:
  name: Yuri Umemoto, UMEMOTO LLC
