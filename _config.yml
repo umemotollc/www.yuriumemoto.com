@@ -31,6 +31,13 @@ minima:
 ##  - {platform: youtube, user_url: "https://www.youtube.com/c/YuriUmemoto"}
 ##  - {platform: instagram, user_url: "https://www.instagram.com/yuri_umemoto"}
 
+header_pages:
+  - about.md
+  - contact.md
+  - works.md
+  - scores.md
+  - events.md
+
 author:
  name: Yuri Umemoto, UMEMOTO LLC
  email: yuri@umemoto.org
