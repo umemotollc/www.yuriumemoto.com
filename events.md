@@ -41,6 +41,14 @@ Performed by Hiroshi Suzuki, commissioned by [Yokohama Minato Mirai Hall](https:
 *i'm scared of dying. what do i do?* for violin  
 Performed by Joosten Ellée, [CONTINUUM](https://www.continuu-m.com/)  
 
+**AUGUST 11, 2024** | Tokyo, Japan @ [Ryogoku Art Festival 2024]([https://www.bachfesttage.de](https://www.artscouncil-tokyo.jp/en/what-we-do/support/program/70951/)  
+*Confiteor* for piano (first edition)  
+Commissioned by Ryogoku Art Festival, Performed by Takuya Otaki　　
+
+**AUGUST 10, 2024** | Tokyo, Japan @ [Ryogoku Art Festival 2024]([https://www.bachfesttage.de](https://www.artscouncil-tokyo.jp/en/what-we-do/support/program/70951/)  
+*Confiteor* for piano (first edition)  
+Commissioned by Ryogoku Art Festival, Performed by Takuya Otaki　　
+
 **JULY 2, 2024** | Tokyo, Japan @ Shibuya PARCO / [SUPER DOMMUNE](https://www.dommune.com/)  
 *[Yuri Umemoto DJ Live](https://www.youtube.com/watch?v=TuJePa_gSS8&t=2074s) feat. Kei Yamazawa and diskslave*  
 
