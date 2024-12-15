@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: but...you're a minor, right?
 permalink: /bymr/
 ---
 
