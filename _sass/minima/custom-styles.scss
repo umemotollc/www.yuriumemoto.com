@@ -102,6 +102,10 @@ a:hover { color: #FF0000; text-decoration: none; }
 
 .footer-heading { font-size: 1.125rem; margin-bottom: 15px; }
 
+.last-modified {
+  font-size: 0.6rem; /* 文字サイズを小さくする */
+}
+
 /** Icons */
 .orange { color: #f66a0a; }
 .grey { color: #828282; }
