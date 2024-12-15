@@ -1,5 +1,6 @@
 ---
-layout: post
+style: post
+layout: page
 title: Yuri Umemoto - but...you're a minor, right? for piano (2023)
 permalink: /bymr/
 ---
