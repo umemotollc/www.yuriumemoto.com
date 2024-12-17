@@ -134,7 +134,7 @@ Performed by Norio Sato
 **media**  
 
 **DECEMBER 6, 2024** | Denmark, Copenhagen @ [Retreat Radio](https://www.retreatradio.net/)  
-*look at me, senpai* on [REAL LIVE RADIO](https://www.retreatradio.net/real-live-radio) [#7 w/ Ryong](https://soundcloud.com/retreatradio/real-live-radio-7)
+*look at me, senpai* mix featured on [REAL LIVE RADIO](https://www.retreatradio.net/real-live-radio) [#7 w/ Ryong](https://soundcloud.com/retreatradio/real-live-radio-7)
 
 **NOVEMBER 4, 2024** | France @ Radio Campus Paris (93.9 FM)  
 *Super Grape!* mix featured on [Absence!](https://www.radiocampusparis.org/emission/99P-absence/RPKL-absence-04112024)  
