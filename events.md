@@ -133,11 +133,14 @@ Performed by Norio Sato
 
 **media**  
 
+**DECEMBER 6, 2024** | Denmark, Copenhagen @ [Retreat Radio](https://www.retreatradio.net/)  
+*look at me, sempai* on [REAL LIVE RADIO](https://www.retreatradio.net/real-live-radio) [#7 w/ Ryong](https://soundcloud.com/retreatradio/real-live-radio-7)
+
 **NOVEMBER 4, 2024** | France @ Radio Campus Paris (93.9 FM)  
-*Super Grape! for violin* – Featured on [Absence!](https://www.radiocampusparis.org/emission/99P-absence/RPKL-absence-04112024)  
+*Super Grape! for violin* on [Absence!](https://www.radiocampusparis.org/emission/99P-absence/RPKL-absence-04112024)  
 
 **SEPTEMBER 25, 2024** | UK @ NTS Radio  
-*look at me senpai* – Featured in a mix by [Posh Isolation](https://www.nts.live/shows/posh-isolation/episodes/posh-isolation-25th-september-2024), curated by Loke Rahbek (Croatian Amor) and Soli City  
+*look at me senpai* on [Posh Isolation](https://www.nts.live/shows/posh-isolation/episodes/posh-isolation-25th-september-2024), curated by Loke Rahbek (Croatian Amor) and Soli City  
 
 **JULY 11, 2024** | Japan @ 中日新聞  
 [Long Interview with Yuri Umemoto (梅本佑利)](https://www.chunichi.co.jp/article/924718)  
@@ -149,10 +152,10 @@ Performed by Norio Sato
 [Publication of *Tokyo Syncopation (トーキョー・シンコペーション)*](https://www.ongakunotomo.co.jp/catalog/detail.php?id=210130) – Chapter 14 focuses on Yuri Umemoto  
 
 **NOVEMBER 12, 2023** | Germany @ Hessischer Rundfunk Frankfurt (hr2)  
-*MOMOMOMOEMOE♡* for violin – Featured on [The Artist’s Corner](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html)  
+*MOMOMOMOEMOE♡* for violin on [The Artist’s Corner](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html)  
 
 **SEPTEMBER 8, 2023** | UK @ Resonance FM  
-*Moe²Girl* for cello – Featured in a [mixtape by Ben Nobuto](https://www.mixcloud.com/Resonance/the-sampler-mixtape-61-ben-nobuto/)  
+*Moe²Girl* for cello on [mixtape by Ben Nobuto](https://www.mixcloud.com/Resonance/the-sampler-mixtape-61-ben-nobuto/)  
 
 **JULY 8, 2023** | Japan @ テレビ朝日  
 *Daimei no Nai Ongaku Kai – Koto Artist LEO Special*  
@@ -167,7 +170,7 @@ Performed by Norio Sato
 *Daimei no Nai Ongaku Kai – Ryuichi Sakamoto Special (2800th Episode)*  
 
 **OCTOBER 30, 2022** | Japan @ NHK-FM  
-*Moe²Girl* for cello – Featured on *Gendai no Ongaku (現代の音楽)*  
+*Moe²Girl* for cello on *Gendai no Ongaku (現代の音楽)*  
 
 **2022** | Japan  
 *Talking Heads Series (トーキングヘッズ叢書) No.92* / *Eureka (ユリイカ)* – April Issue / *Ongaku no Tomo (音楽の友)* – May Issue / *intoxicate* – April Issue / *Tokyojin (東京人)* – April Issue / *FASHIONSNAP.COM*  
