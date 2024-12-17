@@ -4,9 +4,7 @@ category: page
 permalink: events/
 ---
 <small>[[live & exhibitions](#anchor1)]</small>
-<small>[[media](#anchor2)]</small>
-
-**live & exhibitions**  
+<small>[[media](#anchor2)]</small> 
 
 <a id="anchor1"></a>
 
