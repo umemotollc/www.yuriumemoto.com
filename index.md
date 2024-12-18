@@ -6,7 +6,7 @@ layout: home
 梅本佑利<br>
 composer
 　<br>　<br>
-<<<<<<< HEAD
+
 
 [list of works](/list) ([composition](/list?type=composition) / [performance](/list?type=performance) / [videogram](/list?type=videogram) )
 
@@ -31,5 +31,3 @@ composer
 [merch](https://yuriumemoto.bandcamp.com/merch/)&emsp;
 [Bandcamp](https://yuriumemoto.bandcamp.com/)&emsp;
 [contact](/contact)
->>>>>>> 571bf880dcaa15ffba4fe2809361373ad08506e4
-
