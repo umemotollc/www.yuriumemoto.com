@@ -1,335 +1,1693 @@
-- title: shopping mall in landfill
-  for: tenor saxophone
-  year: 2024
+- assign_date: null
+  for: ' 2 violins and 2 Double Basses'
+  jasrac: 284-0279-1
+  our_reference: 284-0279-1
+  registered_name: ？ょょ　（２０２２）
+  registration_status: 登録済み
+  subtitle: ？ょょ
+  subtitle_for_registration: ？ょょ
+  subtitle_kana: null
+  title: ?ょょ  for 2 violins and 2 Double Basses
+  title_alphanumeric: '?    FOR 2 VIOLINS AND 2 DOUBLE BASSES'
+  title_alphanumeric_altered: YYO YYO FOR 2 VIOLINS AND 2 DOUBLE BASSES
+  title_kana: null
+  title_long: ？ょょ (2022) for 2 violins and 2 Double Basses
   type: composition
-
-- title: look at me, senpai
-  for: violin, cello and fixed media
-  type: composition
-  year: 2024
+  year: '2022'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' noh and 6 player'
   jasrac: null
-  note: ''
-  url: ''
-
-- title: typing on the keyboard, i feel so small.
-  for: harpsichord
-  year: 2024
+  our_reference: 202412171-3
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: (i)sekai  for noh and 6 player
+  title_alphanumeric: ' I SEKAI  FOR NOH AND 6 PLAYER'
+  title_alphanumeric_altered: null
+  title_kana: イセカイ
+  title_long: (i)sekai (2021) for noh and 6 player
   type: composition
-  jasrac: null
-  note: null
-  url: null
-
-- title: I don't love you...Senpai.
-  for: snare drum and electronics
-  type: composition
-  year: 2024
-  jasrac: 305-3890-4
-  note: ''
-  url: ''
-
-- title: Overwritten Girl - 'Overwriting Overwritten Girl'
-  type: videogram
-  year: 2023
-  jasrac: null
-  note: null
-  url: null
-
-- title: Overwritten Girl - 'good night.'
-  type: videogram
-  year: 2023
-  jasrac: null
-  note: null
-  url: null
-
-- title: Song of the Data Angel
-  type: videogram
-  year: 2023
-  jasrac: 305-3886-6
-  note: null
-  url: null
-
-- title: barrage▂▃▅▆▇▂▃▅゚∀゚)ノ゚∀゚)ノ∀゚)ノ゚)ノ)ノ━━━rrrっ!!
-  for: piano and fixed media
-  year: 2023
-  type: composition
-  jasrac: 305-3892-1
-  note: null
-  url: null
-
-- title: Dempa-chan never dies♡
-  for: any instrument(s); versions for viola or piano
-  year: 2023
-  type: composition
-  note: null
-  jasrac: 294-5425-5
-  url: null
-
-- title: will i never understand falling in love?
-  type: composition
-  year: 2023
-  for: vocal or any instrument(s)
-  jasrac: 305-3885-8
-  note: null
-  url: null
-
-- title: Endless Haruhi Scale
-  type: videogram
-  year: 2023
-  jasrac: 305-3881-5
-  note: null
-  url: null
-
-- title: but...you're a minor, right?
-  for: piano and fixed media
-  year: 2023
-  type: composition
-  jasrac: 305-3880-7
-  note: null
-  url: null
-
-- title: Anime Phenomenological Reduction
-  for: voices
-  year: 2023
-  type: composition
-  jasrac: 305-3879-3
-  note: null
-  url: null
-
-- title: i'm scared of dying. what do i do?
-  for: violin
-  year: 2023
-  jasrac: 282-9232-4
-  note: null
-  url: null
-
-- title: Copy and paste, mass produced/consumed irregular/imperfectly shaped plastic pearls and Me.
-  for: violin
-  year: 2023
-  type: composition
-  jasrac: null
-  note: null
-  url: null
-
-- title: Embellish Me!
-  for: violin
-  year: 2023
-  jasrac: 283-3178-8
-  type: composition
-  note: null
-  url: null
-
-- title: Alice in Abandoned Akihabara No.1
-  for: violin
-  year: 2023
-  type: composition
-  jasrac: 283-3181-8
-  note: null
-  url: null
-
-- title: Alice in Abandoned Akihabara No.2
-  for: violin
-  year: 2023
-  type: composition
-  jasrac: 283-3182-6
-  note: null
-  url: null
-
-- title: Melt Me!
-  for: violin
-  year: 2023
-  type: composition
-  jasrac: 283-3179-6
-  note: null
-  url: null
-
-- title: What the hell are you doing?!
-  type: videogram
-  year: 2023
-  jasrac: 283-3177-0
-  type: composition
-  note: null
-  url: null
-
-- title: Moe²Girl No.2
-  for: any instrument(s) and fixed media; versions for piano, violin, cello, or violin-cello
-  year: 2022
-  type: composition
-  note: also versions for piano, violin, cello, or violin-cello
-  jasrac: 283-6027-3
-  url: null
-
-- title: Moe²Girl
-  for: any instrument(s) and fixed media; versions for piano, violin, cello, or violin-cello
-  year: 2022
-  note: also versions for piano, violin, cello, or violin-cello
-  jasrac: 283-3183-4
-  type: composition
-  url: null
-
-- title: Moe²Girl
-  for: piano, violin, cello, or violin-cello
-  year: 2022
-  note: null
-  jasrac: 283-3184-2
-  type: composition
-  url: null
-
-- title: Plastic Vagina
-  for: violin
-  year: 2022
-  type: composition
-  jasrac: null
-  note: null
-  url: null
-
-- title: DEVILBOY
-  for: violin and Disklavier™
-  year: 2021
-  note: A collaborative project with Yamaha Corporation. A piece for Disklavier™ (a reproducing piano) and violin utilizing AI Music Ensemble Technology.
-  url: https://www.youtube.com/watch?v=U6eHapViaDw
-  jasrac: null
-  type: composition
-
-- title: Tagging
-  for: Cadenza, Mozart Violin Concerto No.3
-  year: 2021
-  jasrac: null
-  note: null
-  url: null
-  type: composition
-
-- title: Super Grape!
-  for: violin
-  year: 2021
-  jasrac: null
-  note: null
-  type: composition
-  url: null
-
-- title: 050-5445-5449, Lion Exterminator Saint-Saëns
-  for: MOH (music on hold), on PSTN/PBX system
-  year: 2022
-  note: IVR programmed by Hijiri Umemoto.
-  jasrac: 284-0284-7
-  url: null
-  type: composition
-
-
-- title: 050-5445-5448, Plumber Franz Liszt
-  for: MOH (music on hold), on PSTN/PBX system
-  year: 2022
-  note: IVR programmed by Hijiri Umemoto.
+  year: '2021'
+- assign_date: null
+  for: ' MOH (music on hold)'
   jasrac: 284-0285-5
-  url: null
+  our_reference: 284-0285-5
+  registered_name: ０５０－５４４５－５４４８　ＰＬＵＭＢＥＲ　ＦＲＡＮＺ　ＬＩ
+  registration_status: 登録済み
+  subtitle: Plumber Franz Liszt
+  subtitle_for_registration: Plumber Franz Liszt
+  subtitle_kana: null
+  title: 050-5445-5448  for MOH (music on hold)
+  title_alphanumeric: '050 5445 5448  FOR MOH  MUSIC ON HOLD '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: 050-5445-5448 (2022) for MOH (music on hold)
   type: composition
-
-
-- title: 050-5857-9289, Locksmith Josef Strauss
-  for: IVR (interactive voice response)
-  year: 2022
-  note: IVR programmed by Hijiri Umemoto.
+  year: '2022'
+- assign_date: null
+  for: ' MOH (music on hold)'
+  jasrac: 284-0284-7
+  our_reference: 284-0284-7
+  registered_name: ０５０－５４４５－５４４９　ＬＩＯＮ　ＥＸＴＥＲＭＩＮＡＴＯ
+  registration_status: 登録済み
+  subtitle: Lion Extermination
+  subtitle_for_registration: Lion Extermination
+  subtitle_kana: null
+  title: 050-5445-5449  for MOH (music on hold)
+  title_alphanumeric: '050 5445 5449  FOR MOH  MUSIC ON HOLD '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: 050-5445-5449 (2022) for MOH (music on hold)
+  type: composition
+  year: '2022'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' music on hold'
+  jasrac: null
+  our_reference: 202412171-6
+  registered_name: null
+  registration_status: 未登録
+  subtitle: 「050-5857-9289」保留音のための (2021)
+  subtitle_for_registration: 「050-5857-9289」保留音のための (2021)
+  subtitle_kana: ０５０　５８５７　９２８９　ホリュウオン　ノ　タメノ
+  title: 050-5857-9289  for music on hold
+  title_alphanumeric: 050 5857 9289  FOR MUSIC ON HOLD
+  title_alphanumeric_altered: null
+  title_kana: ０５０　５８５７　９２８９
+  title_long: 050-5857-9289 (2021) for music on hold
+  type: composition
+  year: '2021'
+- assign_date: null
+  for: ' IVR (interactive voice response)'
   jasrac: 284-0286-3
-  url: null
+  our_reference: 284-0286-3
+  registered_name: ０５０－５８５７－９２８９　ＬＯＣＫＳＭＩＴＨ　ＪＯＳＥＦ　
+  registration_status: 登録済み
+  subtitle: Locksmith Josef Strauss
+  subtitle_for_registration: Locksmith Josef Strauss
+  subtitle_kana: null
+  title: 050-5857-9289  for IVR (interactive voice response)
+  title_alphanumeric: '050 5857 9289  FOR IVR  INTERACTIVE VOICE RESPONSE '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: 050-5857-9289 (2022) for IVR (interactive voice response)
   type: composition
-
-- title: MOMOMOMOMOEMOE♡
-  for: violin
-  year: 2021
-  jasrac: 284-0292-8
-  note: null
-  url: null
-  type: composition
-
-- title: MOMOMOMOMOEMOE♡
-  for: cello
-  year: 2021
-  jasrac: 284-0291-0
-  note: null
-  url: null
-  type: composition
-
-- title: SUPERBACHBOY 3
-  for: cello and electronics
-  year: 2021
-  jasrac: 284-0289-8
-  note: null
-  type: composition
-  url: null
-
-- title: SUPERBACHBOY 2
-  for: violin
-  year: 2021
-  jasrac: 284-0290-1
-  note: null
-  url: null
-  type: composition
-
-- title: SUPERBACHBOY
-  for: cello
-  year: 2020
+  year: '2022'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' toy piano'
   jasrac: null
-  note: null
-  url: null
+  our_reference: 202412171-8
+  registered_name: null
+  registration_status: 未登録
+  subtitle: トイピアノのための
+  subtitle_for_registration: トイピアノのための
+  subtitle_kana: トイピアノ　ノ　タメノ
+  title: moon   - 3 pieces for toy piano
+  title_alphanumeric: MOON     3 PIECES FOR TOY PIANO
+  title_alphanumeric_altered: null
+  title_kana: ムーン
+  title_long: moon (2020)  - 3 pieces for toy piano
   type: composition
-
-- title: Oo./x
-  for: orchestra
-  year: 2020
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' toy piano'
   jasrac: null
-  note: null
-  url: null
+  our_reference: 202412171-9
+  registered_name: null
+  registration_status: 未登録
+  subtitle: トイピアノのための
+  subtitle_for_registration: トイピアノのための
+  subtitle_kana: トイピアノ　ノ　タメノ
+  title: metron    - 3 pieces for toy piano
+  title_alphanumeric: METRON      3 PIECES FOR TOY PIANO
+  title_alphanumeric_altered: null
+  title_kana: メトロン
+  title_long: metron  (2020)  - 3 pieces for toy piano
   type: composition
-
-- title: Piko-ko!
-  for: piano
-  year: 2020
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' toy piano'
   jasrac: null
-  note: null
-  url: null
+  our_reference: 202412171-10
+  registered_name: null
+  registration_status: 未登録
+  subtitle: トイピアノのための
+  subtitle_for_registration: トイピアノのための
+  subtitle_kana: トイピアノ　ノ　タメノ
+  title: night   - 3 pieces for toy piano
+  title_alphanumeric: NIGHT     3 PIECES FOR TOY PIANO
+  title_alphanumeric_altered: null
+  title_kana: ナイト
+  title_long: night (2020)  - 3 pieces for toy piano
   type: composition
-
-- title: Fluffy Pink!
-  title_ja: フラッフィー・ピンク
-  for: string quartet
-  year: 2020
-  jasrac: 283-6029-0
-  note: null
-  url: null
+  year: '2020'
+- assign_date: null
+  for: null
+  jasrac: 283-3181-8
+  our_reference: 283-3181-8
+  registered_name: 廃墟・秋葉原のアリス１（２０２２）
+  registration_status: 登録済み
+  subtitle: 廃墟・秋葉原のアリス１
+  subtitle_for_registration: 廃墟・秋葉原のアリス１
+  subtitle_kana: null
+  title: 'Alice in Abandoned Akihabara 1 '
+  title_alphanumeric: 'ALICE IN ABANDONED AKIHABARA 1 '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Alice in Abandoned Akihabara 1 (2022)
   type: composition
-
-- title: Dawning
-  for: guitar
-  year: 2019
+  year: '2022'
+- assign_date: null
+  for: null
+  jasrac: 283-3182-6
+  our_reference: 283-3182-6
+  registered_name: 廃墟・秋葉原のアリス２（２０２２）
+  registration_status: 登録済み
+  subtitle: 廃墟・秋葉原のアリス２
+  subtitle_for_registration: 廃墟・秋葉原のアリス２
+  subtitle_kana: null
+  title: 'Alice in Abandoned Akihabara 1 '
+  title_alphanumeric: 'ALICE IN ABANDONED AKIHABARA 1 '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Alice in Abandoned Akihabara 1 (2022)
   type: composition
+  year: '2022'
+- assign_date: null
+  for: ' voices '
+  jasrac: 305-3879-3
+  our_reference: 305-3879-3
+  registered_name: アニメ・現象学的還元
+  registration_status: 登録済み
+  subtitle: アニメ・現象学的還元
+  subtitle_for_registration: アニメ・現象学的還元
+  subtitle_kana: null
+  title: 'Anime Phenomenological Reduction for voices '
+  title_alphanumeric: 'ANIME PHENOMENOLOGICAL REDUCTION FOR VOICES '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Anime Phenomenological Reduction for voices (2023)
+  type: composition
+  year: '2023'
+- assign_date: null
+  for: null
+  jasrac: 305-3882-3
+  our_reference: 305-3882-3
+  registered_name: ＡＵＧ．ＨＯＣＫＥＴ
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: AUG.HOCKET
+  title_alphanumeric: AUG HOCKET
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: AUG.HOCKET
+  type: composition
+  year: null
+- assign_date: null
+  for: ' solo violin'
+  jasrac: 284-0281-2
+  our_reference: 284-0281-2
+  registered_name: ＡＵＴＯＭＡＴＩＳＭ　１Ａ　（２０１８）　ＦＯＲ　ＳＯＬＯ　
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Automatism 1a  for solo violin
+  title_alphanumeric: AUTOMATISM 1A  FOR SOLO VIOLIN
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Automatism 1a (2018) for solo violin
+  type: composition
+  year: '2018'
+- assign_date: null
+  for: ' solo violin'
+  jasrac: 284-0282-1
+  our_reference: 284-0282-1
+  registered_name: ＡＵＴＯＭＡＴＩＳＭ　１Ｂ　（２０１８）　ＦＯＲ　ＳＯＬＯ　
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Automatism 1b  for solo violin
+  title_alphanumeric: AUTOMATISM 1B  FOR SOLO VIOLIN
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Automatism 1b (2018) for solo violin
+  type: composition
+  year: '2018'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' cello'
   jasrac: null
-  note: null
-  url: null
-
-- title: Euangelion
-  for: guitar
-  year: 2018
+  our_reference: 202412171-17
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Automatism 2  for cello
+  title_alphanumeric: AUTOMATISM 2  FOR CELLO
+  title_alphanumeric_altered: null
+  title_kana: オートマティズム　1
+  title_long: Automatism 2 (2019) for cello
   type: composition
+  year: '2019'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' cello'
+  jasrac: null
+  our_reference: 202412171-18
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Barocco Machine  for cello
+  title_alphanumeric: BAROCCO MACHINE  FOR CELLO
+  title_alphanumeric_altered: null
+  title_kana: バロッコ　マシーン
+  title_long: Barocco Machine (2019) for cello
+  type: composition
+  year: '2019'
+- assign_date: null
+  for: ' piano and fixed media '
+  jasrac: 305-3892-1
+  our_reference: 305-3892-1
+  registered_name: ＢＡＲＲＡＧＥ〓
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'barrage▂▃▅▆▇▂▃▅゚∀゚)ﾉ゚∀゚)ﾉ∀゚)ﾉ゚)ﾉ)ﾉ━━━rrrっ!! for piano and fixed media '
+  title_alphanumeric: 'BARRAGE                              RRR    FOR PIANO AND FIXED
+    MEDIA '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: barrage▂▃▅▆▇▂▃▅゚∀゚)ノ゚∀゚)ノ∀゚)ノ゚)ノ)ノ━━━rrrっ!! for piano and fixed media
+    (2023)
+  type: composition
+  year: '2023'
+- assign_date: null
+  for: ' piano and fixed media '
+  jasrac: 305-3880-7
+  our_reference: 305-3880-7
+  registered_name: でも、未成年でしょ？
+  registration_status: 登録済み
+  subtitle: でも、未成年でしょ？
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'but…you''re a minor, right? for piano and fixed media '
+  title_alphanumeric: 'BUT YOU RE A MINOR  RIGHT? FOR PIANO AND FIXED MEDIA '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: but…you’re a minor, right? for piano and fixed media (2023)
+  type: composition
+  year: '2023'
+- assign_date: '2024-01-01 00:00:00'
+  for: ' piano or cello'
+  jasrac: null
+  our_reference: 202412171-21
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: でも、未成年でしょ？
+  subtitle_kana: null
+  title: Christe eleison for any instrument(s) and fixed media  versions for piano
+    or cello
+  title_alphanumeric: CHRISTE ELEISON FOR ANY INSTRUMENT S  AND FIXED MEDIA  VERSIONS
+    FOR PIANO OR CELLO
+  title_alphanumeric_altered: null
+  title_kana: クリステ　エレイソン
+  title_long: Christe eleison for any instrument(s) and fixed media (2024) versions
+    for piano or cello
+  type: composition
+  year: '2024'
+- assign_date: '2024-01-01 00:00:00'
+  for: ' piano or cello'
+  jasrac: null
+  our_reference: 202412171-22
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Confiteor for any instrument(s) and fixed media  versions for piano or cello
+  title_alphanumeric: CONFITEOR FOR ANY INSTRUMENT S  AND FIXED MEDIA  VERSIONS FOR
+    PIANO OR CELLO
+  title_alphanumeric_altered: null
+  title_kana: コンフィテオール
+  title_long: Confiteor for any instrument(s) and fixed media (2024) versions for
+    piano or cello
+  type: composition
+  year: '2024'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' violin '
+  jasrac: null
+  our_reference: 202412171-23
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'Copy and paste, mass produced/consumed irregular/imperfectly shaped plastic
+    pearls and Me. for violin '
+  title_alphanumeric: 'COPY AND PASTE  MASS PRODUCED CONSUMED IRREGULAR IMPERFECTLY
+    SHAPED PLASTIC PEARLS AND ME  FOR VIOLIN '
+  title_alphanumeric_altered: null
+  title_kana: コピー　アンド　ペースト　マス　プロデュースド　コンシュームド　イレギュラー　インパーフェクトリー　シェイプド　プラスティック　パールズ　アンド　ミー　フォー　ヴァイオリン
+  title_long: Copy and paste, mass produced/consumed irregular/imperfectly shaped
+    plastic pearls and Me. for violin (2023)
+  type: composition
+  year: '2023'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' any instrument(s)'
+  jasrac: null
+  our_reference: 202412171-24
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: cuddly  for any instrument(s)
+  title_alphanumeric: 'CUDDLY  FOR ANY INSTRUMENT S '
+  title_alphanumeric_altered: null
+  title_kana: カドリー
+  title_long: cuddly (2020) for any instrument(s)
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' guitar'
+  jasrac: null
+  our_reference: 202412171-25
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Dawning  for guitar
+  title_alphanumeric: DAWNING  FOR GUITAR
+  title_alphanumeric_altered: null
+  title_kana: ドーニング
+  title_long: Dawning (2020) for guitar
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' violin and AI-piano'
+  jasrac: null
+  our_reference: 202412171-26
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: DEVILBOY  for violin and AI-piano
+  title_alphanumeric: DEVILBOY  FOR VIOLIN AND AI PIANO
+  title_alphanumeric_altered: null
+  title_kana: デヴィルボーイ
+  title_long: DEVILBOY (2021) for violin and AI-piano
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' vibraphone'
+  jasrac: null
+  our_reference: 202412171-27
+  registered_name: null
+  registration_status: 未登録
+  subtitle: 「電子小吃」ビブラフォンのための
+  subtitle_for_registration: 「電子小吃」ビブラフォンのための
+  subtitle_kana: ディエンツー　シャオチー　ビブラフォンノ　タメノ
+  title: Dianzi Xiaochi!  for vibraphone
+  title_alphanumeric: DIANZI XIAOCHI   FOR VIBRAPHONE
+  title_alphanumeric_altered: null
+  title_kana: ディエンツー　シャオチー
+  title_long: Dianzi Xiaochi! (2020) for vibraphone
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' any instruments'
+  jasrac: null
+  our_reference: 202412171-28
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Different Times  for any instruments
+  title_alphanumeric: DIFFERENT TIMES  FOR ANY INSTRUMENTS
+  title_alphanumeric_altered: null
+  title_kana: ディフォレント　タイムズ
+  title_long: Different Times (2020) for any instruments
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' electric guitar'
+  jasrac: null
+  our_reference: 202412171-29
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Dream Sandwich  for electric guitar
+  title_alphanumeric: DREAM SANDWICH  FOR ELECTRIC GUITAR
+  title_alphanumeric_altered: null
+  title_kana: ドリーム　サンドウィッチ
+  title_long: Dream Sandwich (2020) for electric guitar
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' string trio'
+  jasrac: null
+  our_reference: 202412171-30
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Dreaming Brain  for string trio
+  title_alphanumeric: DREAMING BRAIN  FOR STRING TRIO
+  title_alphanumeric_altered: null
+  title_kana: ドリーミング　ブレイン
+  title_long: Dreaming Brain (2019) for string trio
+  type: composition
+  year: '2019'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' violin and string orchestra'
+  jasrac: null
+  our_reference: 202412171-31
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Elegy  for violin and string orchestra
+  title_alphanumeric: ELEGY  FOR VIOLIN AND STRING ORCHESTRA
+  title_alphanumeric_altered: null
+  title_kana: エレジー
+  title_long: Elegy (2018) for violin and string orchestra
+  type: composition
+  year: '2018'
+- assign_date: null
+  for: ' violin'
+  jasrac: 283-3178-8
+  our_reference: 283-3178-8
+  registered_name: ＥＭＢＥＬＬＩＳＨ　ＭＥ！（２０２２）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Embellish Me!  for violin
+  title_alphanumeric: EMBELLISH ME   FOR VIOLIN
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Embellish Me! (2022) for violin
+  type: composition
+  year: '2022'
+- assign_date: null
+  for: ' Guitar '
   jasrac: 283-6028-1
-  note: null
-  url: null
-
-- title: Overwritten Girl - Overwriting Overwritten Girl
+  our_reference: 283-6028-1
+  registered_name: ＥＵＡＮＧＥＬＩＯＮ　－　ＴＷＯ　ＰＩＥＣＥＳ　ＦＯＲ　ＧＵ
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'Euangélion Two pieces for Guitar '
+  title_alphanumeric: 'EUANG LION TWO PIECES FOR GUITAR '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Euangélion Two pieces for Guitar (2018)
   type: composition
+  year: '2018'
+- assign_date: null
   for: null
-  year: 2023
-  jasrac: 305-3887-4
-
-- title: Overwritten Girl - good night.
+  jasrac: 283-6026-5
+  our_reference: 283-6026-5
+  registered_name: いんちき音楽　ＳＴＶＲＷＶＲＳ
+  registration_status: 登録済み
+  subtitle: いんちき音楽　ＳＴＶＲＷＶＲＳ
+  subtitle_for_registration: いんちき音楽　ＳＴＶＲＷＶＲＳ
+  subtitle_kana: null
+  title: Fake Music STVRWVRS
+  title_alphanumeric: FAKE MUSIC STVRWVRS
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Fake Music STVRWVRS
   type: composition
+  year: null
+- assign_date: null
   for: null
-  year: 2023
-  jasrac: 306-7059-4
-  
-- title: Super Sampling Classic Bomb for MC Battle
+  jasrac: 283-6024-9
+  our_reference: 283-6024-9
+  registered_name: いんちき音楽　ウィッキーワウスウォーチ
+  registration_status: 登録済み
+  subtitle: いんちき音楽　ウィッキーワウスウォーチ
+  subtitle_for_registration: いんちき音楽　ウィッキーワウスウォーチ
+  subtitle_kana: null
+  title: Fake Music Wicky Wouse Warch
+  title_alphanumeric: FAKE MUSIC WICKY WOUSE WARCH
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Fake Music Wicky Wouse Warch
   type: composition
-  for: MC rap, orchestra
-  year: 2024
+  year: null
+- assign_date: null
+  for: null
+  jasrac: 283-6025-7
+  our_reference: 283-6025-7
+  registered_name: いんちき音楽　ドうえ毛ん
+  registration_status: 登録済み
+  subtitle: いんちき音楽　ドうえ毛ん
+  subtitle_for_registration: いんちき音楽　ドうえ毛ん
+  subtitle_kana: null
+  title: Fake Music Douemon
+  title_alphanumeric: FAKE MUSIC DOUEMON
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Fake Music Douemon
+  type: composition
+  year: null
+- assign_date: '2023-03-07 00:00:00'
+  for: ' 2 trumpets, percussion and 4 cellos'
+  jasrac: null
+  our_reference: 202412171-37
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Fanfare  for 2 trumpets, percussion and 4 cellos
+  title_alphanumeric: FANFARE  FOR 2 TRUMPETS  PERCUSSION AND 4 CELLOS
+  title_alphanumeric_altered: null
+  title_kana: ファンファーレ
+  title_long: Fanfare (2020) for 2 trumpets, percussion and 4 cellos
+  type: composition
+  year: '2020'
+- assign_date: null
+  for: ' string quartet'
+  jasrac: 283-6029-0
+  our_reference: 283-6029-0
+  registered_name: フラッフィー・ピンク，弦楽四重奏のための
+  registration_status: 登録済み
+  subtitle: フラッフィー・ピンク，弦楽四重奏のための
+  subtitle_for_registration: フラッフィー・ピンク，弦楽四重奏のための
+  subtitle_kana: null
+  title: Fluffy Pink!  for string quartet
+  title_alphanumeric: FLUFFY PINK   FOR STRING QUARTET
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Fluffy Pink! (2020) for string quartet
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' flute'
+  jasrac: null
+  our_reference: 202412171-39
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Flying  for flute
+  title_alphanumeric: FLYING  FOR FLUTE
+  title_alphanumeric_altered: null
+  title_kana: フラッフィー　ピンク　フォー　フルート
+  title_long: Flying (2019) for flute
+  type: composition
+  year: '2019'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' guitar'
+  jasrac: null
+  our_reference: 202412171-40
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Fragrance  for guitar
+  title_alphanumeric: FRAGRANCE  FOR GUITAR
+  title_alphanumeric_altered: null
+  title_kana: フレイグランス
+  title_long: Fragrance (2020) for guitar
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' cello'
+  jasrac: null
+  our_reference: 202412171-41
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Gazing  for cello
+  title_alphanumeric: GAZING  FOR CELLO
+  title_alphanumeric_altered: null
+  title_kana: ゲイズィング
+  title_long: Gazing (2020) for cello
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' clarinet duo'
+  jasrac: null
+  our_reference: 202412171-42
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Ghosts  for clarinet duo
+  title_alphanumeric: GHOSTS  FOR CLARINET DUO
+  title_alphanumeric_altered: null
+  title_kana: ゴースツ
+  title_long: Ghosts (2020) for clarinet duo
+  type: composition
+  year: '2020'
+- assign_date: '2024-01-01 00:00:00'
+  for: ' piano'
+  jasrac: null
+  our_reference: 202412171-43
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Gloria in excelsis Deo for any instrument(s) and fixed media  version for
+    piano
+  title_alphanumeric: GLORIA IN EXCELSIS DEO FOR ANY INSTRUMENT S  AND FIXED MEDIA  VERSION
+    FOR PIANO
+  title_alphanumeric_altered: null
+  title_kana: グローリア　イン　ケクチェルシス　デオ
+  title_long: Gloria in excelsis Deo for any instrument(s) and fixed media (2024)
+    version for piano
+  type: composition
+  year: '2024'
+- assign_date: null
+  for: null
+  jasrac: 305-3889-1
+  our_reference: 305-3889-1
+  registered_name: ＨＥＮＴＡＩ！！！　（２０２４）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'HENTAI!!! '
+  title_alphanumeric: 'HENTAI    '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: HENTAI!!! (2024)
+  type: composition
+  year: '2024'
+- assign_date: null
+  for: ' snare drum and electronics '
+  jasrac: 305-3890-4
+  our_reference: 305-3890-4
+  registered_name: Ｉ　ＤＯＮ’Ｔ　ＬＯＶＥ　ＹＯＵＳＥＮＰＡＩ…ＳＥＮＰＡＩ．
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'I don''t love you…Senpai. for snare drum and electronics '
+  title_alphanumeric: 'I DON T LOVE YOU SENPAI  FOR SNARE DRUM AND ELECTRONICS '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: I don’t love you…Senpai. for snare drum and electronics (2024)
+  type: composition
+  year: '2024'
+- assign_date: null
+  for: null
+  jasrac: 305-3884-0
+  our_reference: 305-3884-0
+  registered_name: Ｉ　ＬＡＮＧＵＩＳＨ　ＡＮＤ　ＤＩＥ　（２０２３）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'I LANGUISH AND DIE '
+  title_alphanumeric: 'I LANGUISH AND DIE '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: I LANGUISH AND DIE (2023)
+  type: composition
+  year: '2023'
+- assign_date: null
+  for: ' violin '
+  jasrac: 282-9232-4
+  our_reference: 282-9232-4
+  registered_name: Ｉ’Ｍ　ＳＣＡＲＥＤ　ＯＦ　ＤＹＩＮＧ．　ＷＨＡＴ　ＤＯ　Ｉ
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'i''m scared of dying. what do i do? for violin '
+  title_alphanumeric: 'I M SCARED OF DYING  WHAT DO I DO? FOR VIOLIN '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: i’m scared of dying. what do i do? for violin (2023)
+  type: composition
+  year: '2023'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' violin, viola, cello and piano'
+  jasrac: null
+  our_reference: 202412171-48
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: IAAT  for violin, viola, cello and piano
+  title_alphanumeric: IAAT  FOR VIOLIN  VIOLA  CELLO AND PIANO
+  title_alphanumeric_altered: null
+  title_kana: アイエイエイティー
+  title_long: IAAT (2019) for violin, viola, cello and piano
+  type: composition
+  year: '2019'
+- assign_date: null
+  for: null
+  jasrac: 305-3888-2
+  our_reference: 305-3888-2
+  registered_name: ＩＤＥＮＴＩＴＹ　ＣＲＩＳＩＳ　ＭＡＨＩＲＯＣＨＡＮ
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Identiry Crisis Mahirochan
+  title_alphanumeric: IDENTIRY CRISIS MAHIROCHAN
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Identiry Crisis Mahirochan
+  type: composition
+  year: null
+- assign_date: '2023-03-07 00:00:00'
+  for: ' shamisen, flute, percussion and cello'
+  jasrac: null
+  our_reference: 202412171-50
+  registered_name: null
+  registration_status: 未登録
+  subtitle: 「絡繰木樵人形」三味線、フルート、打楽器とチェロのための
+  subtitle_for_registration: 「絡繰木樵人形」三味線、フルート、打楽器とチェロのための
+  subtitle_kana: カラクリ　キコリ　ニンギョウ　シャミセン　フルート　ダガッキ　ト　チェロ　ノ　タメノ
+  title: Karakuri Kikori Ningyo  for shamisen, flute, percussion and cello
+  title_alphanumeric: KARAKURI KIKORI NINGYO  FOR SHAMISEN  FLUTE  PERCUSSION AND
+    CELLO
+  title_alphanumeric_altered: null
+  title_kana: カラクリ　キコリ　ニンギョウ
+  title_long: Karakuri Kikori Ningyo (2020) for shamisen, flute, percussion and cello
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' shamisen, flute, percussion and cello'
+  jasrac: null
+  our_reference: 202412171-51
+  registered_name: null
+  registration_status: 未登録
+  subtitle: 「刈干切唄」三味線、フルート、打楽器とチェロのための
+  subtitle_for_registration: 「刈干切唄」三味線、フルート、打楽器とチェロのための
+  subtitle_kana: カリボシキリウタ　ニンギョウ　シャミセン　フルート　ダガッキ　ト　チェロ　ノ　タメノ
+  title: Kariboshikiriuta  for shamisen, flute, percussion and cello
+  title_alphanumeric: KARIBOSHIKIRIUTA  FOR SHAMISEN  FLUTE  PERCUSSION AND CELLO
+  title_alphanumeric_altered: null
+  title_kana: カリボシキリウタ
+  title_long: Kariboshikiriuta (2020) for shamisen, flute, percussion and cello
+  type: composition
+  year: '2020'
+- assign_date: '2024-01-01 00:00:00'
+  for: ' piano or cello'
+  jasrac: null
+  our_reference: 202412171-52
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Kyrie eleison for any instrument(s) and fixed media  versions for piano or
+    cello
+  title_alphanumeric: KYRIE ELEISON FOR ANY INSTRUMENT S  AND FIXED MEDIA  VERSIONS
+    FOR PIANO OR CELLO
+  title_alphanumeric_altered: null
+  title_kana: キリエ　エレイソン
+  title_long: Kyrie eleison for any instrument(s) and fixed media (2024) versions
+    for piano or cello
+  type: composition
+  year: '2024'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' vibraphone'
+  jasrac: null
+  our_reference: 202412171-53
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Landscape Erode in to A  for vibraphone
+  title_alphanumeric: LANDSCAPE ERODE IN TO A  FOR VIBRAPHONE
+  title_alphanumeric_altered: null
+  title_kana: ランドスケープ　エロード　イントゥ　エイ
+  title_long: Landscape Erode in to A (2019) for vibraphone
+  type: composition
+  year: '2019'
+- assign_date: '2024-01-01 00:00:00'
+  for: ' violin, cello and fixed media '
+  jasrac: null
+  our_reference: 202412171-54
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'look at me, senpai for violin, cello and fixed media '
+  title_alphanumeric: 'LOOK AT ME  SENPAI FOR VIOLIN  CELLO AND FIXED MEDIA '
+  title_alphanumeric_altered: null
+  title_kana: ルック　アット　ミー　センパイ
+  title_long: look at me, senpai for violin, cello and fixed media (2024)
+  type: composition
+  year: '2024'
+- assign_date: null
+  for: ' MC battle and orchestra'
   jasrac: 305-3893-9
+  our_reference: 305-3893-9
+  registered_name: ＭＣバトルのための、スーパー・サンプリングクラシック・ボム（
+  registration_status: 登録済み
+  subtitle: ＭＣバトルのための、スーパー・サンプリングクラシック・ボム（
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Super Sampling Classic Bomb for MC battle and orchestra
+  title_alphanumeric: SUPER SAMPLING CLASSIC BOMB FOR MC BATTLE AND ORCHESTRA
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Super Sampling Classic Bomb for MC battle and orchestra
+  type: composition
+  year: null
+- assign_date: null
+  for: ' violin'
+  jasrac: 283-3179-6
+  our_reference: 283-3179-6
+  registered_name: ＭＥＬＴ　ＭＥ！（２０２２）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Melt Me!  for violin
+  title_alphanumeric: MELT ME   FOR VIOLIN
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Melt Me! (2022) for violin
+  type: composition
+  year: '2022'
+- assign_date: null
+  for: ' violin'
+  jasrac: 284-0292-8
+  our_reference: 284-0292-8
+  registered_name: もももも萌え萌え
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Momomomo-moemoe♡  for violin
+  title_alphanumeric: MOMOMOMO MOEMOE   FOR VIOLIN
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Momomomo-moemoe♡ (2021) for violin
+  type: composition
+  year: '2021'
+- assign_date: null
+  for: ' cello) '
+  jasrac: 284-0291-0
+  our_reference: 284-0291-0
+  registered_name: もももも萌え萌え（チェロバージョン）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'Momomomomoemoe (ver. for cello) '
+  title_alphanumeric: 'MOMOMOMOMOEMOE  VER  FOR CELLO  '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Momomomomoemoe (ver. for cello) (2021)
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' piano'
+  jasrac: null
+  our_reference: 202412171-59
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Mopohophony  for piano
+  title_alphanumeric: MOPOHOPHONY  FOR PIANO
+  title_alphanumeric_altered: null
+  title_kana: モポホフォニー
+  title_long: Mopohophony (2019) for piano
+  type: composition
+  year: '2019'
+- assign_date: null
+  for: ' Pays des Fees 2024 Spring/Summer'
+  jasrac: 305-3883-1
+  our_reference: 305-3883-1
+  registered_name: ＭＵＳＩＣ　ＦＯＲ”ＰＡＹＳ　ＤＥＳ　ＦＥＥＳ”２０２４　Ｓ
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Music for Pays des Fees 2024 Spring/Summer
+  title_alphanumeric: MUSIC FOR PAYS DES FEES 2024 SPRING SUMMER
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Music for Pays des Fees 2024 Spring/Summer
+  type: composition
+  year: null
+- assign_date: '2023-03-07 00:00:00'
+  for: null
+  jasrac: null
+  our_reference: 202412171-61
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'Music Omikuji Phone '
+  title_alphanumeric: 'MUSIC OMIKUJI PHONE '
+  title_alphanumeric_altered: null
+  title_kana: ミュージック　オミクジ　フォーン
+  title_long: Music Omikuji Phone (2022)
+  type: composition
+  year: '2022'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' piano (left hand)'
+  jasrac: null
+  our_reference: 202412171-62
+  registered_name: null
+  registration_status: 未登録
+  subtitle: ワンストローク、左手ピアノのための
+  subtitle_for_registration: ワンストローク、左手ピアノのための
+  subtitle_kana: ワンストローク　ヒダリテ　ピアノノ　タメノ
+  title: One Stroke  for piano (left hand)
+  title_alphanumeric: 'ONE STROKE  FOR PIANO  LEFT HAND '
+  title_alphanumeric_altered: null
+  title_kana: ワンストローク
+  title_long: One Stroke (2020) for piano (left hand)
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' orchestra'
+  jasrac: null
+  our_reference: 202412171-63
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Oo./x  for orchestra
+  title_alphanumeric: OO  X  FOR ORCHESTRA
+  title_alphanumeric_altered: null
+  title_kana: オー　オー　ドット　スラッシュ　エックス
+  title_long: Oo./x (2020) for orchestra
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' piano'
+  jasrac: null
+  our_reference: 202412171-64
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Piko-ko!  for piano
+  title_alphanumeric: PIKO KO   FOR PIANO
+  title_alphanumeric_altered: null
+  title_kana: ピココ
+  title_long: Piko-ko! (2020) for piano
+  type: composition
+  year: '2020'
+- assign_date: null
+  for: ' violin'
+  jasrac: 284-0280-4
+  our_reference: 284-0280-4
+  registered_name: ＰＬＡＳＴＩＣ　ＶＡＧＩＮＡ　（２０２２）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Plastic Vagina  for violin
+  title_alphanumeric: PLASTIC VAGINA  FOR VIOLIN
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Plastic Vagina (2022) for violin
+  type: composition
+  year: '2022'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' clarinet'
+  jasrac: null
+  our_reference: 202412171-66
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Psychedelic Candy  for clarinet
+  title_alphanumeric: PSYCHEDELIC CANDY  FOR CLARINET
+  title_alphanumeric_altered: null
+  title_kana: サイケデリック　キャンディー
+  title_long: Psychedelic Candy (2020) for clarinet
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' violin'
+  jasrac: null
+  our_reference: 202412171-67
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: REMS  for violin
+  title_alphanumeric: REMS  FOR VIOLIN
+  title_alphanumeric_altered: null
+  title_kana: レムス
+  title_long: REMS (2019) for violin
+  type: composition
+  year: '2019'
+- assign_date: null
+  for: ' saxophone orchestra'
+  jasrac: 284-0287-1
+  our_reference: 284-0287-1
+  registered_name: ＳＡＸＯＰＨＯＮＥ　ＲＥＮＧＯ　（２０２２）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: SAXOPHONE RENGO  for saxophone orchestra
+  title_alphanumeric: SAXOPHONE RENGO  FOR SAXOPHONE ORCHESTRA
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: SAXOPHONE RENGO (2022) for saxophone orchestra
+  type: composition
+  year: '2022'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' viola, video and live electronics'
+  jasrac: null
+  our_reference: 202412171-69
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Sensus   for viola, video and live electronics
+  title_alphanumeric: SENSUS   FOR VIOLA  VIDEO AND LIVE ELECTRONICS
+  title_alphanumeric_altered: null
+  title_kana: センサス
+  title_long: Sensus (2019)  for viola, video and live electronics
+  type: composition
+  year: '2019'
+- assign_date: '2024-01-01 00:00:00'
+  for: ' tenor saxophone '
+  jasrac: null
+  our_reference: 202412171-70
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'shopping mall in landfill for tenor saxophone '
+  title_alphanumeric: 'SHOPPING MALL IN LANDFILL FOR TENOR SAXOPHONE '
+  title_alphanumeric_altered: null
+  title_kana: ショッピング　モール　イン　ランドフィル
+  title_long: shopping mall in landfill for tenor saxophone (2024)
+  type: composition
+  year: '2024'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' clarinet'
+  jasrac: null
+  our_reference: 202412171-71
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Silent Excitement  for clarinet
+  title_alphanumeric: SILENT EXCITEMENT  FOR CLARINET
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Silent Excitement (2019) for clarinet
+  type: composition
+  year: '2019'
+- assign_date: null
+  for: null
+  jasrac: 305-3886-6
+  our_reference: 305-3886-6
+  registered_name: データ天使の歌
+  registration_status: 登録済み
+  subtitle: データ天使の歌
+  subtitle_for_registration: データ天使の歌
+  subtitle_kana: null
+  title: 'Song of the Data Angel videogram '
+  title_alphanumeric: 'SONG OF THE DATA ANGEL VIDEOGRAM '
+  title_alphanumeric_altered: SONG OF THE DATA ANGEL
+  title_kana: null
+  title_long: Song of the Data Angel videogram (2023)
+  type: composition
+  year: '2023'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' 2 violins and percussion'
+  jasrac: null
+  our_reference: 202412171-73
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Sounvity  for 2 violins and percussion
+  title_alphanumeric: SOUNVITY  FOR 2 VIOLINS AND PERCUSSION
+  title_alphanumeric_altered: null
+  title_kana: サウンヴィティー
+  title_long: Sounvity (2018) for 2 violins and percussion
+  type: composition
+  year: '2018'
+- assign_date: null
+  for: ' Instagram '
+  jasrac: 284-0283-9
+  our_reference: 284-0283-9
+  registered_name: ＳＴＵＤＹ　ＦＯＲ　ＩＮＳＴＡＧＲＡＭ　（２０２２）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'Study for Instagram '
+  title_alphanumeric: 'STUDY FOR INSTAGRAM '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Study for Instagram (2022)
+  type: composition
+  year: '2022'
+- assign_date: '2023-03-07 00:00:00'
+  for: null
+  jasrac: null
+  our_reference: 202412171-75
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'Super Bach Boy '
+  title_alphanumeric: 'SUPER BACH BOY '
+  title_alphanumeric_altered: null
+  title_kana: スーパー　バッハ　ボーイ
+  title_long: Super Bach Boy (2020)
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' violin'
+  jasrac: null
+  our_reference: 202412171-76
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Super Grape!  for violin
+  title_alphanumeric: SUPER GRAPE   FOR VIOLIN
+  title_alphanumeric_altered: null
+  title_kana: スーパー　グレイプ
+  title_long: Super Grape! (2021) for violin
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' violin and AI-piano'
+  jasrac: null
+  our_reference: 202412171-77
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: SUPER SOUND GUNNER  for violin and AI-piano
+  title_alphanumeric: SUPER SOUND GUNNER  FOR VIOLIN AND AI PIANO
+  title_alphanumeric_altered: null
+  title_kana: スーパー　サウンド　ガンナー
+  title_long: SUPER SOUND GUNNER (2021) for violin and AI-piano
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' violin and AI-piano'
+  jasrac: null
+  our_reference: 202412171-78
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: SUPER YAMAHA BOY  for violin and AI-piano
+  title_alphanumeric: SUPER YAMAHA BOY  FOR VIOLIN AND AI PIANO
+  title_alphanumeric_altered: null
+  title_kana: スーパー　ヤマハ　ボーイ
+  title_long: SUPER YAMAHA BOY (2021) for violin and AI-piano
+  type: composition
+  year: '2021'
+- assign_date: null
+  for: ' violin'
+  jasrac: 284-0290-1
+  our_reference: 284-0290-1
+  registered_name: ＳＵＰＥＲＢＡＣＨＢＯＹ　２　（２０２１）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: SUPERBACHBOY 2  for violin
+  title_alphanumeric: SUPERBACHBOY 2  FOR VIOLIN
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: SUPERBACHBOY 2 (2021) for violin
+  type: composition
+  year: '2021'
+- assign_date: null
+  for: ' cello and game controller'
+  jasrac: 284-0289-8
+  our_reference: 284-0289-8
+  registered_name: ＳＵＰＥＲＢＡＣＨＢＯＹ　３　（２０２１）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: SUPERBACHBOY 3  for cello and game controller
+  title_alphanumeric: SUPERBACHBOY 3  FOR CELLO AND GAME CONTROLLER
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: SUPERBACHBOY 3 (2021) for cello and game controller
+  type: composition
+  year: '2021'
+- assign_date: null
+  for: ' cello and game controller'
+  jasrac: 284-0293-6
+  our_reference: 284-0293-6
+  registered_name: ＳＵＰＥＲＣＯＮＴＲＯＬＬＥＲ　（２０２１）
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: SUPERCONTROLLER  for cello and game controller
+  title_alphanumeric: SUPERCONTROLLER  FOR CELLO AND GAME CONTROLLER
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: SUPERCONTROLLER (2021) for cello and game controller
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' Cadenza, Mozart Violin Concerto No.3'
+  jasrac: null
+  our_reference: 202412171-82
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Tagging  for Cadenza, Mozart Violin Concerto No.3
+  title_alphanumeric: TAGGING  FOR CADENZA  MOZART VIOLIN CONCERTO NO 3
+  title_alphanumeric_altered: null
+  title_kana: タギング
+  title_long: Tagging (2021) for Cadenza, Mozart Violin Concerto No.3
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: null
+  jasrac: null
+  our_reference: 202412171-83
+  registered_name: null
+  registration_status: 未登録
+  subtitle: ときめきハートスロット
+  subtitle_for_registration: ときめきハートスロット
+  subtitle_kana: トキメキ　ハート　スロット
+  title: 'Tokimeki☆Heart-Slot '
+  title_alphanumeric: 'TOKIMEKI HEART SLOT '
+  title_alphanumeric_altered: null
+  title_kana: トキメキ　ハート　スロット
+  title_long: Tokimeki☆Heart-Slot (2021)
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' music on hold '
+  jasrac: null
+  our_reference: 202412171-84
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'Tokyo Gorimpic 050-5445-5448 for music on hold '
+  title_alphanumeric: 'TOKYO GORIMPIC 050 5445 5448 FOR MUSIC ON HOLD '
+  title_alphanumeric_altered: null
+  title_kana: トウキョウ　ゴリンピック
+  title_long: Tokyo Gorimpic 050-5445-5448 for music on hold (2021)
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' viola'
+  jasrac: null
+  our_reference: 202412171-85
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Trip!  for viola
+  title_alphanumeric: TRIP   FOR VIOLA
+  title_alphanumeric_altered: null
+  title_kana: トリップ
+  title_long: Trip! (2020) for viola
+  type: composition
+  year: '2020'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' piano (left hand)'
+  jasrac: null
+  our_reference: 202412171-86
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Two Strokes  for piano (left hand)
+  title_alphanumeric: 'TWO STROKES  FOR PIANO  LEFT HAND '
+  title_alphanumeric_altered: null
+  title_kana: トゥーストロークス
+  title_long: Two Strokes (2020) for piano (left hand)
+  type: composition
+  year: '2020'
+- assign_date: '2024-01-01 00:00:00'
+  for: ' harpsichord '
+  jasrac: null
+  our_reference: 202412171-87
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'typing on the keyboard, i feel so small. for harpsichord '
+  title_alphanumeric: 'TYPING ON THE KEYBOARD  I FEEL SO SMALL  FOR HARPSICHORD '
+  title_alphanumeric_altered: null
+  title_kana: タイピング　オン　ザ　キーボード　アイ　フィール　ソー　スモール
+  title_long: typing on the keyboard, i feel so small. for harpsichord (2024)
+  type: composition
+  year: '2024'
+- assign_date: null
+  for: null
+  jasrac: 282-3067-1
+  our_reference: 282-3067-1
+  registered_name: ＶＭ＿１．０
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'VM_1.0 '
+  title_alphanumeric: 'VM_1 0 '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: VM_1.0 (2022)
+  type: composition
+  year: '2022'
+- assign_date: null
+  for: ' violin (or any instrument) and video'
+  jasrac: 283-3177-0
+  our_reference: 283-3177-0
+  registered_name: ＷＨＡＴ　ＴＨＥ　ＨＥＬＬ　ＡＲＥ　ＹＯＵ　ＤＯＩＮＧ？！Ｆ
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: What the hell are you doing?!  for violin (or any instrument) and video
+  title_alphanumeric: WHAT THE HELL ARE YOU DOING?   FOR VIOLIN  OR ANY INSTRUMENT  AND
+    VIDEO
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: What the hell are you doing?! (2023) for violin (or any instrument)
+    and video
+  type: composition
+  year: '2023'
+- assign_date: null
+  for: null
+  jasrac: 305-3885-8
+  our_reference: 305-3885-8
+  registered_name: ＷＩＬＬ　Ｉ　ＮＥＶＥＲ　ＵＮＤＥＲＳＴＡＮＤ　ＦＡＬＬＩＮ
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'will i never understand falling in love? song '
+  title_alphanumeric: 'WILL I NEVER UNDERSTAND FALLING IN LOVE? SONG '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: will i never understand falling in love? song (2023)
+  type: composition
+  year: '2023'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' guitar'
+  jasrac: null
+  our_reference: 202412171-91
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: Wood Egg  for guitar
+  title_alphanumeric: WOOD EGG  FOR GUITAR
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Wood Egg (2019) for guitar
+  type: composition
+  year: '2019'
+- assign_date: null
+  for: null
+  jasrac: 305-3891-2
+  our_reference: 305-3891-2
+  registered_name: ＷＯＲＬＤ’Ｓ　ＭＯＳＴ　ＦＡＭＯＵＳ　ＭＯＵＳＥ　ＨＡＳ　
+  registration_status: 登録済み
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'The world''s most famous mouse has finally escaped from its cage! '
+  title_alphanumeric: 'THE WORLD S MOST FAMOUS MOUSE HAS FINALLY ESCAPED FROM ITS
+    CAGE  '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: The world's most famous mouse has finally escaped from its cage! (2024)
+  type: composition
+  year: '2024'
+- assign_date: '2023-03-07 00:00:00'
+  for: null
+  jasrac: null
+  our_reference: 202412171-93
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: 'YONANUKI FIGHTER '
+  title_alphanumeric: 'YONANUKI FIGHTER '
+  title_alphanumeric_altered: null
+  title_kana: ヨナヌキ　ファイター
+  title_long: YONANUKI FIGHTER (2021)
+  type: composition
+  year: '2021'
+- assign_date: null
+  for: null
+  jasrac: 305-3881-5
+  our_reference: 305-3881-5
+  registered_name: エンドレス・ハルヒ・スケール
+  registration_status: 登録済み
+  subtitle: エンドレス・ハルヒ・スケール
+  subtitle_for_registration: エンドレス・ハルヒ・スケール
+  subtitle_kana: null
+  title: 'Endless Haruhi Scale videogram '
+  title_alphanumeric: 'ENDLESS HARUHI SCALE VIDEOGRAM '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Endless Haruhi Scale videogram (2023)
+  type: composition
+  year: '2023'
+- assign_date: null
+  for: ' violin '
+  jasrac: 283-3180-0
+  our_reference: 283-3180-0
+  registered_name: コピー・アンド・ペースト，大量生産／消費された不規則／不完全
+  registration_status: 登録済み
+  subtitle: コピー・アンド・ペースト，大量生産／消費された不規則／不完全
+  subtitle_for_registration: コピー・アンド・ペースト，大量生産／消費された不規則／不完全
+  subtitle_kana: null
+  title: 'Copy and paste, mass produced/consumed irregular/imperfectly shaped plastic
+    pearls and Me. for violin '
+  title_alphanumeric: 'COPY AND PASTE  MASS PRODUCED CONSUMED IRREGULAR IMPERFECTLY
+    SHAPED PLASTIC PEARLS AND ME  FOR VIOLIN '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Copy and paste, mass produced/consumed irregular/imperfectly shaped
+    plastic pearls and Me. for violin (2023)
+  type: composition
+  year: '2023'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' violin'
+  jasrac: null
+  our_reference: 202412171-96
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: ﾍ(╹α╹ﾍ)  for violin
+  title_alphanumeric: '         FOR VIOLIN'
+  title_alphanumeric_altered: ALPHA FOR VIOLIN
+  title_kana: ヘ　アルファ　ヘ
+  title_long: ヘ(╹α╹ヘ) (2021) for violin
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' cello'
+  jasrac: null
+  our_reference: 202412171-97
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: ﾍ(╹β╹ﾍ)  for cello
+  title_alphanumeric: '         FOR CELLO'
+  title_alphanumeric_altered: BETA FOR CELLO
+  title_kana: ヘ　ベータ　ヘ
+  title_long: ヘ(╹β╹ヘ) (2021) for cello
+  type: composition
+  year: '2021'
+- assign_date: '2023-03-07 00:00:00'
+  for: ' viola da gamba'
+  jasrac: null
+  our_reference: 202412171-98
+  registered_name: null
+  registration_status: 未登録
+  subtitle: null
+  subtitle_for_registration: null
+  subtitle_kana: null
+  title: ﾍ(╹γ╹ﾍ)  for viola da gamba
+  title_alphanumeric: '         FOR VIOLA DA GAMBA'
+  title_alphanumeric_altered: GAMMA FOR VIOLA DA GAMBA
+  title_kana: ヘ　ガンマ　ヘ
+  title_long: ヘ(╹γ╹ヘ) (2021) for viola da gamba
+  type: composition
+  year: '2021'
+- assign_date: null
+  for: ' saxophone and electronic yunkee-phones'
+  jasrac: 284-0288-0
+  our_reference: 284-0288-0
+  registered_name: 鎖苦速風音族　（２０２２）
+  registration_status: 登録済み
+  subtitle: 鎖苦速風音族
+  subtitle_for_registration: 鎖苦速風音族
+  subtitle_kana: null
+  title: Saxophorn-Zoku  for saxophone and electronic yunkee-phones
+  title_alphanumeric: SAXOPHORN ZOKU  FOR SAXOPHONE AND ELECTRONIC YUNKEE PHONES
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Saxophorn-Zoku (2022) for saxophone and electronic yunkee-phones
+  type: composition
+  year: '2022'
+- assign_date: null
+  for: null
+  jasrac: 306-7059-4
+  our_reference: 306-7059-4
+  registered_name: 上書きちゃん　「おやすみー。」
+  registration_status: 登録済み
+  subtitle: 上書きちゃん　「おやすみー。」
+  subtitle_for_registration: 上書きちゃん　「おやすみー。」
+  subtitle_kana: null
+  title: 'Overwritten Girl - “good night." videogram '
+  title_alphanumeric: 'OVERWRITTEN GIRL    GOOD NIGHT   VIDEOGRAM '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Overwritten Girl - “good night.” videogram (2023)
+  type: composition
+  year: '2023'
+- assign_date: null
+  for: null
+  jasrac: 305-3887-4
+  our_reference: 305-3887-4
+  registered_name: 上書きちゃん　「上書きされる上書きちゃん」
+  registration_status: 登録済み
+  subtitle: 上書きちゃん　「上書きされる上書きちゃん」
+  subtitle_for_registration: 上書きちゃん　「上書きされる上書きちゃん」
+  subtitle_kana: null
+  title: 'Overwritten Girl - “Overwriting Overwritten Girl" videogram '
+  title_alphanumeric: 'OVERWRITTEN GIRL    OVERWRITING OVERWRITTEN GIRL  VIDEOGRAM '
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Overwritten Girl - “Overwriting Overwritten Girl” videogram (2023)
+  type: composition
+  year: '2023'
+- assign_date: null
+  for: ' viola or piano'
+  jasrac: 294-5425-5
+  our_reference: 294-5425-5
+  registered_name: 電波ちゃんは死なない　
+  registration_status: 登録済み
+  subtitle: 電波ちゃんは死なない　
+  subtitle_for_registration: 電波ちゃんは死なない　
+  subtitle_kana: null
+  title: Dempa-chan never dies♡ for any instrument(s)  versions for viola or piano
+  title_alphanumeric: DEMPA CHAN NEVER DIES  FOR ANY INSTRUMENT S   VERSIONS FOR VIOLA
+    OR PIANO
+  title_alphanumeric_altered: null
+  title_kana: null
+  title_long: Dempa-chan never dies♡ for any instrument(s) (2023) versions for viola
+    or piano
+  type: composition
+  year: '2023'
+- assign_date: null
+  for: ' any instrument(s) and wav'
+  jasrac: 283-6027-3
+  our_reference: 283-6027-3
+  registered_name: 萌え2少女　＃２
+  registration_status: 登録済み
+  subtitle: 萌え2少女　＃２
+  subtitle_for_registration: 萌え2少女　＃２
+  subtitle_kana: null
+  title: Moe² Girl  for any instrument(s) and wav
+  title_alphanumeric: MOE  GIRL  FOR ANY INSTRUMENT S  AND WAV
+  title_alphanumeric_altered: MOE MOE GIRL FOR ANY INSTRUMENTS AND WAV
+  title_kana: null
+  title_long: Moe² Girl (2022) for any instrument(s) and wav
+  type: composition
+  year: '2022'
+- assign_date: null
+  for: ' violin and cello'
+  jasrac: 283-3183-4
+  our_reference: 283-3183-4
+  registered_name: 萌え２少女（２０２２）ヴァイオリンとチェロのための
+  registration_status: 登録済み
+  subtitle: 萌え２少女 - ヴァイオリンとチェロのための
+  subtitle_for_registration: 萌え２少女 - ヴァイオリンとチェロのための
+  subtitle_kana: null
+  title: Moe² Girl  for violin and cello
+  title_alphanumeric: MOE  GIRL  FOR VIOLIN AND CELLO
+  title_alphanumeric_altered: MOE MOE GIRL FOR VIOLIN AND CELLO
+  title_kana: null
+  title_long: Moe² Girl (2022) for violin and cello
+  type: composition
+  year: '2022'
+- assign_date: null
+  for: ' cello'
+  jasrac: 283-3184-2
+  our_reference: 283-3184-2
+  registered_name: 萌え２少女（２０２２）チェロのための
+  registration_status: 登録済み
+  subtitle: 萌え２少女 - チェロのための
+  subtitle_for_registration: 萌え２少女 - チェロのための
+  subtitle_kana: null
+  title: Moe² Girl  for cello
+  title_alphanumeric: MOE  GIRL  FOR CELLO
+  title_alphanumeric_altered: MOE MOE GIRL FOR CELLO
+  title_kana: null
+  title_long: Moe² Girl (2022) for cello
+  type: composition
+  year: '2022'
+
 
 - title: Super Grape!
   for: violin

@@ -37,7 +37,10 @@ my_value: type
       <dl>
         <dt class="title"> <B> {{ item.title }} </B> </dt>
         <dt class="title_ja"> <B> {{ item.title_ja }} </B> </dt>
-        {% if item.for %}
+        {% if item.subtitle    %}
+        <dt class="subtitle"> <B> {{ item.subtitle }} </B> </dt>
+        {% endif %}
+        {% if item.for   %}
         <dd class="for"> for {{ item.for }}</dd>
         {% endif %}
         <dd class="date">{{ item.date  }}</dd>
@@ -75,7 +78,7 @@ var fuzzyOptions = {
 　};
 
 var options = {
-    valueNames: ['title', 'title_ja', 'for', 'type', 'jasrac', 'year', 'date', 'place', 'note', 'url'],
+    valueNames: ['title', 'title_ja', 'subtitle', 'for', 'type', 'jasrac', 'year', 'date', 'place', 'note', 'url'],
     plugins: [
       ListFuzzySearch(fuzzyOptions)
   　],
