@@ -95,7 +95,16 @@ a:hover { color: #FF0000; text-decoration: none; }
  padding: 30px 0;
 }
 
+/* フッター内で "Last Modified" 以外を非表示にする */
+.site-footer .wrapper > *:not(small) {
+    display: none; /* "Last Modified" のみを表示 */
+}
+
 .footer-heading { font-size: 1.125rem; margin-bottom: 15px; }
+
+.last-modified {
+  font-size: 0.5rem !important; /* 文字サイズを小さくする */
+}
 
 /** Icons */
 .orange { color: #f66a0a; }

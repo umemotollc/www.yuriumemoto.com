@@ -4,11 +4,24 @@ category: page
 permalink: events/
 ---
 <small>[[live & exhibitions](#anchor1)]</small>
-<small>[[media](#anchor2)]</small>
-
-**live & exhibitions**  
+<small>[[media](#anchor2)]</small> 
 
 <a id="anchor1"></a>
+
+**[upcoming]**
+
+**MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)  
+New paintings and installation  
+
+**MARCH 29, 2025** | Tokyo, Japan  
+Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Et in terra pax, Laudamus te, Gratias agimus tibi, Domine Deus, Qui tollis, Qui sedes, Quoniam tu solus sanctus, Cum sancto spiritu and Confiteor* for piano  
+Perform by Mai Kawano, Nobuaki Sato, Yuri Yamamoto
+
+**FEBRUARY 7, 2025** | Helsinki, Finland @ [Musica nova Helsinki](https://musicanova.fi/en/)  
+*aug.hocket* for cello and electronics  
+Perform by Markus Hohti, [defunensemble](https://www.defunensemble.fi/en/)  
+
+**[past]**
 
 **DECEMBER 12, 2024** | Copenhagen, Denmark @ [Mayhem](https://mayhemkbh.dk/)  
 *Super Grape!* for violin  
@@ -33,6 +46,14 @@ Performed by Hiroshi Suzuki, commissioned by [Yokohama Minato Mirai Hall](https:
 **AUGUST 30, 2024** | Aachen, Germany @ St.-Marien-Kirche / [Köthen Bach Festival](https://www.bachfesttage.de/)  
 *i'm scared of dying. what do i do?* for violin  
 Performed by Joosten Ellée, [CONTINUUM](https://www.continuu-m.com/)  
+
+**AUGUST 11, 2024** | Tokyo, Japan @ [Ryogoku Art Festival 2024](https://www.artscouncil-tokyo.jp/en/what-we-do/support/program/70951/)  
+*Confiteor* for piano (first edition)  
+Commissioned by Ryogoku Art Festival, Performed by Takuya Otaki　　
+
+**AUGUST 10, 2024** | Tokyo, Japan @ [Ryogoku Art Festival 2024](https://www.artscouncil-tokyo.jp/en/what-we-do/support/program/70951/)  
+*Confiteor* for piano (first edition)  
+Commissioned by Ryogoku Art Festival, Performed by Takuya Otaki　　
 
 **JULY 2, 2024** | Tokyo, Japan @ Shibuya PARCO / [SUPER DOMMUNE](https://www.dommune.com/)  
 *[Yuri Umemoto DJ Live](https://www.youtube.com/watch?v=TuJePa_gSS8&t=2074s) feat. Kei Yamazawa and diskslave*  
@@ -112,11 +133,14 @@ Performed by Norio Sato
 
 **media**  
 
+**DECEMBER 6, 2024** | Denmark, Copenhagen @ [Retreat Radio](https://www.retreatradio.net/)  
+*look at me, senpai*  was mixed on [REAL LIVE RADIO](https://www.retreatradio.net/real-live-radio) [#7 w/ Ryong](https://soundcloud.com/retreatradio/real-live-radio-7)
+
 **NOVEMBER 4, 2024** | France @ Radio Campus Paris (93.9 FM)  
-*Super Grape! for violin* – Featured on [Absence!](https://www.radiocampusparis.org/emission/99P-absence/RPKL-absence-04112024)  
+*Super Grape!* was mixed on [Absence!](https://www.radiocampusparis.org/emission/99P-absence/RPKL-absence-04112024)  
 
 **SEPTEMBER 25, 2024** | UK @ NTS Radio  
-*look at me senpai* – Featured in a mix by [Posh Isolation](https://www.nts.live/shows/posh-isolation/episodes/posh-isolation-25th-september-2024), curated by Loke Rahbek (Croatian Amor) and Soli City  
+*look at me, senpai*  was mixed on [Posh Isolation](https://www.nts.live/shows/posh-isolation/episodes/posh-isolation-25th-september-2024), curated by Loke Rahbek (Croatian Amor) and Soli City  
 
 **JULY 11, 2024** | Japan @ 中日新聞  
 [Long Interview with Yuri Umemoto (梅本佑利)](https://www.chunichi.co.jp/article/924718)  
@@ -128,10 +152,10 @@ Performed by Norio Sato
 [Publication of *Tokyo Syncopation (トーキョー・シンコペーション)*](https://www.ongakunotomo.co.jp/catalog/detail.php?id=210130) – Chapter 14 focuses on Yuri Umemoto  
 
 **NOVEMBER 12, 2023** | Germany @ Hessischer Rundfunk Frankfurt (hr2)  
-*MOMOMOMOEMOE♡* for violin – Featured on [The Artist’s Corner](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html)  
+*MOMOMOMOEMOE♡* was mixed on [The Artist’s Corner](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html)  
 
 **SEPTEMBER 8, 2023** | UK @ Resonance FM  
-*Moe²Girl* for cello – Featured in a [mixtape by Ben Nobuto](https://www.mixcloud.com/Resonance/the-sampler-mixtape-61-ben-nobuto/)  
+*Moe²Girl* was mixed on [mixtape by Ben Nobuto](https://www.mixcloud.com/Resonance/the-sampler-mixtape-61-ben-nobuto/)  
 
 **JULY 8, 2023** | Japan @ テレビ朝日  
 *Daimei no Nai Ongaku Kai – Koto Artist LEO Special*  
@@ -146,7 +170,7 @@ Performed by Norio Sato
 *Daimei no Nai Ongaku Kai – Ryuichi Sakamoto Special (2800th Episode)*  
 
 **OCTOBER 30, 2022** | Japan @ NHK-FM  
-*Moe²Girl* for cello – Featured on *Gendai no Ongaku (現代の音楽)*  
+*Moe²Girl* was mixed on *Gendai no Ongaku (現代の音楽)*  
 
 **2022** | Japan  
 *Talking Heads Series (トーキングヘッズ叢書) No.92* / *Eureka (ユリイカ)* – April Issue / *Ongaku no Tomo (音楽の友)* – May Issue / *intoxicate* – April Issue / *Tokyojin (東京人)* – April Issue / *FASHIONSNAP.COM*  
