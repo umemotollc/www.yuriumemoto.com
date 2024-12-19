@@ -165,4 +165,4 @@ for guitar (2018)
 <br>
 <br>
 <br>
-<small>[ JASRAC copyright management list](list?type=composition)</small>
+<small>[JASRAC copyright management list](list?type=composition)</small>
