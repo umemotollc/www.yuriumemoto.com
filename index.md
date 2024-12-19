@@ -16,4 +16,8 @@ composer
 [merch](https://yuriumemoto.bandcamp.com/merch/)&emsp;
 [Bandcamp](https://yuriumemoto.bandcamp.com/)&emsp;
 [contact](/contact)
-
+<br>
+<br>
+<br>
+<br>
+<small>[JASRAC list](list?type=composition)</small>
