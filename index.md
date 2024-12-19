@@ -6,7 +6,6 @@ layout: home
 梅本佑利<br>
 composer
 　<br>　<br>
-
 [about](/about)&emsp;
 [works](/works/)&emsp;
 [events](/events/)&emsp;
