@@ -160,3 +160,9 @@ for guitar (2018)
 **2023**: Arranged music by [Ryuichi Sakamoto](https://www.sitesakamoto.com/biography) for a TV Asahi program.  
 
 **2022**: Collaborated with [Lee Kan Kyo](https://leekankyo.com/) to create a [painting series](https://www.fashionsnap.com/article/leekankyo-interview/#lg=1&slide=11).
+
+<br>
+<br>
+<br>
+<br>
+<small>[ JASRAC copyright management list](list?type=composition)</small>
