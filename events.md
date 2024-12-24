@@ -14,7 +14,7 @@ permalink: events/
 New paintings and installation  
 
 **MARCH 29, 2025** | Tokyo, Japan @ Ryogoku Monten Hall / [Yuri Umemoto - Mass](https://www.yuriumemoto.com/20250329/)  
-Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo and Confiteor* for piano, *Et in terra pax* for piano, violin and cello ...etc.  
+Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Confiteor* for piano, *Et in terra pax* for piano, violin and cello ...etc.  
 Perform by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai
 
 **FEBRUARY 7, 2025** | Helsinki, Finland @ [Musica nova Helsinki](https://musicanova.fi/en/)  
