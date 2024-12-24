@@ -13,9 +13,9 @@ permalink: events/
 **MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)  
 New paintings and installation  
 
-**MARCH 29, 2025** | Tokyo, Japan  
-Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Et in terra pax, Laudamus te, Gratias agimus tibi, Domine Deus, Qui tollis, Qui sedes, Quoniam tu solus sanctus, Cum sancto spiritu and Confiteor* for piano  
-Perform by Mai Kawano, Nobuaki Sato, Yuri Yamamoto
+**MARCH 29, 2025** | Tokyo, Japan @ Ryogoku Monten Hall / [Yuri Umemoto - Mass](https://www.yuriumemoto.com/20250329/)  
+Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo and Confiteor* for piano, *Et in terra pax* for piano, violin and cello ...etc.
+Perform by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai
 
 **FEBRUARY 7, 2025** | Helsinki, Finland @ [Musica nova Helsinki](https://musicanova.fi/en/)  
 *aug.hocket* for cello and electronics  
