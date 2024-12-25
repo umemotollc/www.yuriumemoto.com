@@ -6,7 +6,7 @@ permalink: scores
 
 Digital scores are available to buy. 
 Payment can be made by major credit cards, paypal, and bank transfer.
-To place your order,  please send your message to **yuri@umemoto.org**.
+To place your order,  please send your message to **desk@umemoto.org**.
  
 - Work for Solo (PRICE: ¥3000 (YEN))
 - Work for Duo, Ensemble (PRICE: ¥4000 (YEN))
@@ -22,4 +22,4 @@ To place your order,  please send your message to **yuri@umemoto.org**.
 If you're a younger student than I am*, studying music and wish to study the score, I am happy to offer it to you for free. 
 *) Anyone born on or after April 23, 2002.
 
-If needed, please provide 1. your name, 2. intended use, 3. school name, and 4. the score you would like, and send it to my email address: **yuri@umemoto.org**
+If needed, please provide 1. your name, 2. intended use, 3. school name, and 4. the score you would like, and send it to my email address: **desk@umemoto.org**
