@@ -3,10 +3,7 @@ style: page
 title: contact
 ---
 
-### Yuri Umemoto
-[yuri@umemoto.org](mailto:yuri@umemoto.org "yuri@umemoto.org")
-
-### Management
-Umemoto LLC 
-[https://home.umemoto.org/about-llc](https://home.umemoto.org/about-llc "https://home.umemoto.org/about-llc")
-
+Management & Bookings
+[KAJIMOTO](https://www.kajimotomusic.com/artists-projects/yuri-umemoto/)
+Orie Takita / Gen Terai
+orie.takita@kajimotomusic.com
