@@ -14,5 +14,5 @@ composer
 [X](https://x.com/yuriumemoto)&emsp;
 [scores](/scores)&emsp;
 [merch](https://yuriumemoto.bandcamp.com/merch/)&emsp;
-[Bandcamp](https://yuriumemoto.bandcamp.com/)&emsp;
+[bandcamp](https://yuriumemoto.bandcamp.com/)&emsp;
 [contact](/contact)
