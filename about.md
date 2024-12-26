@@ -11,5 +11,4 @@ His works have been performed by various ensembles, orchestras, and soloists int
 <small>[[portraits by Sophia Hegewald](https://sophia-hegewald.de/yuri-umemoto-komponist)]</small>  
 
 **2023, 2024**: [KUMA Foundation](https://kuma-foundation.org/student/yuri-umemoto/) Scholar
-
-[Score Follower](https://www.scorefollower.org/about/) Team Member
+**2024~** [Score Follower](https://www.scorefollower.org/about/) Team Member
