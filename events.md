@@ -148,6 +148,9 @@ Performed by Norio Sato
 **JUNE 18, 2024** | Germany @ General-Anzeiger  
 [Review of *typing on the keyboard, i feel so small.*](https://ga.de/news/kultur-und-medien/regional/rueckkehr-zu-bach-mit-elina-albach_aid-114638937) – Premiered in Bonn by Elina Albach  
 
+**JUNE, 2024** | Japan @ 東京バッハ合唱団 月報  
+[[Review of "SUPERBACHBOY" at the Thuringia Bach Festival by Junko Sonoda](http://www.bachchor-tokyo.jp/monthly_newsletter/pdf/mon744_202406.pdf)  
+
 **DECEMBER 25, 2023** | Japan @ 音楽之友社  
 [Publication of *Tokyo Syncopation (トーキョー・シンコペーション)*](https://www.ongakunotomo.co.jp/catalog/detail.php?id=210130) – Chapter 14 focuses on Yuri Umemoto  
 
