@@ -143,13 +143,13 @@ Performed by Norio Sato
 *look at me, senpai*  was mixed on [Posh Isolation](https://www.nts.live/shows/posh-isolation/episodes/posh-isolation-25th-september-2024), curated by Loke Rahbek (Croatian Amor) and Soli City  
 
 **JULY 11, 2024** | Japan @ 中日新聞  
-[Long Interview with Yuri Umemoto (梅本佑利)](https://www.chunichi.co.jp/article/924718)  
+[Long Interview with Yuri Umemoto](https://www.chunichi.co.jp/article/924718)  
 
 **JUNE 18, 2024** | Germany @ General-Anzeiger  
 [Review of *typing on the keyboard, i feel so small.*](https://ga.de/news/kultur-und-medien/regional/rueckkehr-zu-bach-mit-elina-albach_aid-114638937) – Premiered in Bonn by Elina Albach  
 
 **JUNE, 2024** | Japan @ 東京バッハ合唱団 月報  
-[[Review of "SUPERBACHBOY" at the Thuringia Bach Festival by Junko Sonoda](http://www.bachchor-tokyo.jp/monthly_newsletter/pdf/mon744_202406.pdf)  
+[Review of "SUPERBACHBOY" at the Thuringia Bach Festival by Junko Sonoda](http://www.bachchor-tokyo.jp/monthly_newsletter/pdf/mon744_202406.pdf)  
 
 **DECEMBER 25, 2023** | Japan @ 音楽之友社  
 [Publication of *Tokyo Syncopation (トーキョー・シンコペーション)*](https://www.ongakunotomo.co.jp/catalog/detail.php?id=210130) – Chapter 14 focuses on Yuri Umemoto  
@@ -173,7 +173,7 @@ Performed by Norio Sato
 *Daimei no Nai Ongaku Kai – Ryuichi Sakamoto Special (2800th Episode)*  
 
 **OCTOBER 30, 2022** | Japan @ NHK-FM  
-*Moe²Girl* was mixed on *Gendai no Ongaku (現代の音楽)*  
+*Moe²Girl* was mixed on *現代の音楽*  
 
 **2022** | Japan  
 *Talking Heads Series (トーキングヘッズ叢書) No.92* / *Eureka (ユリイカ)* – April Issue / *Ongaku no Tomo (音楽の友)* – May Issue / *intoxicate* – April Issue / *Tokyojin (東京人)* – April Issue / *FASHIONSNAP.COM*  
