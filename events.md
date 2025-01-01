@@ -21,6 +21,9 @@ New paintings and installation
 *aug.hocket* for cello and electronics  
 Perform by Markus Hohti, [defunensemble](https://www.defunensemble.fi/en/)  
 
+**JANUARY 26, 2025** | Paris, France @ Théâtre l'Echangeur - Bagnolet / [LE DERNIER DIMANCHE DU MOIS #63](https://www.instantdonne.net/en/agenda)  
+Perform by [L’Instant Donné](https://www.instantdonne.net/en/ensemble/presentation)  
+
 **[past]**
 
 **DECEMBER 12, 2024** | Copenhagen, Denmark @ [Mayhem](https://mayhemkbh.dk/)  
