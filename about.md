@@ -4,9 +4,9 @@ title: about
 permalink: /about/
 ---
 
-Yuri Umemoto, born in Tokyo in 2002, is a composer whose works go beyond traditional scores and contemporary digital expressions, navigating West and East, the sacred and the secular, while capturing the intricate twists and distortions of a pluralistic identity beyond dualism. His music explores a maximalistic aesthetic, drawing inspiration from the vocal expressions of Japanese anime and the MAD-style sampling techniques of internet culture.  Growing up in a chaotic world where everything from Gregorian chants to Japanese hentai games coexisted, his music emerges as obsessively self-referential.
-
-His works have been performed by various ensembles, orchestras, and soloists internationally, and have been prominently featured in festivals such as the Thuringia Bach Festival, PODIUM Esslingen, zamus: early music festival, and the Köthen Bach Festival. <small>[[past events](events.md)]</small>  
+Born in Tokyo in 2002, composer Yuri Umemoto stands where Western traditional notation and contemporary digital technology cross over. It is for him to explore a maximalistic aesthetic inspired by Japanese anime and Internet culture. Composed for acoustic instruments such as strings, winds and piano as well as ensembles in various sizes and orchestra, his works have been performed by soloists and groups from Japan and abroad.  
+His compositions have been featured at prestigious festivals including the Thuringia Bach Weeks, Musica nova Helsinki, PODIUM Esslingen, zamus: early music festival, Köthen Bach Festival, Spring Festival in Tokyo and the “Born Creative” Festival.  
+(text ©︎ 2024 Yuri Umemoto / [KAJIMOTO](https://www.kajimotomusic.com/eng/artists-projects/yuri-umemoto/))  
 
 <small>[[portraits by Sophia Hegewald](https://sophia-hegewald.de/yuri-umemoto-komponist)]</small>  
 
