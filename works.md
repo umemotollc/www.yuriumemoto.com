@@ -11,6 +11,12 @@ permalink: works/
 
 <a id="anchor1"></a>
 
+**Laudamus te**
+for violin, cello and fixed media (2024)
+
+**Et interra pax**
+for violin, cello, piano and fixed media (2024)
+
 **Gloria in excelsis Deo**
 for any instrument(s) and fixed media (2024)
 version for piano
