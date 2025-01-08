@@ -9,6 +9,7 @@ composer
 [about](/about)&emsp;
 [works](/works/)&emsp;
 [events](/events/)&emsp;
+[discography](/discography/)&emsp;
 [YouTube](https://www.youtube.com/@YuriUmemoto)&emsp;
 [Instagram](https://www.instagram.com/yuri_umemoto)&emsp;
 [X](https://x.com/yuriumemoto)&emsp;
