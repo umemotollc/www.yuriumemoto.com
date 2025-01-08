@@ -8,4 +8,4 @@ permalink: discography/
     <img src="https://www.yuriumemoto.com/pics/lookatmesenpai.jpeg" alt="lookatmesenpai" width="200">
 </a>
 
-**[look at me, senpai (2024)](https://yuriumemoto.bandcamp.com/track/look-at-me-senpai)**
+<small>**[look at me, senpai (2024)](https://yuriumemoto.bandcamp.com/track/look-at-me-senpai)**</small>
