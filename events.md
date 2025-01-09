@@ -46,6 +46,10 @@ Performed by Robert Wheatley, [Ensemble S201](https://www.ensemble-s201.com/)
 *shopping mall in landfill* for tenor saxophone  
 Performed by Hiroshi Suzuki, commissioned by [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/)  
 
+**SEPTEMBER 7, 2024** | Aichi, Japan @ [Nagakute Cultural Center](https://bunkanoie.jp/) / mumyo - euphoria  
+*LOL STREAM, Divinely fuckin Gucci bag, Rest in my friends, McDonald, from Heaven’ NFT for violin and electronics, Ben Nobuto - BREAK-UP MANTRAS (solo violin version, arranged by Yuri Umemoto)*  
+Performed by Tatsuki Narita, Commissioned by Nagakute Cultural Center  
+
 **AUGUST 30, 2024** | Aachen, Germany @ St.-Marien-Kirche / [Köthen Bach Festival](https://www.bachfesttage.de/)  
 *i'm scared of dying. what do i do?* for violin  
 Performed by Joosten Ellée, [CONTINUUM](https://www.continuu-m.com/)  
