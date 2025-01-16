@@ -24,6 +24,10 @@ Perform by Markus Hohti, [defunensemble](https://www.defunensemble.fi/en/)
 **JANUARY 26, 2025** | Paris, France @ Théâtre l'Echangeur - Bagnolet / [LE DERNIER DIMANCHE DU MOIS #63](https://www.instantdonne.net/en/agenda)  
 Perform by [L’Instant Donné](https://www.instantdonne.net/en/ensemble/presentation)  
 
+**JANUARY 19, 2025** | Bonn, Germany @ [Ev. Kirche Oberwinter](https://www.kirchenmusik-oberwinter.de/jahresprogramm-2025.html?fbclid=PAZXh0bgNhZW0CMTEAAab2b88sqKSu9DAV1pqonIF3IC1svzcRvSe2zoinFdsy5sdSVR3JShyIQpo_aem_3Biwe1VpN8kGM3KRZn_j0g)  
+*typing on the keyboard, i feel so small* for harpsichord  
+Performed by Elina Albach (concert with Liam Byrne)  
+
 **[past]**
 
 **DECEMBER 12, 2024** | Copenhagen, Denmark @ [Mayhem](https://mayhemkbh.dk/)  
