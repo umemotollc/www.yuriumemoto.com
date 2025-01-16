@@ -26,7 +26,7 @@ Perform by [L’Instant Donné](https://www.instantdonne.net/en/ensemble/present
 
 **JANUARY 19, 2025** | Bonn, Germany @ [Ev. Kirche Oberwinter](https://www.kirchenmusik-oberwinter.de/jahresprogramm-2025.html?fbclid=PAZXh0bgNhZW0CMTEAAab2b88sqKSu9DAV1pqonIF3IC1svzcRvSe2zoinFdsy5sdSVR3JShyIQpo_aem_3Biwe1VpN8kGM3KRZn_j0g)  
 *typing on the keyboard, i feel so small* for harpsichord  
-Performed by Elina Albach (concert with Liam Byrne)  
+Perform by Elina Albach (concert with Liam Byrne)  
 
 **[past]**
 
