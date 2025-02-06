@@ -9,7 +9,8 @@ His compositions have been featured at prestigious festivals including the Thuri
 
 <small>[[portraits by Sophia Hegewald](https://sophia-hegewald.de/yuri-umemoto-komponist)]</small>  
 
-**2023, 2024**: [KUMA Foundation](https://kuma-foundation.org/student/yuri-umemoto/) Scholar  
+**2025-2027** [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en/index.html) Composer  
+**2023, 2024** [KUMA Foundation](https://kuma-foundation.org/student/yuri-umemoto/) Scholar  
 **2024~** [Score Follower](https://www.scorefollower.org/about/) Team Member  
 
 Management: [KAJIMOTO](https://www.kajimotomusic.com/eng/artists-projects/yuri-umemoto/)
