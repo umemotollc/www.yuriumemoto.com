@@ -17,18 +17,19 @@ Perform by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai
 **MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)  
 New paintings and installation  
 
+**[past]**
+
 **FEBRUARY 7, 2025** | Helsinki, Finland @ [Musica nova Helsinki](https://musicanova.fi/en/)  
 *aug.hocket* for cello and electronics  
-Perform by Markus Hohti, [defunensemble](https://www.defunensemble.fi/en/)  
+Performed by Markus Hohti, [defunensemble](https://www.defunensemble.fi/en/)  
 
 **JANUARY 26, 2025** | Paris, France @ Théâtre l'Echangeur - Bagnolet / [LE DERNIER DIMANCHE DU MOIS #63](https://www.instantdonne.net/en/agenda)  
-Perform by [L’Instant Donné](https://www.instantdonne.net/en/ensemble/presentation)  
+*MOMOMOMOMOEMOE♡* for violin  
+Performed by Saori Furukawa, [L’Instant Donné](https://www.instantdonne.net/en/ensemble/presentation)  
 
 **JANUARY 19, 2025** | Bonn, Germany @ [Ev. Kirche Oberwinter](https://www.kirchenmusik-oberwinter.de/jahresprogramm-2025.html?fbclid=PAZXh0bgNhZW0CMTEAAab2b88sqKSu9DAV1pqonIF3IC1svzcRvSe2zoinFdsy5sdSVR3JShyIQpo_aem_3Biwe1VpN8kGM3KRZn_j0g)  
 *typing on the keyboard, i feel so small* for harpsichord  
-Perform by Elina Albach (concert with Liam Byrne)  
-
-**[past]**
+Performed by Elina Albach (concert with Liam Byrne)  
 
 **DECEMBER 12, 2024** | Copenhagen, Denmark @ [Mayhem](https://mayhemkbh.dk/)  
 *Super Grape!* for violin  
