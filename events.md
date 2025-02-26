@@ -19,6 +19,10 @@ New paintings and installation
 
 **[past]**
 
+**FEBRUARY 26, 2025** | Riga, Latvia @ [TUR TELPA](https://turtelpa.lv/)  
+*Super Grape!* for violin  
+Performed by Orest Smovzh  
+
 **FEBRUARY 7, 2025** | Helsinki, Finland @ [Musica nova Helsinki](https://musicanova.fi/en/)  
 *aug.hocket* for cello and electronics  
 Performed by Markus Hohti, [defunensemble](https://www.defunensemble.fi/en/)  
