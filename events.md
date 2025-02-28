@@ -10,7 +10,7 @@ permalink: events/
 
 **[upcoming]**
 
-**MAY 16, 2025** | Esslingen, Germany @ KOMMA / [CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
+**MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
 Yuri Umemoto - *New Work* for viola quartet and fixed media  
 
 **MARCH 29, 2025** | Tokyo, Japan @ Ryogoku Monten Hall / [Yuri Umemoto - Mass](https://www.yuriumemoto.com/20250329/)  
