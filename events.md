@@ -20,11 +20,15 @@ Perform by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai
 **MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)  
 New paintings and installation  
 
+**MARCH 21, 2025** | Offenbach, Germany @ [Atelier Wäscherei](https://rausgegangen.de/events/mach-kaputt-was-dich-kaputt-macht-1-kommunikation-0/)  
+*Moe²Girl* (2022) for violin  
+Perfom by Lola Rubio, [Broken Frames Syndicate](https://brokenframessyndicate.com/)  
+
+*[past]*  
+
 **MARCH 8, 2025** | Fiskars, Finland @ [Anna-Maija & Lassi’s Sauna Lodge](https://fiskarsvillage.fi/en/see-and-do/events-and-exhibitions/condensed-music-in-raseborg/)  
 *Super Grape!* for violin  
 Performed by Orest Smovzh  
-
-**[past]**
 
 **FEBRUARY 26, 2025** | Riga, Latvia @ [TUR TELPA](https://turtelpa.lv/)  
 *Super Grape!* for violin  
