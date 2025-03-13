@@ -24,7 +24,7 @@ New paintings and installation
 *Moe²Girl* (2022) for violin  
 Perfom by Lola Rubio, [Broken Frames Syndicate](https://brokenframessyndicate.com/)  
 
-*[past]*  
+**[past]**  
 
 **MARCH 8, 2025** | Fiskars, Finland @ [Anna-Maija & Lassi’s Sauna Lodge](https://fiskarsvillage.fi/en/see-and-do/events-and-exhibitions/condensed-music-in-raseborg/)  
 *Super Grape!* for violin  
