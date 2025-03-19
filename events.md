@@ -18,7 +18,7 @@ Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Confiteor* for pi
 Perform by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai
 
 **MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)  
-New paintings and installation  
+Miserere (2025) painting  
 
 **MARCH 21, 2025** | Offenbach, Germany @ [Atelier Wäscherei](https://rausgegangen.de/events/mach-kaputt-was-dich-kaputt-macht-1-kommunikation-0/)  
 *Moe²Girl* (2022) for violin  
