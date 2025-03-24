@@ -3,10 +3,11 @@ layout: home
 ###title: Yuri Umemoto
 ---
 <div class="stretched">
+  
 梅本佑利<br>
 composer
-  
-<br><br>
+
+<br>
 
 [about](/about)&emsp;
 [works](/works/)&emsp;
@@ -19,4 +20,5 @@ composer
 [merch](https://yuriumemoto.bandcamp.com/merch/)&emsp;
 [bandcamp](https://yuriumemoto.bandcamp.com/)&emsp;
 [contact](/contact)
+
 </div>
