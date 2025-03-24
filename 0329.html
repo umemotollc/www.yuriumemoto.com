@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Yuri Umemoto - Mass in Tokyo</title>
+  <title>Mass – Tokyo, 2025</title>
   <style>
     body {
       font-family: sans-serif;
@@ -10,62 +10,70 @@
       padding: 0;
       line-height: 1.4;
     }
+
     .container {
       padding: 20px;
       max-width: 800px;
       margin: auto;
     }
-    .title {
-      font-size: 2em;
-      font-weight: bold;
-      margin-bottom: 20px;
-    }
-    .readstretched {
+
+    .stretchedread {
+      display: inline-block;
+      transform: scaleY(1.7);
+      transform-origin: center top;
       line-height: 1.6;
       letter-spacing: 0.03em;
       font-size: 1.1em;
       text-align: justify;
     }
+
     .program {
       font-size: 1.4em;
       margin-bottom: 20px;
     }
-    .info {
-      font-size: 1.1em;
-      margin-bottom: 15px;
-    }
-    .small-info {
-      font-size: 0.9em;
-      margin-bottom: 30px;
-    }
-    .images {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      margin-bottom: 30px;
-    }
-    .images img {
-      width: 100%;
-      height: auto;
-      object-fit: cover;
-    }
+
     .program-note-link {
       font-size: 1.5em;
       font-weight: bold;
       text-decoration: none;
       display: block;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
+      color: black;
+    }
+
+    .program-note-link:hover {
+      color: black;
+    }
+
+    .info {
+      font-size: 1.1em;
+      margin-bottom: 15px;
+    }
+
+    .small-info {
+      font-size: 0.9em;
+      margin-bottom: 30px;
+    }
+
+    .images {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      margin-bottom: 0;
+    }
+
+    .images img {
+      width: 100vw;
+      height: auto;
+      object-fit: cover;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <div class="title">
-      Yuri Umemoto - Mass (2024–2025-)<br>
-      + Franz Liszt - Harmonies poétiques et religieuses (S.173)
-    </div>
 
-    <div class="readstretched">
+    <div class="stretchedread">
+
       <div class="program">
         1　F.Liszt - Pensée des morts (No.4)<br>
         2　Y.Umemoto - Kyrie eleison<br>
@@ -79,6 +87,8 @@
         10　Y.Umemoto - Et in terra pax
       </div>
 
+      <a href="https://www.yuriumemoto.com/mass/" class="program-note-link">プログラムノート</a>
+
       <div class="info">
         Saturday, March 29, 2025, 7:00 PM (Doors open at 6:30 PM)<br>
         Tokyo<br><br>
@@ -91,6 +101,7 @@
         Organizer: Yuri Umemoto, UMEMOTO LLC<br>
         Co-Organizer: Ryogoku Monten Hall
       </div>
+
     </div>
 
     <div class="images">
@@ -98,7 +109,6 @@
       <img src="https://www.yuriumemoto.com/pics/spanish_monk_with_me.jpg" alt="Spanish Monk With Me">
     </div>
 
-    <a href="https://www.yuriumemoto.com/mass/" class="program-note-link">プログラムノート</a>
   </div>
 </body>
 </html>
