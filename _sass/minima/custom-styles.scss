@@ -46,13 +46,12 @@ a:hover { color: #FF0000; text-decoration: none; }
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 1rem;
 	margin-bottom: 0;
-	font-weight: bold;
-	float: left; 
+	font-weight: normal;
 	text-decoration: none!important;	
 	border-bottom: 0px;
 	text-align: right;
 	letter-spacing: 0; /* ← セミコロン追加！ */
-	transform: scaleY(1.6);
+	transform: scaleY(1.9);
 	display: inline-block;
 	transform-origin: center;
 }
@@ -142,8 +141,8 @@ a:hover { color: #FF0000; text-decoration: none; }
 
 .hamburger-menu{
   vertical-align: center;
-  //width: 32px;
-  //height: 32px;
+  //width: 30px;
+  //height: 30px;
 }
 
 .menu-btn {
@@ -160,7 +159,7 @@ a:hover { color: #FF0000; text-decoration: none; }
     background-size: cover;
     background-repeat: no-repeat;
     cursor: pointer;
-    transition: transform 0.1s ease; /* 回転アニメーション */
+    transition: transform 0.01s ease; /* 回転アニメーション */
 }
 
 /* クリック時にアイコンを回転 */
@@ -290,6 +289,6 @@ border: 0px solid #e8e8e8; }
 
 .stretched {
   display: inline-block;
-  transform: scaleY(1.6);
+  transform: scaleY(1.9);
   transform-origin: center top;
 }
