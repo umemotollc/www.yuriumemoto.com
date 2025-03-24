@@ -8,58 +8,38 @@
       font-family: sans-serif;
       margin: 0;
       padding: 0;
-      line-height: 1.4;
     }
 
     .container {
       padding: 20px;
-      max-width: 800px;
+      max-width: 1000px;
       margin: auto;
     }
 
     .stretchedread {
       display: inline-block;
-      transform: scaleY(1.7);
+      transform: scaleY(3); /* ← より強い縦引き伸ばし */
       transform-origin: center top;
-      line-height: 1.6;
-      letter-spacing: 0.03em;
-      font-size: 1.1em;
+      line-height: 2;
+      letter-spacing: 0.05em;
+      font-size: 3em; /* ← 通常の3倍 */
       text-align: justify;
     }
 
     .program {
-      font-size: 1.4em;
-      margin-bottom: 20px;
+      margin-bottom: 50px;
     }
 
-    .program-note-link {
-      font-size: 1.5em;
-      font-weight: bold;
-      text-decoration: none;
-      display: block;
-      margin-bottom: 30px;
-      color: black;
-    }
-
-    .program-note-link:hover {
-      color: black;
-    }
-
-    .info {
-      font-size: 1.1em;
-      margin-bottom: 15px;
-    }
-
-    .small-info {
-      font-size: 0.9em;
-      margin-bottom: 30px;
+    .meta-info {
+      margin-bottom: 40px;
+      white-space: pre-wrap;
+      word-spacing: 3em; /* ← 単語の間隔を広く */
     }
 
     .images {
       display: flex;
       flex-direction: column;
       gap: 0;
-      margin-bottom: 0;
     }
 
     .images img {
@@ -67,11 +47,23 @@
       height: auto;
       object-fit: cover;
     }
+
+    .program-note-link {
+      font-size: 3em;
+      font-weight: bold;
+      text-decoration: none;
+      display: block;
+      margin: 40px 0;
+      color: black;
+    }
+
+    .program-note-link:hover {
+      color: black;
+    }
   </style>
 </head>
 <body>
   <div class="container">
-
     <div class="stretchedread">
 
       <div class="program">
@@ -89,17 +81,8 @@
 
       <a href="https://www.yuriumemoto.com/mass/" class="program-note-link">プログラムノート</a>
 
-      <div class="info">
-        Saturday, March 29, 2025, 7:00 PM (Doors open at 6:30 PM)<br>
-        Tokyo<br><br>
-        Performers: Yuri Umemoto (Composer, Piano), Mai Kawano (Piano),<br>
-        Nobuaki Sato (Piano), Yuri Yamamoto (Piano),<br>
-        Miu Hirai (Violin), Ray Takatsuki
-      </div>
-
-      <div class="small-info">
-        Organizer: Yuri Umemoto, UMEMOTO LLC<br>
-        Co-Organizer: Ryogoku Monten Hall
+      <div class="meta-info">
+        Saturday, March 29, 2025, 7:00 PM (Doors open at 6:30 PM)      Tokyo        Performers: Yuri Umemoto (Composer, Piano), Mai Kawano (Piano), Nobuaki Sato (Piano), Yuri Yamamoto (Piano), Miu Hirai (Violin), Ray Takatsuki     Organizer: Yuri Umemoto, UMEMOTO LLC     Co-Organizer: Ryogoku Monten Hall
       </div>
 
     </div>
