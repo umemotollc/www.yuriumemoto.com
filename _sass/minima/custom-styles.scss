@@ -49,7 +49,7 @@ a:hover { color: #FF0000; text-decoration: none; }
 	text-decoration: none!important;	
 	border-bottom: 0px;
 	text-align: right;
-	letter-spacing: 0
+	letter-spacing: 0; /* ← セミコロン追加！ */
 	transform: scaleY(1.5);
 	display: inline-block;
 	transform-origin: center;
