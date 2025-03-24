@@ -192,13 +192,12 @@ a:hover { color: #FF0000; text-decoration: none; }
   border-bottom: solid 0px #ffffff; /* horizonal line in menu */
   list-style: none;
 }
-.menu-content ul li a{
+.menu-content ul li a {
   display: block;
   width: 100%;
   font-size: 15px;
   box-sizing: border-box;
-  //text-decoration: none;
-  text-decoration: none!important;	
+  text-decoration: none !important;
   border-bottom: none;
   color: #000000;
   padding: 9px 15px 10px 0;
@@ -207,7 +206,6 @@ a:hover { color: #FF0000; text-decoration: none; }
   font-weight: 400;
   letter-spacing: normal;
   transform: scaleY(1.9);
-  display: inline-block; /* transform を適用するために必要 */
 }
 
 #menu-btn-check:checked ~ .menu-content{
