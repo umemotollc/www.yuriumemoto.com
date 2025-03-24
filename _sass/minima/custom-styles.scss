@@ -50,13 +50,14 @@ a:hover { color: #FF0000; text-decoration: none; }
 .site-header { border-top: 5px solid #c0c0c0; border-bottom: 1px solid #c0c0c0; min-height: 55.95px; line-height: 54px; position: relative; }
 
 .site-title {
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 1rem;
 	margin-bottom: 0;
 	float: left; 
 	text-decoration: none!important;	
 	border-bottom: 0px;
 	text-align: right;
-	letter-spacing: 0.1em; /* ← ここ追加！*/
+	letter-spacing: 0
 }
 }
 @media screen and (max-width: 600px) { .site-title { padding-right: 45px; } }
