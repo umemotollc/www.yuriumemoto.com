@@ -140,7 +140,7 @@ for string quartet (2020)
 
 **collaborations**  
 
-**2025**: Composed music for the [pays des fées](https://www.pays-des-fees.com/) ×[Junji Ito](https://en.wikipedia.org/wiki/Junji_Ito) 2025-26 A/W show during [Tokyo Fashion Week](https://rakutenfashionweektokyo.com/en/).  
+**2025**: Composed music for the [pays des fées](https://www.pays-des-fees.com/) × [Junji Ito](https://en.wikipedia.org/wiki/Junji_Ito) 2025-26 A/W show during [Tokyo Fashion Week](https://rakutenfashionweektokyo.com/en/).  
 
 **2024**: Produced the soundtrack for an [installation](https://vimeo.com/1031181683?share=copy) by [Chayarat Ritaram](https://www.lefresnoy.net/en/ecole/etudiant/607/) @ [Le Fresnoy](https://www.lefresnoy.net/en/), National Studio for Contemporary Arts in France.  
 
