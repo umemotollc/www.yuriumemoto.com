@@ -13,12 +13,6 @@ body {
   line-height: 1.5;
 }
 
-.scale-text {
-  display: inline-block;
-  transform: scaleY(1.5);
-  transform-origin: center;
-}
-
 /** Links */
 a {
 	 color: #000000; 
@@ -50,11 +44,15 @@ a:hover { color: #FF0000; text-decoration: none; }
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 1rem;
 	margin-bottom: 0;
+	font-weight: bold;
 	float: left; 
 	text-decoration: none!important;	
 	border-bottom: 0px;
 	text-align: right;
 	letter-spacing: 0
+	transform: scaleY(1.5);
+	display: inline-block;
+	transform-origin: center;
 }
 
 @media screen and (max-width: 600px) { .site-title { padding-right: 45px; } }
