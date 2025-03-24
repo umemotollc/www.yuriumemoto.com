@@ -4,7 +4,7 @@ title: works
 permalink: /works/
 ---
 
-<div class="stretched">
+<div class="stretchedread">
   <p><small><a href="#anchor1">works</a>・<a href="#anchor2">collaborations</a></small></p>
 
   <h2 id="anchor1">works</h2>
