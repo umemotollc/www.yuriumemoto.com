@@ -1,24 +1,21 @@
 ---
 layout: home
-###title: Yuri Umemoto
+# title: Yuri Umemoto
 ---
+
 <div class="stretched">
-  
 梅本佑利<br>
 composer
-
-<br>
-
-[about](/about)&emsp;
-[works](/works/)&emsp;
-[events](/events/)&emsp;
-[discography](/discography/)&emsp;
-[YouTube](https://www.youtube.com/@YuriUmemoto)&emsp;
-[Instagram](https://www.instagram.com/yuri_umemoto)&emsp;
-[X](https://x.com/yuriumemoto)&emsp;
-[scores](/scores)&emsp;
-[merch](https://yuriumemoto.bandcamp.com/merch/)&emsp;
-[bandcamp](https://yuriumemoto.bandcamp.com/)&emsp;
-[contact](/contact)
-
+<br><br>
+<a href="/about">about</a> 
+<a href="/works/">works</a> 
+<a href="/events/">events</a> 
+<a href="/discography/">discography</a> 
+<a href="https://www.youtube.com/@YuriUmemoto">YouTube</a> 
+<a href="https://www.instagram.com/yuri_umemoto">Instagram</a> 
+<a href="https://x.com/yuriumemoto">X</a> 
+<a href="/scores">scores</a> 
+<a href="https://yuriumemoto.bandcamp.com/merch/">merch</a> 
+<a href="https://yuriumemoto.bandcamp.com/">bandcamp</a> 
+<a href="/contact">contact</a>
 </div>
