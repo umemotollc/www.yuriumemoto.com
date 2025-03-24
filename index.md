@@ -2,7 +2,6 @@
 layout: home
 # title: Yuri Umemoto
 ---
-<div class="stretched">
 <a href="/about">about</a> 
 <a href="/works/">works</a> 
 <a href="/events/">events</a> 
@@ -14,4 +13,3 @@ layout: home
 <a href="https://yuriumemoto.bandcamp.com/merch/">merch</a> 
 <a href="https://yuriumemoto.bandcamp.com/">bandcamp</a> 
 <a href="/contact">contact</a>
-</div>
