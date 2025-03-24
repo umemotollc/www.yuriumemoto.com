@@ -3,7 +3,6 @@ layout: page
 title: about
 permalink: /about/
 ---
-<br>
 <div align="center">
   <img src="https://www.yuriumemoto.com/pics/SophiaHegewald_Yuri Umemoto2024050166139_small.jpeg" alt="portrait" width="200">
 </div>
