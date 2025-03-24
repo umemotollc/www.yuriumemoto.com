@@ -311,3 +311,9 @@ border: 0px solid #e8e8e8; }
     transform: scaleY(1.3); /* 引き伸ばし度合いも調整可 */
   }
 }
+
+.stretchedread {
+  display: inline-block;
+  transform: scaleY(1.7); /* インデックスより少し控えめにした例 */
+  transform-origin: center top;
+}
