@@ -4,41 +4,39 @@
   <meta charset="UTF-8">
   <title>Mass – Tokyo, 2025</title>
   <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: white;
+    }
+
     body {
       font-family: sans-serif;
-      margin: 0;
-      padding: 20px 0 0 0; /* 上に少し余白 */
       line-height: 1.2;
-      background-color: #fff;
+      padding-top: 20px;
     }
 
     .container {
-      padding: 20px;
       max-width: 1000px;
       margin: auto;
-      margin-bottom: 80px; /* 最下部画像との余白 */
+      padding: 0 20px 60px 20px;
+      position: relative;
+      z-index: 2;
+      background: white;
     }
 
     .stretchedread {
       transform: scaleY(2.5);
       transform-origin: top center;
       display: inline-block;
+      font-size: 1.5em; /* 1.5倍サイズ */
     }
 
     .program {
-      font-size: 1em;
       margin-bottom: 20px;
     }
 
-    .meta-info {
-      margin-top: 30px;
-      margin-bottom: 60px;
-      white-space: pre-wrap;
-      word-spacing: 1em; /* 空白の間隔を調整 */
-    }
-
     .program-note-link {
-      font-size: 1em;
       font-weight: bold;
       text-decoration: underline;
       display: block;
@@ -46,16 +44,20 @@
       color: black;
     }
 
+    .meta-info {
+      white-space: pre-wrap;
+      word-spacing: 1em;
+      margin-bottom: 60px;
+    }
+
     .images {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
+      display: block;
       margin: 0;
       padding: 0;
     }
 
     .images img {
-      width: 100vw;
+      width: 100%;
       height: auto;
       display: block;
       margin: 0;
@@ -66,8 +68,9 @@
       color: white;
       font-size: 0.7rem;
       text-align: center;
-      margin-top: 200px; /* 下の方に配置 */
+      margin-top: 200px;
       position: relative;
+      z-index: 1;
     }
   </style>
 </head>
@@ -88,7 +91,7 @@
         10　Y.Umemoto - Et in terra pax
       </div>
 
-      <a href="https://www.yuriumemoto.com/mass/" class="program-note-link">[プログラムノート]</a>
+      <a href="https://www.yuriumemoto.com/mass/" class="program-note-link">プログラムノート</a>
 
       <div class="meta-info">
         Saturday, March 29, 2025, 7:00 PM (Doors open at 6:30 PM)      Tokyo        Performers: Yuri Umemoto (Composer, Piano), Mai Kawano (Piano), Nobuaki Sato (Piano), Yuri Yamamoto (Piano), Miu Hirai (Violin), Ray Takatsuki     Organizer: Yuri Umemoto, UMEMOTO LLC     Co-Organizer: Ryogoku Monten Hall
