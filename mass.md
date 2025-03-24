@@ -9,7 +9,7 @@ permalink: /mass/
 
 梅本佑利
 
-*萌え声を発するアニメキャラクターは、俗物的で罪深いわたしたちと、取り巻く世界の欲望を映している。声は自罪を詳らかにし、回心の祈りを捧げる。際限なき誘惑に満ちたこのゆがんだ世界のなか、信仰心は幾度も試練にさらされ、そのたび、神の気配をより強く感じる。<small>[1](#1)</small>   
+*萌え声を発するアニメキャラクターは、俗物的で罪深いわたしたちと、取り巻く世界の欲望を映している。声は自罪を詳らかにし、回心の祈りを捧げる。際限なき誘惑に満ちたこのゆがんだ世界のなか、信仰心は幾度も試練にさらされ、そのたび、神の気配をより強く感じる*<small>[1](#1)</small>   
  
 　日曜日にはアルバを着て鐘を鳴らし、長い蝋燭をもつ幼い私は、月曜日には父に連れられ、秋葉原の電気街で育てられた。まるで見てはいけないもののように、父はアニメ・キャラクターの視線を素通りし、パソコン・ショップで流れる電波ソングは、耳に入るだけで罪深く思えた。15歳のころ、はじめて入った店の地下売り場で、私はこの世の悪の説明書を手にしたように思えた。子供が強姦される漫画を、おおぜいのだれかが読むのを見た。  
 　区切られた小さな部屋でひざまずき、告白する。私がここで書くことができるのは、そして音楽であらわすものも、人にみせるための表面的なもので、格子ごしに語ったその言葉はだれにも明かすことはできない。ほんとうの祈りとは、大通りの角<small>[2](#2)</small>で語ることでも、演奏することでもなく、心のなかでひそかにおこなわれるものである。礼拝の音楽は悲観を和らげ、苦しみや痛み、悲しみを描かない。私が芸術のなかで取り憑かれた脅迫的な自己言及、私たちとそれを取りまく世界へのまなざしは、けっきょくほとんど皮のようなものに包まれている。ただ、それをつくり、目を瞑って聴いているとき、私は自分自身の方法で、深い内面に向きあうこともできる。また聴く人も、そうあってほしいと私は願う。神との対話に個人主義をもちこむことはできない。これらの音楽は、いったいどうして存在できるのだろうか？　それはけっして善いものとはいえない、恥ずべきおこないなのだろうか。  
@@ -67,25 +67,25 @@ permalink: /mass/
 ＊＊＊
 
 注  
-<a id="1"></a> ──梅本佑利《Confiteor──任意の楽器とフィクスト・メディアのための》（2024）プログラムノート。  
-<a id="2"></a> ──『マタイによる福音書』6章5節。  
-<a id="3"></a> ──アウグスティヌス『告白』第10巻第33章。  
-<a id="4"></a> ──清水康宏『音楽のなかの典礼』（春秋社、2023）、240頁。  
-<a id="5"></a> ──Pope Benedict XIV, Annus Qui Hunc: On the Upkeep and Cleanliness of Churches, 1749.  
-<a id="6"></a> ──E.T.A.ホフマン『音楽のなかの典礼』（清水康宏訳、春秋社、2023）、22–23頁。原著：Ernst Theodor Amadeus Hoffmann, Alte und neue Kirchenmusik. In: E. T. A. Hoffmanns Werke in fünfzehn Teilen, Teil 14, hrsg. von Georg Ellinger, Berlin/Leipzig: Deutsches Verlagshaus Bong, 1912, S.54。  
-<a id="7"></a> ──福地勝美「セシリア運動に及ぼしたE.T.A.ホフマンの影響について：A.F.J.ティボーとの関連を通して」、『成城美学美術史＝Studies in Aesthetics & Art History』（成城美学美術史学会編）、第17・18号（2012）、17–48頁。  
-<a id="8"></a> ──清水康宏『音楽のなかの典礼』（春秋社、2023）、6頁。  
-<a id="9"></a> ──同上、24頁。  
-<a id="10"></a> ──Albert Gereon Stein, Die katholische Kirchenmusik: nach ihrer Bestimmung und ihrer dermaligen Beschaffenheit dargestellt, Köln: Bachem, 1864, S.81。  
-<a id="11"></a> ──Ibid, S.83–84.  
-<a id="12"></a> ──清水康宏『音楽のなかの典礼』（春秋社、2023）、179頁。  
-<a id="13"></a> ──同上、181–182頁。  
-<a id="14"></a> ──Ben Nobuto, BBC Proms First Night of the Proms 2024, programme note, https://www.bbc.co.uk/proms/extra/2jg2kmjm0z/Prom-1-19-July-2024. 筆者訳。  
-<a id="15"></a> ──Ibid.  
-<a id="16"></a> ──Washington National Cathedral - Gothic Architecture 101：https://cathedral.org/discover/art-architecture/gothic-architecture-101/  
-<a id="17"></a> ──「トランプ氏に主教が「慈悲」求める　「ジェンダーは二つ」や移民に関する発言めぐり」、BBC：https://www.bbc.com/japanese/articles/cly4g3wggy3o  
-<a id="18"></a> ──ティム・インゴルド『ラインズ　線の文化史』、工藤晋訳、管啓次郎監修（左右社、2014）、26頁。  
-<a id="19"></a> ──同上、29頁。  
-<a id="20"></a> ──同上、30頁。  
-<a id="21"></a> ──同上、31頁。  
-<a id="22"></a> ──同上、36頁。  
+<a id="1"></a> [1]──梅本佑利《Confiteor──任意の楽器とフィクスト・メディアのための》（2024）プログラムノート。  
+<a id="2"></a> [2]──『マタイによる福音書』6章5節。  
+<a id="3"></a> [3]──アウグスティヌス『告白』第10巻第33章。  
+<a id="4"></a> [4]──清水康宏『音楽のなかの典礼』（春秋社、2023）、240頁。  
+<a id="5"></a> [5]──Pope Benedict XIV, Annus Qui Hunc: On the Upkeep and Cleanliness of Churches, 1749.  
+<a id="6"></a> [6]──E.T.A.ホフマン『音楽のなかの典礼』（清水康宏訳、春秋社、2023）、22–23頁。原著：Ernst Theodor Amadeus Hoffmann, Alte und neue Kirchenmusik. In: E. T. A. Hoffmanns Werke in fünfzehn Teilen, Teil 14, hrsg. von Georg Ellinger, Berlin/Leipzig: Deutsches Verlagshaus Bong, 1912, S.54。  
+<a id="7"></a> [7]──福地勝美「セシリア運動に及ぼしたE.T.A.ホフマンの影響について：A.F.J.ティボーとの関連を通して」、『成城美学美術史＝Studies in Aesthetics & Art History』（成城美学美術史学会編）、第17・18号（2012）、17–48頁。  
+<a id="8"></a> [8]──清水康宏『音楽のなかの典礼』（春秋社、2023）、6頁。  
+<a id="9"></a> [9]──同上、24頁。  
+<a id="10"></a> [10]──Albert Gereon Stein, Die katholische Kirchenmusik: nach ihrer Bestimmung und ihrer dermaligen Beschaffenheit dargestellt, Köln: Bachem, 1864, S.81。  
+<a id="11"></a> [11]──Ibid, S.83–84.  
+<a id="12"></a> [12]──清水康宏『音楽のなかの典礼』（春秋社、2023）、179頁。  
+<a id="13"></a> [13]──同上、181–182頁。  
+<a id="14"></a> [14]──Ben Nobuto, BBC Proms First Night of the Proms 2024, programme note, https://www.bbc.co.uk/proms/extra/2jg2kmjm0z/Prom-1-19-July-2024. 筆者訳。  
+<a id="15"></a> [15]──Ibid.  
+<a id="16"></a> [16]──Washington National Cathedral - Gothic Architecture 101：https://cathedral.org/discover/art-architecture/gothic-architecture-101/  
+<a id="17"></a> [17]──「トランプ氏に主教が「慈悲」求める　「ジェンダーは二つ」や移民に関する発言めぐり」、BBC：https://www.bbc.com/japanese/articles/cly4g3wggy3o  
+<a id="18"></a> [18]──ティム・インゴルド『ラインズ　線の文化史』、工藤晋訳、管啓次郎監修（左右社、2014）、26頁。  
+<a id="19"></a> [19]──同上、29頁。  
+<a id="20"></a> [20]──同上、30頁。  
+<a id="21"></a> [21]──同上、31頁。  
+<a id="22"></a> [22]──同上、36頁。  
