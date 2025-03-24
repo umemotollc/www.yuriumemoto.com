@@ -13,7 +13,7 @@ permalink: events/
 **MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
 *New work* for viola quartet and fixed media  
 
-**MARCH 29, 2025** | Tokyo, Japan @ Ryogoku Monten Hall / [Yuri Umemoto - Mass](https://www.yuriumemoto.com/0329/)  
+**MARCH 29, 2025** | Tokyo, Japan @ Ryogoku Monten Hall / [Yuri Umemoto - Mass](https://www.yuriumemoto.com/0329)  
 Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Confiteor* for piano, *Et in terra pax* for piano, violin and cello ...etc.  
 Perform by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai, Ray Takatsuki  
 
