@@ -7,21 +7,16 @@
 **/
 
 /**  Override **/
-body { 
-  margin: 1rem;
+body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  color: #000000; 
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-  -moz-font-feature-settings: "kern" 1;
-  -o-font-feature-settings: "kern" 1;
-  font-feature-settings: "kern" 1;
-  font-kerning: normal;
-  min-height: 100vh;
-  flex-direction: column;
-  overflow-wrap: break-word;
+  color: #000000;
+  line-height: 1.5;
+}
+
+.scale-text {
   display: inline-block;
   transform: scaleY(1.5);
+  transform-origin: center;
 }
 
 /** Links */
