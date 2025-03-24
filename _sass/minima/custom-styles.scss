@@ -146,17 +146,17 @@ a:hover { color: #FF0000; text-decoration: none; }
 }
 
 .menu-btn {
-  height: 28.5px;         /* 高さを285pxの1/10などに縮小 */
-  width: 60px;            /* 横幅は画像の縮小サイズに合わせて */
+  height: 60px;  /* 高さをしっかり確保 */
+  width: 120px;  /* 横幅を画像に合わせて */
   background-image: url("/assets/images/new-menu-icon.png") !important;
-  background-size: contain;         /* 画像全体が切れずに表示される */
-  background-repeat: no-repeat;     
-  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: transparent;
   display: flex;
   justify-content: center;
   align-items: center;
   z-index: 90;
-  background-color: transparent;
   cursor: pointer;
 }
 
