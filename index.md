@@ -2,11 +2,7 @@
 layout: home
 # title: Yuri Umemoto
 ---
-
 <div class="stretched">
-梅本佑利<br>
-composer
-<br><br>
 <a href="/about">about</a> 
 <a href="/works/">works</a> 
 <a href="/events/">events</a> 
