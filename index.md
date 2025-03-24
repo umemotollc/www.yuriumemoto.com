@@ -12,4 +12,4 @@ layout: home
 <a href="/scores">scores</a> <br> 
  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <a href="https://yuriumemoto.bandcamp.com/merch/">merch</a> 
  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; <a href="https://yuriumemoto.bandcamp.com/">bandcamp</a> 
- &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  <a href="/contact">contact</a>
+ &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  <a href="/contact">contact</a>
