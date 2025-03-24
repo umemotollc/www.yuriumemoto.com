@@ -234,8 +234,9 @@ a:hover { color: #FF0000; text-decoration: none; }
 
 /** Page content */
 .page-content {
-  padding: 30px 0 5rem 0; /* 下に余白を追加して被りを防ぐ */
+  padding: 30px 0;
   flex: 1 0 auto;
+  min-height: 80vh; /* ← 高さを確保！画面の80%分の高さ */
 }
 .page-heading { font-size: 1.125rem; }
 .post-list-heading { font-size: 1.00rem; }
