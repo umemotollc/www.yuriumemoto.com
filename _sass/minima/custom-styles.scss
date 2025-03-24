@@ -17,17 +17,11 @@ body {
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
   font-kerning: normal;
-  display: flex;
   min-height: 100vh;
   flex-direction: column;
   overflow-wrap: break-word;
-}
-
-/* すべてのテキストを縦に1.5倍にスケーリング */
-body * {
   display: inline-block;
   transform: scaleY(1.5);
-  transform-origin: center;
 }
 
 /** Links */
