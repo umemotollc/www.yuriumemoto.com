@@ -1,8 +1,11 @@
 ---
+layout: default
 title: works
 category: page
 permalink: works/
 ---
+
+<div class="stretched">
 
 <small>[[works](#anchor1)]</small>
 <small>[[collaborations](#anchor2)]</small>
@@ -159,3 +162,4 @@ for string quartet (2020)
 <br>
 <br>
 <small>[JASRAC list](/list?type=composition)</small>
+</div>
