@@ -4,59 +4,52 @@
   <meta charset="UTF-8">
   <title>Mass – Tokyo, 2025</title>
   <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-    }
-
     body {
       font-family: sans-serif;
-      line-height: 1.4;
-      background-color: white;
+      margin: 0;
+      padding: 20px 0 0 0; /* 上に少し余白 */
+      line-height: 1.2;
+      background-color: #fff;
     }
 
     .container {
       padding: 20px;
       max-width: 1000px;
       margin: auto;
+      margin-bottom: 80px; /* 最下部画像との余白 */
     }
 
     .stretchedread {
+      transform: scaleY(2.5);
+      transform-origin: top center;
       display: inline-block;
-      transform: scaleY(2); /* ← 縦2倍 */
-      transform-origin: center top;
-      font-size: 2em; /* ← 文字2倍 */
-      line-height: 1.2; /* ← 行間詰める */
-      letter-spacing: 0.03em;
-      text-align: justify;
     }
 
     .program {
-      margin-bottom: 40px;
+      font-size: 1em;
+      margin-bottom: 20px;
     }
 
     .meta-info {
       margin-top: 30px;
       margin-bottom: 60px;
       white-space: pre-wrap;
-      word-spacing: 2em;
+      word-spacing: 1em; /* 空白の間隔を調整 */
     }
 
     .program-note-link {
-      font-size: 2em;
+      font-size: 1em;
       font-weight: bold;
-      text-decoration: none;
+      text-decoration: underline;
       display: block;
       margin-bottom: 40px;
       color: black;
     }
 
-    .program-note-link:hover {
-      color: black;
-    }
-
     .images {
-      display: block;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
       margin: 0;
       padding: 0;
     }
@@ -68,13 +61,20 @@
       margin: 0;
       padding: 0;
     }
+
+    .copyright {
+      color: white;
+      font-size: 0.7rem;
+      text-align: center;
+      margin-top: 200px; /* 下の方に配置 */
+      position: relative;
+    }
   </style>
 </head>
 <body>
+
   <div class="container">
-
     <div class="stretchedread">
-
       <div class="program">
         1　F.Liszt - Pensée des morts (No.4)<br>
         2　Y.Umemoto - Kyrie eleison<br>
@@ -88,18 +88,19 @@
         10　Y.Umemoto - Et in terra pax
       </div>
 
-      <a href="https://www.yuriumemoto.com/mass/" class="program-note-link">プログラムノート</a>
+      <a href="https://www.yuriumemoto.com/mass/" class="program-note-link">[プログラムノート]</a>
 
       <div class="meta-info">
         Saturday, March 29, 2025, 7:00 PM (Doors open at 6:30 PM)      Tokyo        Performers: Yuri Umemoto (Composer, Piano), Mai Kawano (Piano), Nobuaki Sato (Piano), Yuri Yamamoto (Piano), Miu Hirai (Violin), Ray Takatsuki     Organizer: Yuri Umemoto, UMEMOTO LLC     Co-Organizer: Ryogoku Monten Hall
       </div>
-
     </div>
   </div>
 
   <div class="images">
     <img src="https://www.yuriumemoto.com/pics/spanish_monk_car.png" alt="Spanish Monk Car">
     <img src="https://www.yuriumemoto.com/pics/spanish_monk_with_me.jpg" alt="Spanish Monk With Me">
+    <div class="copyright">©︎2025 Yuri Umemoto</div>
   </div>
+
 </body>
 </html>
