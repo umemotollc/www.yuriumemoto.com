@@ -52,7 +52,7 @@ a:hover { color: #FF0000; text-decoration: none; }
 	border-bottom: 0px;
 	text-align: right;
 	letter-spacing: 0; /* ← セミコロン追加！ */
-	transform: scaleY(1.5);
+	transform: scaleY(1.6);
 	display: inline-block;
 	transform-origin: center;
 }
@@ -286,4 +286,10 @@ border: 0px solid #e8e8e8; }
 * {
   color: #000000 !important;
   border-color: #000000 !important;
+}
+
+.stretched {
+  display: inline-block;
+  transform: scaleY(1.6);
+  transform-origin: center top;
 }
