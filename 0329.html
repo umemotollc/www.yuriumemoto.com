@@ -4,10 +4,15 @@
   <meta charset="UTF-8">
   <title>Mass – Tokyo, 2025</title>
   <style>
-    body {
-      font-family: sans-serif;
+    html, body {
       margin: 0;
       padding: 0;
+    }
+
+    body {
+      font-family: sans-serif;
+      line-height: 1.4;
+      background-color: white;
     }
 
     .container {
@@ -18,52 +23,56 @@
 
     .stretchedread {
       display: inline-block;
-      transform: scaleY(3); /* ← より強い縦引き伸ばし */
+      transform: scaleY(2); /* ← 縦2倍 */
       transform-origin: center top;
-      line-height: 2;
-      letter-spacing: 0.05em;
-      font-size: 3em; /* ← 通常の3倍 */
+      font-size: 2em; /* ← 文字2倍 */
+      line-height: 1.2; /* ← 行間詰める */
+      letter-spacing: 0.03em;
       text-align: justify;
     }
 
     .program {
-      margin-bottom: 50px;
+      margin-bottom: 40px;
     }
 
     .meta-info {
-      margin-bottom: 40px;
+      margin-top: 30px;
+      margin-bottom: 60px;
       white-space: pre-wrap;
-      word-spacing: 3em; /* ← 単語の間隔を広く */
-    }
-
-    .images {
-      display: flex;
-      flex-direction: column;
-      gap: 0;
-    }
-
-    .images img {
-      width: 100vw;
-      height: auto;
-      object-fit: cover;
+      word-spacing: 2em;
     }
 
     .program-note-link {
-      font-size: 3em;
+      font-size: 2em;
       font-weight: bold;
       text-decoration: none;
       display: block;
-      margin: 40px 0;
+      margin-bottom: 40px;
       color: black;
     }
 
     .program-note-link:hover {
       color: black;
     }
+
+    .images {
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
+
+    .images img {
+      width: 100vw;
+      height: auto;
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
   </style>
 </head>
 <body>
   <div class="container">
+
     <div class="stretchedread">
 
       <div class="program">
@@ -86,12 +95,11 @@
       </div>
 
     </div>
+  </div>
 
-    <div class="images">
-      <img src="https://www.yuriumemoto.com/pics/spanish_monk_car.png" alt="Spanish Monk Car">
-      <img src="https://www.yuriumemoto.com/pics/spanish_monk_with_me.jpg" alt="Spanish Monk With Me">
-    </div>
-
+  <div class="images">
+    <img src="https://www.yuriumemoto.com/pics/spanish_monk_car.png" alt="Spanish Monk Car">
+    <img src="https://www.yuriumemoto.com/pics/spanish_monk_with_me.jpg" alt="Spanish Monk With Me">
   </div>
 </body>
 </html>
