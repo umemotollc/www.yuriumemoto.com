@@ -11,6 +11,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   color: #000000;
   line-height: 1.5;
+  margin: 0;
+  padding: 2rem; /* ← ここでサイト全体に余白ができる */
 }
 
 /** Links */
