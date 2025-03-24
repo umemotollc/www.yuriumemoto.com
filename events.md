@@ -8,8 +8,6 @@ permalink: events/
 
 <a id="anchor1"></a>
 
-**[upcoming]**
-
 **MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
 *New work* for viola quartet and fixed media  
 
@@ -26,8 +24,6 @@ Miserere (2025) painting
 **MARCH 21, 2025** | Offenbach, Germany @ [Atelier Wäscherei](https://rausgegangen.de/events/mach-kaputt-was-dich-kaputt-macht-1-kommunikation-0/)  
 *Moe²Girl* (2022) for violin  
 Perfom by Lola Rubio, [Broken Frames Syndicate](https://brokenframessyndicate.com/)  
-
-**[past]**  
 
 **MARCH 8, 2025** | Fiskars, Finland @ [Anna-Maija & Lassi’s Sauna Lodge](https://fiskarsvillage.fi/en/see-and-do/events-and-exhibitions/condensed-music-in-raseborg/)  
 *Super Grape!* for violin  
