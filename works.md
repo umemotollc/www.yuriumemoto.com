@@ -10,6 +10,11 @@ permalink: works/
 **works**  
 
 <a id="anchor1"></a>
+**[goodbye](https://youtu.be/aX8Uu85CPoI?si=ryjQz5JCEvqMsQCC)**
+for shō and fixed media (2025)
+
+**Qui sedes**
+for violin, cello, piano and fixed media (2025)
 
 **Laudamus te**
 for violin, cello and fixed media (2024)
@@ -33,9 +38,6 @@ versions for piano or cello
 for any instrument(s) and fixed media (2024)
 versions for piano or cello
 
-**shopping mall in landfill**
-for tenor saxophone (2024)
-
 **[look at me, senpai](https://youtu.be/gCjOS_-_WLc?si=yb2C1UjMpIIn2t-s)**
 for violin, cello and fixed media (2024)
 
@@ -54,15 +56,9 @@ videogram (2023)
 **[Song of the Data Angel](https://youtu.be/0X3MOmN9_KU?si=7nCDoemMPlukoyiR)**
 videogram (2023)
 
-**[barrage▂▃▅▆▇▂▃▅゚∀゚)ノ゚∀゚)ノ∀゚)ノ゚)ノ)ノ━━━rrrっ!!](https://youtu.be/-bFXI8K16Js?si=FdX073LYketOoLYY)**
-for piano and fixed media (2023)
-
 **[Dempa-chan never dies♡](https://youtu.be/ZrJN5PtNvOM?si=5dMxIxrQM4LwySWW)**
 for any instrument(s) (2023)
 versions for viola or piano
-
-**[will i never understand falling in love?](https://youtu.be/DQgX3UVA71g?si=LkuD_cBNBlpO0vRt)**
-song (2023)
 
 **[Endless Haruhi Scale](https://youtu.be/rWIiDX-99DI?si=MXQzZaMChfIX5YRH)**
 videogram (2023)
@@ -102,13 +98,6 @@ versions for piano, violin, cello, or violin-cello
 **[Plastic Vagina](https://youtu.be/OU8-vKPXb9s?si=Hib1aM1LSv7AmeDw)**
 for violin (2022)
 
-**[DEVILBOY](https://youtu.be/U6eHapViaDw?si=dwIMzNvazbWNY-jz)**
-for violin and Disklavier™ (2021)
-A collaborative project with Yamaha Corporation: A piece for Disklavier™ (a reproducing piano) and violin utilizing AI Music Ensemble Technology.
-
-**[Tagging](https://youtu.be/JZcZI5iSM-A?si=qePjg98ZFDa1BDSJ)**
-for Cadenza, Mozart Violin Concerto No.3 (2021) 
-
 **[Super Grape!](https://youtu.be/IW2I5nBcsVc?si=Ly12hyPXFLGu-CuL)**
 for violin (2021)
 
@@ -145,19 +134,17 @@ for piano (2020)
 **[Fluffy Pink!](https://youtu.be/jGv8AuLA9dc?si=SvrrmsiMaM1FT-F9)**
 for string quartet (2020)
 
-**Dawning**
-for guitar (2019)
-
-**Euangelion**
-for guitar (2018)
-
  <br> 
 
 <a id="anchor2"></a>
 
 **collaborations**  
 
+**2025**: Composed music for the [pays des fées](https://www.pays-des-fees.com/) ×[Junji Ito](https://en.wikipedia.org/wiki/Junji_Ito) 2025-26 A/W show during [Tokyo Fashion Week](https://rakutenfashionweektokyo.com/en/).  
+
 **2024**: Produced the soundtrack for an [installation](https://vimeo.com/1031181683?share=copy) by [Chayarat Ritaram](https://www.lefresnoy.net/en/ecole/etudiant/607/) @ [Le Fresnoy](https://www.lefresnoy.net/en/), National Studio for Contemporary Arts in France.  
+
+**2024**: Composed music for the [QUQU](https://ququ.tokyo/) hair show.
 
 **2024**: Collaborated with [Astrophysics](https://www.youtube.com/channel/UCWSC_-y9QsDmACXRY3rvtsQ) on the track [“Permanence”](https://youtu.be/Y1hTFcH8wwg?si=L2paonDp0qdLIrpy) (feat. The Mall & Yuri Umemoto) from the album The [Unending Need for Perpetual Motion](https://youtu.be/xzPwmzUlXx0?si=xfRrZy3B_iARggq-).
 
