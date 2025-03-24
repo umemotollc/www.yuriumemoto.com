@@ -288,3 +288,25 @@ border: 0px solid #e8e8e8; }
   transform: scaleY(2.5);
   transform-origin: center top;
 }
+
+/* デフォルト（スマホ用） */
+.header-image img {
+  width: 30%;
+}
+
+/* PC用にサイズを小さく調整（幅が600px以上のとき） */
+@media screen and (min-width: 600px) {
+  .header-image img {
+    width: 10%; /* PCではもっと小さく表示 */
+  }
+
+  .menu-btn {
+    width: 80px;
+    height: 40px;
+  }
+
+  .site-title {
+    font-size: 1.2rem;
+    transform: scaleY(1.3); /* 引き伸ばし度合いも調整可 */
+  }
+}
