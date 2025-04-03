@@ -20,14 +20,14 @@ Yuri Umemoto – *SUPERBACHBOY3*
 
 **MARCH 29, 2025** | Tokyo, Japan @ Ryogoku Monten Hall / [Yuri Umemoto - Mass](https://www.yuriumemoto.com/0329)  
 Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Confiteor* for piano, *Et in terra pax* for piano, violin and cello ...etc.  
-Perform by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai, Ray Takatsuki  
+Performed by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai, Ray Takatsuki  
 
 **MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)  
 Miserere (2025) painting  
 
 **MARCH 21, 2025** | Offenbach, Germany @ [Atelier Wäscherei](https://rausgegangen.de/events/mach-kaputt-was-dich-kaputt-macht-1-kommunikation-0/)  
 *Moe²Girl* (2022) for violin  
-Perfom by Lola Rubio, [Broken Frames Syndicate](https://brokenframessyndicate.com/)  
+Performed by Lola Rubio, [Broken Frames Syndicate](https://brokenframessyndicate.com/)  
 
 **MARCH 16, 2024** | South Creake, Norfolk, UK @ Yorke Trust Benefit Concerts  
 *Moe²Girl* for cello  
