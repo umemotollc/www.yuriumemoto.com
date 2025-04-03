@@ -11,6 +11,10 @@ permalink: events/
 **MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
 *New work* for viola quartet and fixed media  
 
+**APRIL 1, 2024** | Manchester, UK @ Whiskey Jar Open Mic Night  
+*Moe²Girl* for cello  
+Performed by Robert Wheatley  
+
 **MARCH 30, 2025** | New York, USA @ Ray Wright Room, Eastman School of Music / [OSSIA New Music](https://www.ossianewmusic.org/our-mission)  
 Yuri Umemoto – *SUPERBACHBOY3*  
 
@@ -24,6 +28,10 @@ Miserere (2025) painting
 **MARCH 21, 2025** | Offenbach, Germany @ [Atelier Wäscherei](https://rausgegangen.de/events/mach-kaputt-was-dich-kaputt-macht-1-kommunikation-0/)  
 *Moe²Girl* (2022) for violin  
 Perfom by Lola Rubio, [Broken Frames Syndicate](https://brokenframessyndicate.com/)  
+
+**MARCH 16, 2024** | South Creake, Norfolk, UK @ Yorke Trust Benefit Concerts  
+*Moe²Girl* for cello  
+Performed by Robert Wheatley  
 
 **MARCH 8, 2025** | Fiskars, Finland @ [Anna-Maija & Lassi’s Sauna Lodge](https://fiskarsvillage.fi/en/see-and-do/events-and-exhibitions/condensed-music-in-raseborg/)  
 *Super Grape!* for violin  
