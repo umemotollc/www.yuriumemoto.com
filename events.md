@@ -11,7 +11,11 @@ permalink: events/
 **MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
 *New work* for viola quartet and fixed media  
 
-**APRIL 1, 2024** | Manchester, UK @ Whiskey Jar Open Mic Night  
+**APRIL 26, 2025** | Singapore @ Aliwal Arts Centre, [WA #10!](https://www.eventbrite.com/e/wa-10-tickets-1306732214229)  
+*look at me,sempai* for violin, cello and fixed media  
+Perform by [Weird aftertaste](https://www.weirdaftertastemusic.com/)  
+
+**APRIL 1, 2025** | Manchester, UK @ Whiskey Jar Open Mic Night  
 *Moe²Girl* for cello  
 Performed by Robert Wheatley  
 
