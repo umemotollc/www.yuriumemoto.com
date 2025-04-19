@@ -174,6 +174,10 @@ Performed by Norio Sato
 
 **media**  
 
+**FEBRUARY 4, 2025** | Denmark, Copenhagen @ [Passive/Aggressive](https://passiveaggressive.dk/)  
+*but…you’re a minor, right?* was mixed on [Soli City –
+Musik mellem det smukke og det eerie (interview og mix)](https://passiveaggressive.dk/soli-city-musik-mellem-det-smukke-og-det-eerie/)  
+
 **DECEMBER 6, 2024** | Denmark, Copenhagen @ [Retreat Radio](https://www.retreatradio.net/)  
 *look at me, senpai*  was mixed on [REAL LIVE RADIO](https://www.retreatradio.net/real-live-radio) [#7 w/ Ryong](https://soundcloud.com/retreatradio/real-live-radio-7)
 
