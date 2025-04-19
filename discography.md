@@ -6,6 +6,12 @@ permalink: discography/
 
 
 
+<a href="https://yuriumemoto.bandcamp.com/album/mass-volume-i">
+    <img src="https://www.yuriumemoto.com/pics/Mass (Volume I).jpg" alt="Mass (Volume I)" width="200">
+</a>
+
+<br>
+
 <a href="https://yuriumemoto.bandcamp.com/track/goodbye">
     <img src="https://www.yuriumemoto.com/pics/goodbye.jpeg" alt="goodbye" width="200">
 </a>
