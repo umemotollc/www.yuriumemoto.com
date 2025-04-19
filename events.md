@@ -36,7 +36,7 @@ Miserere (2025) painting
 *Moe²Girl* (2022) for violin  
 Performed by Lola Rubio, [Broken Frames Syndicate](https://brokenframessyndicate.com/)  
 
-**MARCH 16, 2024** | South Creake, Norfolk, UK @ Yorke Trust Benefit Concerts  
+**MARCH 16, 2025** | South Creake, Norfolk, UK @ Yorke Trust Benefit Concerts  
 *Moe²Girl* for cello  
 Performed by Robert Wheatley  
 
