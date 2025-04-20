@@ -10,7 +10,7 @@ permalink: events/
 
 **JULY 26, 2025** | Lehnin, Germany @ [Klosterkirche Lehnin (Lehnin Abbey)](https://en.wikipedia.org/wiki/Lehnin_Abbey) / [Lehniner Sommermusiken](https://www.klosterkirche-lehnin.de/lehniner-sommermusiken/)  
 *typing on the keyboard, i feel so small* for harpsichord  
-Will be Performed by Elina Albach  
+Will be performed by Elina Albach  
 
 **MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
 *Heidenröslein* for viola quartet and fixed media  
@@ -19,7 +19,7 @@ Will be Performed by Elina Albach
 
 **APRIL 26, 2025** | Singapore @ Aliwal Arts Centre, [WA #10!](https://www.eventbrite.com/e/wa-10-tickets-1306732214229)  
 *look at me,sempai* for violin, cello and fixed media  
-Will be Performed by [Weird aftertaste](https://www.weirdaftertastemusic.com/)  
+Will be performed by [Weird aftertaste](https://www.weirdaftertastemusic.com/)  
 
 **APRIL 1, 2025** | Manchester, UK @ Whiskey Jar Open Mic Night  
 *Moe²Girl* for cello  
