@@ -8,7 +8,7 @@ permalink: events/
 
 <a id="anchor1"></a>
 
-**SEPTEMBER 11, 2025** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/)  
+**SEPTEMBER 11, 2025** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en)  
 will be performed by Ayana Tsuji, Kei Yamazawa, Shintaro Imai  
 Commissioned by Yokohama Minato Mirai Hall  
 
