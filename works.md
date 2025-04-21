@@ -13,28 +13,28 @@ permalink: works/
 **[goodbye](https://youtu.be/aX8Uu85CPoI?si=ryjQz5JCEvqMsQCC)**  
 for shō and fixed media (2025)
 
-**Qui sedes**  
+**[Qui sedes](https://youtu.be/peJE0L2dwjY)**  
 for violin, cello, piano and fixed media (2025)
 
-**Laudamus te**  
+**[Laudamus te](https://youtu.be/AXXq4kSuWUg)**  
 for violin, cello and fixed media (2024)
 
-**Et interra pax**  
+**[Et interra pax](https://youtu.be/ITQILA2tVlc)**  
 for violin, cello, piano and fixed media (2024)
 
-**Gloria in excelsis Deo**  
+**[Gloria in excelsis Deo](https://youtu.be/vAVecQvKBJo)**  
 for any instrument(s) and fixed media (2024)  
 version for piano
 
-**Christe eleison**  
+**[Christe eleison](https://youtu.be/rsQs0Q_mK2c)**  
 for any instrument(s) and fixed media (2024)  
 versions for piano or cello
 
-**Kyrie eleison**  
+**[Kyrie eleison](https://youtu.be/nBXh8UH_2V8)**  
 for any instrument(s) and fixed media (2024)  
 versions for piano or cello
 
-**Confiteor**  
+**[Confiteor](https://youtu.be/EeS8XX4lmeM)**  
 for any instrument(s) and fixed media (2024)  
 versions for piano or cello
 
@@ -72,16 +72,16 @@ for voices (2023)
 **[i'm scared of dying. what do i do?](https://youtu.be/FHZgv7qcewc?si=jsd0hVsV4mZFUYhf)**  
 for violin (2023)  
 
-**Copy and paste, mass produced/consumed irregular/imperfectly shaped plastic pearls and Me.**  
+**[Copy and paste, mass produced/consumed irregular/imperfectly shaped plastic pearls and Me.](https://youtu.be/_ezdfHcVnOE?si=U3D3QKFJzFSQzSJ8)**  
 for violin (2023)  
 
-**Embellish Me!**  
+**[Embellish Me!](https://youtu.be/IgFRV0ZTsuw?si=orD_mcHEZbKSWu_8)**  
 for violin (2023)  
 
-**Alice in Abandoned Akihabara No.1, No.2**  
+**[Alice in Abandoned Akihabara No.1, No.2](https://youtu.be/IgFRV0ZTsuw?si=orD_mcHEZbKSWu_8)**  
 for violin (2023)  
 
-**Melt Me!**  
+**[Melt Me!](https://youtu.be/IgFRV0ZTsuw?si=orD_mcHEZbKSWu_8)**  
 for violin (2023)
 
 **[What the hell are you doing?!](https://youtu.be/j-utfdxtvcI?si=AF42vSGbZihbyXmA)**  
