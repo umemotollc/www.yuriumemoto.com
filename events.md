@@ -22,7 +22,7 @@ Will be performed by Elina Albach
 **MAY 8, 2025** | Copenhagen, Denmark @ [KOBE](https://www.instagram.com/kobe_cph/) / [(at)world](https://www.instagram.com/at___world/) presents: [Yuri Umemoto(JP), Kamil Dossar & Ryong](https://billetfix.dk/da/e/atworld-presents-yuri-umemotojp-kamil-dossar-ryong/?fbclid=PAZXh0bgNhZW0CMTEAAaeC3r9DOlSkOZfET_jf_MP4x5Aehgrwu2XJHRjNj6VtwH8RSiE3dWtQvIuqEA_aem_JOpfBKqFRk7K14aWvnfQVQ)  
 Live performance by Yuri Umemoto  
 
-**APRIL 26, 2025** | Singapore @ Aliwal Arts Centre, [WA #10!](https://www.eventbrite.com/e/wa-10-tickets-1306732214229)  
+**APRIL 26, 2025** | Singapore @ [Aliwal Arts Centre](https://artshouselimited.sg/aac-about) / [WA #10!](https://www.eventbrite.com/e/wa-10-tickets-1306732214229)  
 *look at me,sempai* for violin, cello and fixed media  
 Will be performed by [Weird aftertaste](https://www.weirdaftertastemusic.com/)  
 
