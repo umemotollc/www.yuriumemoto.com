@@ -52,6 +52,10 @@ Performed by Robert Wheatley
 *Super Grape!* for violin  
 Performed by Orest Smovzh  
 
+**FEBRUARY 27, 2025** | Vilnius, Lithuania @ [Naujosios Operos studija](https://g.co/kgs/uJEnvpH)  
+*Super Grape!* for violin  
+[Performed by Orest Smovzh](https://orestsmovzh.bandcamp.com/album/condensed-music-live-from-vilnius-2025)  
+
 **FEBRUARY 26, 2025** | Riga, Latvia @ [TUR TELPA](https://turtelpa.lv/)  
 *Super Grape!* for violin  
 Performed by Orest Smovzh  
