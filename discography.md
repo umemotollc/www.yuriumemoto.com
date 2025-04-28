@@ -5,6 +5,11 @@ permalink: discography/
 ---
 
 
+<a href="https://yuriumemoto.bandcamp.com/album/youre-surrounded-by-caring-thoughts-warm-wishes">
+    <img src="https://www.yuriumemoto.com/pics/ysbctaww_cover.PNG" alt="You're surrounded by caring thoughts & warm wishes" width="200">
+</a>
+
+<br>
 
 <a href="https://yuriumemoto.bandcamp.com/album/mass-volume-i">
     <img src="https://www.yuriumemoto.com/pics/Mass (Volume I).jpg" alt="Mass (Volume I)" width="200">
