@@ -16,8 +16,18 @@ Commissioned by Yokohama Minato Mirai Hall
 *typing on the keyboard, i feel so small* for harpsichord  
 Will be performed by Elina Albach  
 
+**June 22, 2025** | Berlin, Germany @ [Radialsystem](https://www.radialsystem.de/) / [SOMEHOW WE CAN – 12 String Quartets](https://www.radialsystem.de/de/veranstaltungen/somehow-we-can-12-streichquartette/?date=1750608000)  
+*Fluffy Pink!* (2020) for string quartet  
+Will be performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
+
 **MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
 *Heidenröslein* for viola quartet and fixed media  
+Will be performed by Nefeli Galani, Marc Kopitzki, Laura Hovestadt,
+Sebastian Steinhilber  
+
+**MAY 12, 2025** | Berlin, Germany @ [Colosseum](https://www.colosseumberlin.com/) / [Condensed Music](https://classicalnext.com/event/condensed-music/)  
+*Super Grape!* for violin  
+Performed by Orest Smovzh  
 
 **MAY 8, 2025** | Copenhagen, Denmark @ [KOBE](https://www.instagram.com/kobe_cph/) / [(at)world](https://www.instagram.com/at___world/) presents: [Yuri Umemoto(JP), Kamil Dossar & Ryong](https://billetfix.dk/da/e/atworld-presents-yuri-umemotojp-kamil-dossar-ryong/?fbclid=PAZXh0bgNhZW0CMTEAAaeC3r9DOlSkOZfET_jf_MP4x5Aehgrwu2XJHRjNj6VtwH8RSiE3dWtQvIuqEA_aem_JOpfBKqFRk7K14aWvnfQVQ)  
 Live performance by Yuri Umemoto  
