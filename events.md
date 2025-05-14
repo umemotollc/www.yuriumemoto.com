@@ -8,10 +8,6 @@ permalink: events/
 
 <a id="anchor1"></a>
 
-**SEPTEMBER 11, 2025** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en)  
-will be performed by Ayana Tsuji, Kei Yamazawa, Shintaro Imai  
-Commissioned by Yokohama Minato Mirai Hall  
-
 **JULY 26, 2025** | Lehnin, Germany @ [Klosterkirche Lehnin (Lehnin Abbey)](https://en.wikipedia.org/wiki/Lehnin_Abbey) / [Lehniner Sommermusiken](https://www.klosterkirche-lehnin.de/lehniner-sommermusiken/)  
 *typing on the keyboard, i feel so small* for harpsichord  
 Will be performed by Elina Albach  
