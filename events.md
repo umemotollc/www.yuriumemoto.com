@@ -12,7 +12,7 @@ permalink: events/
 *typing on the keyboard, i feel so small* (2024) for harpsichord  
 Will be performed by Elina Albach  
 
-**June 22, 2025** | Berlin, Germany @ [Radialsystem](https://www.radialsystem.de/) / [SOMEHOW WE CAN – 12 String Quartets](https://www.radialsystem.de/de/veranstaltungen/somehow-we-can-12-streichquartette/?date=1750608000)  
+**JUNE 22, 2025** | Berlin, Germany @ [Radialsystem](https://www.radialsystem.de/) / [SOMEHOW WE CAN – 12 String Quartets](https://www.radialsystem.de/de/veranstaltungen/somehow-we-can-12-streichquartette/?date=1750608000)  
 *Fluffy Pink!* (2020) for string quartet  
 Will be performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
 
