@@ -9,7 +9,7 @@ permalink: events/
 <a id="anchor1"></a>
 
 **JULY 26, 2025** | Lehnin, Germany @ [Klosterkirche Lehnin (Lehnin Abbey)](https://en.wikipedia.org/wiki/Lehnin_Abbey) / [Lehniner Sommermusiken](https://www.klosterkirche-lehnin.de/lehniner-sommermusiken/)  
-*typing on the keyboard, i feel so small* for harpsichord  
+*typing on the keyboard, i feel so small* (2024) for harpsichord  
 Will be performed by Elina Albach  
 
 **June 22, 2025** | Berlin, Germany @ [Radialsystem](https://www.radialsystem.de/) / [SOMEHOW WE CAN – 12 String Quartets](https://www.radialsystem.de/de/veranstaltungen/somehow-we-can-12-streichquartette/?date=1750608000)  
@@ -17,30 +17,30 @@ Will be performed by Elina Albach
 Will be performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
 
 **MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
-*Heidenröslein* for viola quartet and fixed media  
+*Heidenröslein* (2025) for viola quartet and fixed media  
 Will be performed by Nefeli Galani, Marc Kopitzki, Laura Hovestadt,
 Sebastian Steinhilber  
 
 **MAY 12, 2025** | Berlin, Germany @ [Colosseum](https://www.colosseumberlin.com/) / [Condensed Music](https://classicalnext.com/event/condensed-music/)  
-*Super Grape!* for violin  
+*Super Grape!* (2021) for violin  
 Performed by Orest Smovzh  
 
 **MAY 8, 2025** | Copenhagen, Denmark @ [KOBE](https://www.instagram.com/kobe_cph/) / [(at)world](https://www.instagram.com/at___world/) presents: [Yuri Umemoto(JP), Kamil Dossar & Ryong](https://billetfix.dk/da/e/atworld-presents-yuri-umemotojp-kamil-dossar-ryong/?fbclid=PAZXh0bgNhZW0CMTEAAaeC3r9DOlSkOZfET_jf_MP4x5Aehgrwu2XJHRjNj6VtwH8RSiE3dWtQvIuqEA_aem_JOpfBKqFRk7K14aWvnfQVQ)  
 Live performance by Yuri Umemoto  
 
 **APRIL 26, 2025** | Singapore @ [Aliwal Arts Centre](https://artshouselimited.sg/aac-about) / [WA #10!](https://www.eventbrite.com/e/wa-10-tickets-1306732214229)  
-*look at me,sempai* for violin, cello and fixed media  
+*look at me,sempai* (2024) for violin, cello and fixed media  
 Will be performed by [Weird aftertaste](https://www.weirdaftertastemusic.com/)  
 
 **APRIL 1, 2025** | Manchester, UK @ Whiskey Jar Open Mic Night  
-*Moe²Girl* for cello  
+*Moe²Girl* (2022) for cello  
 Performed by Robert Wheatley  
 
 **MARCH 30, 2025** | New York, USA @ Ray Wright Room, Eastman School of Music / [OSSIA New Music](https://www.ossianewmusic.org/our-mission)  
-Yuri Umemoto – *SUPERBACHBOY3*  
+Yuri Umemoto – *SUPERBACHBOY3* (2021)  
 
 **MARCH 29, 2025** | Tokyo, Japan @ Ryogoku Monten Hall / [Yuri Umemoto - Mass](https://www.yuriumemoto.com/0329)  
-Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Confiteor* for piano, *Et in terra pax* for piano, violin and cello ...etc.  
+Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Confiteor* for piano, *Et in terra pax* for piano, violin and cello ...etc. (2025)  
 Performed by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai, Ray Takatsuki  
 
 **MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)  
