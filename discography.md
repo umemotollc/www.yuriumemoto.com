@@ -4,6 +4,13 @@ category: page
 permalink: discography/
 ---
 
+<a href="https://yuriumemoto.bandcamp.com/album/notebook-scan">
+    <img src="https://www.yuriumemoto.com/pics/notebook scan.jpg" alt="edit navigation bar
+Notebook Scan" width="200">
+</a>
+
+<br>
+
 <a href="https://yuriumemoto.bandcamp.com/album/how-to-play-the-accordion-1am-without-upsetting-the-neighbors">
     <img src="https://www.yuriumemoto.com/pics/HOW TO PLAY THE ACCORDION @ 1AM WITHOUT UPSETTING THE NEIGHBORS.PNG" alt="HOW TO PLAY THE ACCORDION @ 1AM WITHOUT UPSETTING THE NEIGHBORS" width="200">
 </a>
