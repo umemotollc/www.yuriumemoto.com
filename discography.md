@@ -4,6 +4,11 @@ category: page
 permalink: discography/
 ---
 
+<a href="https://yuriumemoto.bandcamp.com/album/how-to-play-the-accordion-1am-without-upsetting-the-neighbors">
+    <img src="https://www.yuriumemoto.com/pics/HOW TO PLAY THE ACCORDION @ 1AM WITHOUT UPSETTING THE NEIGHBORS.PNG" alt="HOW TO PLAY THE ACCORDION @ 1AM WITHOUT UPSETTING THE NEIGHBORS" width="200">
+</a>
+
+<br>
 
 <a href="https://yuriumemoto.bandcamp.com/album/youre-surrounded-by-caring-thoughts-warm-wishes">
     <img src="https://www.yuriumemoto.com/pics/ysbctaww_cover.PNG" alt="You're surrounded by caring thoughts & warm wishes" width="200">
