@@ -8,6 +8,13 @@ permalink: events/
 
 <a id="anchor1"></a>
 
+**SEPTEMBER 26, 2025** | London, UK @ [Kings Place](https://www.kingsplace.co.uk/)  
+*look at me,sempai* (2024) for violin, cello and fixed media  
+
+**SEPTEMBER 11, 2025** | Yokohama, Japan @ [Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en)  
+*look at me, senpai* (2024) for violin, cello and fixed media, *Moe²Girl* (2022) for cello and fixed media, *SUPERBACHBOY* (2020) for cello, *Heidenröslein* (2025) for piano and fixed media, *New piece* (2025) for piano and fixed media and *New piece* (2025) for violin, cello and fixed media  
+Will be performed by Ayana Tsuji, Kei Yamazawa, Yusuke Takahashi and Shintaro Imai  
+
 **JULY 26, 2025** | Lehnin, Germany @ [Klosterkirche Lehnin (Lehnin Abbey)](https://en.wikipedia.org/wiki/Lehnin_Abbey) / [Lehniner Sommermusiken](https://www.klosterkirche-lehnin.de/lehniner-sommermusiken/)  
 *typing on the keyboard, i feel so small* (2024) for harpsichord  
 Will be performed by Elina Albach  
