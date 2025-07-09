@@ -16,7 +16,7 @@ permalink: /:year/:month/:day/:title.html
 timezone: Asia/Tokyo
 
 title: Yuri Umemoto
-logo: /pics/me.PNG
+logo: /pics/me.png
 description: 梅本佑利 composer
 copyright: ©︎ Yuri Umemoto / UMEMOTO LLC, All rights reserved.
 show_downloads: false
