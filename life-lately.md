@@ -3,6 +3,7 @@ title: life-lately
 category: page
 permalink: life-lately/
 ---
+★<br>
 <p style="font-family: Georgia, 'Times New Roman', serif;">
   整天瞎逼忙，还TM不挣钱</p>
   <p style="font-family: Georgia, 'Times New Roman', serif;">
