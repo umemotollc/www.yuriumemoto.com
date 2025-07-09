@@ -1,27 +1,27 @@
-
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
-    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-
 <div class="hamburger-menu">
-        <input type="checkbox" id="menu-btn-check">
-        <label for="menu-btn-check" class="menu-btn"><span></span></label>
-        <div class="menu-content">
-        <ul>
-         {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-           <li> <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
-          {%- endfor -%}
-          <li> <a class="site-title" rel="author" href="{{ "/" | relative_url }}"> (home)</a>
-        </ul>
-</div>
-<div class="header-image" role="banner" >
-        <img src="/pics/redeye.png" width="30%" />
-</div>
+  <input type="checkbox" id="menu-btn-check">
+  <label for="menu-btn-check" class="menu-btn"><span></span></label>
+  <div class="menu-content">
+    <ul>
+      {%- for path in page_paths -%}
+        {%- assign my_page = site.pages | where: "path", path | first -%}
+        {%- if my_page.title -%}
+          <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+        {%- endif -%}
+      {%- endfor -%}
+      <li><a class="site-title" rel="author" href="{{ "/" | relative_url }}">(home)</a></li>
+    </ul>
+  </div>
+
+  <!-- ✅ 修正されたロゴ表示 -->
+  <div class="header-image" role="banner">
+    {% if site.logo %}
+      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" width="30%" />
+    {% endif %}
+  </div>
 </div>
 
-<div role="banner" >
- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }} </a>
+<!-- サイトタイトル -->
+<div role="banner">
+  <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 </div>
