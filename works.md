@@ -98,9 +98,6 @@ versions for piano, violin, cello, or violin-cello
 **[Plastic Vagina](https://youtu.be/OU8-vKPXb9s?si=Hib1aM1LSv7AmeDw)**  
 for violin (2022)
 
-**[Super Grape!](https://youtu.be/IW2I5nBcsVc?si=Ly12hyPXFLGu-CuL)**  
-for violin (2021)
-
 **[050-5445-5449](https://youtu.be/Bgx_4b-mOcc?si=vIAsrFmexLqUNXXJ)**  
 Lion Exterminator Saint-Saëns  
 for MOH (music on hold) (2022)
@@ -124,9 +121,6 @@ for violin (2021)
 
 **[SUPERBACHBOY](https://youtu.be/OdEGftdC2jE?si=_CZ0JMYJbBmp-BZN)**  
 for cello (2020)
-
-**[Oo./x](https://youtu.be/5AJ7vb5HwXE?si=ck06eIizM58w7mYg)**  
-for orchestra (2020)
 
 **[Piko-ko!](https://youtu.be/sqk6g-kBe1E?si=SJJzoVJmd34b-1-8)**  
 for piano (2020)
