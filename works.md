@@ -137,7 +137,7 @@ for string quartet (2020)
 
 **2024**: Produced the soundtrack for an [installation](https://vimeo.com/1031181683?share=copy) by [Chayarat Ritaram](https://www.lefresnoy.net/en/ecole/etudiant/607/) @ [Le Fresnoy](https://www.lefresnoy.net/en/), National Studio for Contemporary Arts in France.  
 
-**2024**: Composed music for the [QUQU](https://ququ.tokyo/) hair show.  
+**2024, 2025**: Composed music for the [QUQU](https://ququ.tokyo/) hair show.  
 
 **2024**: Collaborated with [Astrophysics](https://www.youtube.com/channel/UCWSC_-y9QsDmACXRY3rvtsQ) on the track [“Permanence”](https://youtu.be/Y1hTFcH8wwg?si=L2paonDp0qdLIrpy) (feat. The Mall & Yuri Umemoto) from the album The [Unending Need for Perpetual Motion](https://youtu.be/xzPwmzUlXx0?si=xfRrZy3B_iARggq-).  
 
