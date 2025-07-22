@@ -198,6 +198,9 @@ Performed by Norio Sato
 
 **media**  
 
+**JULY 22, 2025** | Germany @ [rbb, Radio 3](https://www.radiodrei.de/)  
+[Concert Introduction by Elina Albach](https://www.radiodrei.de/programm/schema/sendungen/klassik_bis_zwei/archiv/20250722_1000/gast_1210.html)  
+
 **JUNE 15, 2025** | UK @ [RTM.FM](https://rtm.fm/)  
 *be quiet* was mixed on [seek refuge](https://rtm.fm/listen/seek-refuge/) by Robbie Guthrie  
 
