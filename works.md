@@ -9,6 +9,11 @@ permalink: works/
 
 **works**  
 
+<br>
+<p style="font-family: Georgia, 'Times New Roman', serif; font-style: italic;">
+  i like music and poop. i can poop in one min, and i can make a music in one day. but i can't poop ten times a day, so i can't make ten pieces in one month.
+</p>
+
 <a id="anchor1"></a>  
 **[goodbye](https://youtu.be/aX8Uu85CPoI?si=ryjQz5JCEvqMsQCC)**  
 for shō and fixed media (2025)
