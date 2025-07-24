@@ -10,3 +10,8 @@ permalink: life-lately/
   Whole day I'm fucking busy<br>only get few money</p>
 
 <img src="https://www.yuriumemoto.com/pics/i can't.jpg" alt="portrait" width="200">  
+
+<br>
+<br>
+<br>
+<img src="https://www.yuriumemoto.com/pics/iamgerman.jpeg" alt="portrait" width="200">  
