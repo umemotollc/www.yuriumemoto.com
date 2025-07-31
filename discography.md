@@ -3,10 +3,14 @@ title: discography
 category: page
 permalink: discography/
 ---
+<a href="https://yuriumemoto.bandcamp.com/track/waaaaa">
+    <img src="https://www.yuriumemoto.com/pics/waaaaa.jpeg" alt="waaaaa" width="200">
+</a>
+
+<br>
 
 <a href="https://yuriumemoto.bandcamp.com/album/notebook-scan">
-    <img src="https://www.yuriumemoto.com/pics/notebook scan.jpg" alt="edit navigation bar
-Notebook Scan" width="200">
+    <img src="https://www.yuriumemoto.com/pics/notebook scan.jpg" alt="Notebook Scan" width="200">
 </a>
 
 <br>
