@@ -8,7 +8,7 @@ permalink: events/
 
 <a id="anchor1"></a>
 
-**SEPTEMBER 26, 2025** | London, UK @ [Kings Place](https://www.kingsplace.co.uk/)  
+**SEPTEMBER 26, 2025** | London, UK @ [Kings Place](https://www.kingsplace.co.uk/) / [Ben Goldscheider x Brother Tree Sound x Ben Nobuto](https://www.kingsplace.co.uk/whats-on/classical/ben-goldscheider-x-brother-tree-sound-x-ben-nobuto/)  
 *look at me,sempai* (2024) for violin, cello and fixed media  
 
 **SEPTEMBER 11, 2025** | Yokohama, Japan @ [Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en)  
@@ -17,7 +17,7 @@ Will be performed by Ayana Tsuji, Kei Yamazawa, Yusuke Takahashi and Shintaro Im
 
 **JULY 26, 2025** | Lehnin, Germany @ [Klosterkirche Lehnin (Lehnin Abbey)](https://en.wikipedia.org/wiki/Lehnin_Abbey) / [Lehniner Sommermusiken](https://www.klosterkirche-lehnin.de/lehniner-sommermusiken/)  
 *typing on the keyboard, i feel so small* (2024) for harpsichord  
-Will be performed by Elina Albach  
+Performed by Elina Albach  
 
 **JUNE 22, 2025** | Berlin, Germany @ [Radialsystem](https://www.radialsystem.de/) / [SOMEHOW WE CAN – 12 String Quartets](https://www.radialsystem.de/de/veranstaltungen/somehow-we-can-12-streichquartette/?date=1750608000)  
 *Fluffy Pink!* (2020) for string quartet  
