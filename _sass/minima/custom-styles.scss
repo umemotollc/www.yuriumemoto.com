@@ -147,41 +147,43 @@ a:hover { color: #FF0000; text-decoration: none; }
 }
 
 .menu-btn {
-  position: absolute;
-  top: 20px;
-  left: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 90;
-  background-color: transparent;
+  position: absolute !important;
+  top: 20px !important;
+  left: 10px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  z-index: 90 !important;
+  background-color: transparent !important;
   background-image: url("/assets/images/menu-icon.png") !important;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  cursor: pointer;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  cursor: pointer !important;
 
-  width: 120px;  /* 画像の2倍サイズに合わせて調整 */
-  height: 120px; /* 幅に合わせて正方形に */
+  width: 120px !important;  /* スマホ向け：元の2倍 */
+  height: 120px !important; /* 正方形に */
 }
 
-/* PC用も同様に2倍に */
+/* PC用（幅600px以上）も同様に2倍 */
 @media screen and (min-width: 600px) {
   .menu-btn {
-    width: 160px;
-    height: 160px;
+    width: 160px !important;
+    height: 160px !important;
   }
 }
 
+/* 三本線のspanを非表示に */
 .menu-btn span,
 .menu-btn span:before,
 .menu-btn span:after {
-  display: none; /* 三本線を非表示にする */
+  display: none !important;
 }
-/* hide menu */
-#menu-btn-check{
-  //display: none;
-	appearance: none;
+
+/* メニューのチェックボックスは表示しない */
+#menu-btn-check {
+  appearance: none !important;
+  display: none !important;
 }
 
 .menu-content{
