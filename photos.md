@@ -3,6 +3,7 @@ layout: page
 title: photos
 permalink: /photos/
 ---
+[July 2025](https://photos.app.goo.gl/uCH7WyEEMusCYUFx7)  
 [May 2025](https://photos.app.goo.gl/vu3CJ345g7nugx6Q8)  
 [April 2025](https://photos.app.goo.gl/W15CwpwiXwf5hdyWA)  
 [May 2024](https://photos.app.goo.gl/xeukSEsBGkThSxnG8)  
