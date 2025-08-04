@@ -147,12 +147,10 @@ a:hover { color: #FF0000; text-decoration: none; }
 }
 
 .menu-btn {
-  position: absolute; /* ←これ追加 */
+  position: absolute;
   top: 20px;
   left: 10px;
   display: flex;
-  height: 60px;
-  width: 120px;
   justify-content: center;
   align-items: center;
   z-index: 90;
@@ -162,6 +160,17 @@ a:hover { color: #FF0000; text-decoration: none; }
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
+
+  width: 120px;  /* 画像の2倍サイズに合わせて調整 */
+  height: 120px; /* 幅に合わせて正方形に */
+}
+
+/* PC用も同様に2倍に */
+@media screen and (min-width: 600px) {
+  .menu-btn {
+    width: 160px;
+    height: 160px;
+  }
 }
 
 .menu-btn span,
