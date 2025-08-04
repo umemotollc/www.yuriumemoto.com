@@ -64,13 +64,6 @@ videogram (2023)
 **[Song of the Data Angel](https://youtu.be/0X3MOmN9_KU?si=7nCDoemMPlukoyiR)**  
 videogram (2023)
 
-**[Dempa-chan never dies♡](https://youtu.be/ZrJN5PtNvOM?si=5dMxIxrQM4LwySWW)**  
-for any instrument(s) (2023)  
-versions for viola or piano
-
-**[Endless Haruhi Scale](https://youtu.be/rWIiDX-99DI?si=MXQzZaMChfIX5YRH)**  
-videogram (2023)
-
 **[but...you're a minor, right?](https://youtu.be/0-B_Yw17b0k?si=_nPHYjKICoqUD4cd)**  
 for piano and fixed media (2023)
 
@@ -103,9 +96,6 @@ versions for piano, violin, cello, or violin-cello
 for any instrument(s) and fixed media (2022)  
 versions for piano, violin, cello, or violin-cello
 
-**[Plastic Vagina](https://youtu.be/OU8-vKPXb9s?si=Hib1aM1LSv7AmeDw)**  
-for violin (2022)
-
 **[050-5445-5449](https://youtu.be/Bgx_4b-mOcc?si=vIAsrFmexLqUNXXJ)**  
 Lion Exterminator Saint-Saëns  
 for MOH (music on hold) (2022)
@@ -124,14 +114,8 @@ for violin (2021)
 **[SUPERBACHBOY 3](https://youtu.be/EKFb66A6bdM?si=bXH3B90oU8qeHeKL)**  
 for cello and electronics (2021)
 
-**SUPERBACHBOY 2**  
-for violin (2021)
-
 **[SUPERBACHBOY](https://youtu.be/OdEGftdC2jE?si=_CZ0JMYJbBmp-BZN)**  
 for cello (2020)
-
-**[Piko-ko!](https://youtu.be/sqk6g-kBe1E?si=SJJzoVJmd34b-1-8)**  
-for piano (2020)
 
 **[Fluffy Pink!](https://youtu.be/jGv8AuLA9dc?si=SvrrmsiMaM1FT-F9)**  
 for string quartet (2020)
