@@ -9,7 +9,9 @@ permalink: events/
 <a id="anchor1"></a>
 
 **SEPTEMBER 26, 2025** | London, UK @ [Kings Place](https://www.kingsplace.co.uk/) / [Ben Goldscheider x Brother Tree Sound x Ben Nobuto](https://www.kingsplace.co.uk/whats-on/classical/ben-goldscheider-x-brother-tree-sound-x-ben-nobuto/)  
-*look at me,sempai* (2024) for violin, cello and fixed media  
+*look at me, senpai* (2024) for violin, cello and fixed media  
+Will be performed by Anna de Bruin, Clare O’Connell
+
 
 **SEPTEMBER 11, 2025** | Yokohama, Japan @ [Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en)  
 *look at me, senpai* (2024) for violin, cello and fixed media, *Moe²Girl* (2022) for cello and fixed media, *SUPERBACHBOY* (2020) for cello, *Heidenröslein* (2025) for piano and fixed media, *aaaaa* (2025) for piano and fixed media and *my girl friend is not like me* (2025) for violin, cello and fixed media  
