@@ -37,7 +37,7 @@ Performed by Orest Smovzh
 Performed by Yuri Umemoto  
 
 **APRIL 26, 2025** | Singapore @ [Aliwal Arts Centre](https://artshouselimited.sg/aac-about) / [WA #10!](https://www.eventbrite.com/e/wa-10-tickets-1306732214229)  
-*look at me,sempai* (2024) for violin, cello and fixed media  
+*look at me, senpai* (2024) for violin, cello and fixed media  
 Performed by [Weird aftertaste](https://www.weirdaftertastemusic.com/)  
 
 **APRIL 1, 2025** | Manchester, UK @ Whiskey Jar Open Mic Night  
