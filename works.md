@@ -6,14 +6,9 @@ permalink: works/
 
 <small>[[works](#anchor1)]</small>  
 <small>[[collaborations](#anchor2)]</small>  
+<small>[[disclaimer](#anchor3)]</small>  
 
 **works**  
-
-<br>
-<p style="font-family: Georgia, 'Times New Roman', serif; font-style: italic;">
-  i like music and poop. i can poop in one min, and i can make a music in one day. but i can't poop ten times a day, so i can't make ten pieces in one month.
-</p>
-
 <a id="anchor1"></a>  
 **[waaaaa](https://youtu.be/ijS8H6_3Odg)**  
 for violin, cello and fixed media (2025)
@@ -96,18 +91,6 @@ versions for piano, violin, cello, or violin-cello
 for any instrument(s) and fixed media (2022)  
 versions for piano, violin, cello, or violin-cello
 
-**[050-5445-5449](https://youtu.be/Bgx_4b-mOcc?si=vIAsrFmexLqUNXXJ)**  
-Lion Exterminator Saint-Saëns  
-for MOH (music on hold) (2022)
-
-**[050-5445-5448](https://youtu.be/qLdIAqjkgio?si=3edR01MYhC1c_C9F)**  
-Plumber Franz Liszt  
-for MOH (music on hold) (2022)
-
-**[050-5857-9289](https://youtu.be/xHKkg3CDJ0c?si=TjpcRTg_HCod8O9K)**  
-Locksmith Josef Strauss  
-for IVR (interactive voice response) (2022)
-
 **[MOMOMOMOMOEMOE♡](https://youtu.be/KMLexWsqGdM?si=WI_QyOEnwGd75L56)**  
 for violin (2021)
 
@@ -138,3 +121,14 @@ for string quartet (2020)
 **2023**: Arranged music by [Ryuichi Sakamoto](https://www.sitesakamoto.com/biography) for a TV Asahi program.  
 
 **2022**: Collaborated with [Lee Kan Kyo](https://leekankyo.com/) to create a [painting series](https://www.fashionsnap.com/article/leekankyo-interview/#lg=1&slide=11).  
+
+<br>  
+<a id="anchor3"></a>  
+
+**disclaimer**  
+
+On all my social media accounts and websites, I only post what I currently recognize as valuable. The same applies to the works or lists of works currently uploaded to my accounts. My thoughts change from day to day, but I have no intention of concealing or erasing history. In the databases of copyright management organizations, records exist for almost all of my works. Regardless of whether they were uploaded legally or illegally, information and records are uploaded to someone’s account somewhere. Those records also exist on someone’s account, and I respect them as historical facts (though I do not condone copyright infringement). The same applies to records of artists I have collaborated with.  
+
+There are not a few people who, after I became involved with them, committed moral transgressions—for example, those who became sex offenders, those who dishonestly took advantage of me when I was a minor, or those who lied or betrayed me. That is their responsibility alone, and I am no longer involved with them, nor will I write their names here.  
+
+There are also memories with people who bear absolutely no fault. However, due to changes in my identity and values, I may, on my own judgment, make those memories private. I will no longer promote their names or include them in my profile, but this too is part of my historical record, and I have no intention of erasing or concealing it. As of now, I may look back on those memories as beautiful, or I may see them as something cringe-worthy, but I will not describe them here.  
