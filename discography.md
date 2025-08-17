@@ -3,6 +3,12 @@ title: discography
 category: page
 permalink: discography/
 ---
+<a href="https://yuriumemoto.bandcamp.com/track/yada-yada-yada">
+    <img src="https://www.yuriumemoto.com/pics/yadayadayada.jpeg" alt="yada yada yada" width="200">
+</a>
+
+<br>
+
 <a href="https://yuriumemoto.bandcamp.com/track/waaaaa">
     <img src="https://www.yuriumemoto.com/pics/waaaaa.jpeg" alt="waaaaa" width="200">
 </a>
