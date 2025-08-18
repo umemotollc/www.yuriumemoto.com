@@ -10,7 +10,7 @@ permalink: works/
 
 **works**  
 <a id="anchor1"></a>  
-**[yada yada yada](https://youtu.be/-zRtk7Wit7w?si=LMjy1l9f3U427NnI)**  
+**yada yada yada**  
 for guitar and fixed media (2025)
 
 **[waaaaa](https://youtu.be/ijS8H6_3Odg)**  
