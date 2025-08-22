@@ -19,6 +19,9 @@ for violin, cello and fixed media (2025)
 **[goodbye](https://youtu.be/aX8Uu85CPoI?si=ryjQz5JCEvqMsQCC)**  
 for shō and fixed media (2025)
 
+**[i like music and poop. i can poop in one min, and i can make a music in one day. but i can't poop ten times a day, so i can't make ten pieces in one month.](https://yuriumemoto.bandcamp.com/track/i-like-music-and-poop-i-can-poop-in-one-min-and-i-can-make-a-music-in-one-day-but-i-cant-poop-ten-times-a-day-so-i-cant-make-ten-pieces-in-one-month)**  
+(2025)
+
 **[Qui sedes](https://youtu.be/peJE0L2dwjY)**  
 for violin, cello, piano and fixed media (2025)
 
