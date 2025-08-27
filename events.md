@@ -12,10 +12,13 @@ permalink: events/
 *look at me, senpai* (2024) for violin, cello and fixed media  
 Will be performed by Anna de Bruin, Clare O’Connell
 
-
 **SEPTEMBER 11, 2025** | Yokohama, Japan @ [Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en)  
 *look at me, senpai* (2024) for violin, cello and fixed media, *Moe²Girl* (2022) for cello and fixed media, *SUPERBACHBOY* (2020) for cello, *Heidenröslein* (2025) for piano and fixed media, *aaaaa* (2025) for piano and fixed media and *my girl friend is not like me* (2025) for violin, cello and fixed media  
 Will be performed by Ayana Tsuji, Kei Yamazawa, Yusuke Takahashi and Shintaro Imai  
+
+**AUGUST 27, 2025** | Riga, Latvia @ [TUR TELPA](https://turtelpa.lv/)  
+*Mass* (2025) for piano and fixed media  
+Performed by Robert Fleitz  
 
 **JULY 26, 2025** | Lehnin, Germany @ [Klosterkirche Lehnin (Lehnin Abbey)](https://en.wikipedia.org/wiki/Lehnin_Abbey) / [Lehniner Sommermusiken](https://www.klosterkirche-lehnin.de/lehniner-sommermusiken/)  
 *typing on the keyboard, i feel so small* (2024) for harpsichord  
@@ -24,6 +27,10 @@ Performed by Elina Albach
 **JUNE 22, 2025** | Berlin, Germany @ [Radialsystem](https://www.radialsystem.de/) / [SOMEHOW WE CAN – 12 String Quartets](https://www.radialsystem.de/de/veranstaltungen/somehow-we-can-12-streichquartette/?date=1750608000)  
 *Fluffy Pink!* (2020) for string quartet  
 Performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
+
+**JUNE 21, 2025** | Haugesund, Norway @ [Haugesund billedgalleri](https://haugalandmuseet.no/museum/haugesund-billedgalleri/) / [PODIUM - Fartein Valen internasjonale musikkfest](https://www.podiumfestivalen.no/)  
+Mass: *Qui sedes* and *Confiteor* (2020) for piano and fixed media  
+Performed by Sanae Yoshida  
 
 **MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
 *Heidenröslein* (2025) for viola quartet and fixed media  
