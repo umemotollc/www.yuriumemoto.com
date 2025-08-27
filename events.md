@@ -29,7 +29,7 @@ Performed by Elina Albach
 Performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
 
 **JUNE 21, 2025** | Haugesund, Norway @ [Haugesund billedgalleri](https://haugalandmuseet.no/museum/haugesund-billedgalleri/) / [PODIUM - Fartein Valen internasjonale musikkfest](https://www.podiumfestivalen.no/)  
-Mass: *Qui sedes* and *Confiteor* (2020) for piano and fixed media  
+Mass: *Qui sedes* (2025) and *Confiteor* (2024) for piano and fixed media  
 Performed by Sanae Yoshida  
 
 **MAY 16, 2025** | Esslingen, Germany @ KOMMA / [PODIUM Esslingen Festival - CRINGE AF #2: NEUJAHRSKONZERT FROM HELL](https://www.podium-esslingen.de/event/cringe-af-2-neujahrskonzert3enf3p/)  
