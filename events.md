@@ -16,7 +16,7 @@ Will be performed by Anna de Bruin, Clare O’Connell
 *look at me, senpai* (2024) for violin, cello and fixed media, *Moe²Girl* (2022) for cello and fixed media, *SUPERBACHBOY* (2020) for cello, *Heidenröslein* (2025) for piano and fixed media, *aaaaa* (2025) for piano and fixed media and *my girl friend is not like me* (2025) for violin, cello and fixed media  
 Will be performed by Ayana Tsuji, Kei Yamazawa, Yusuke Takahashi and Shintaro Imai  
 
-**AUGUST 27, 2025** | Riga, Latvia @ [TUR TELPA](https://turtelpa.lv/)  
+**AUGUST 27, 2025** | Riga, Latvia @ [TUR TELPA](https://turtelpa.lv/) / [Robert Fleitz’s concert](https://www.baltictimes.com/robert_fleitz_s_concert/)  
 *Mass* (2025) for piano and fixed media  
 Performed by Robert Fleitz  
 
