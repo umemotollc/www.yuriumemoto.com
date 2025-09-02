@@ -19,4 +19,4 @@ permalink: concerts/
 <img src="https://www.yuriumemoto.com/pics/20250831.jpg" alt="portrait" width="200">  
 
 <small>Saturday.</small>  
-<small>Audience: David Ossorio and ---.</small>  
+<small>Audience: David Ossorio and Alberto Ossorio.</small>  
