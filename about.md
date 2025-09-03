@@ -7,8 +7,10 @@ permalink: /about/
 
 <small>[[portraits by Sophia Hegewald](https://sophia-hegewald.de/yuri-umemoto-komponist)]</small>  
 
-Born in Tokyo in 2002, composer Yuri Umemoto stands where Western traditional notation and contemporary digital technology cross over. It is for him to explore a maximalistic aesthetic inspired by Japanese anime and Internet culture. Composed for acoustic instruments such as strings, winds and piano as well as ensembles in various sizes and orchestra, his works have been performed by soloists and groups from Japan and abroad.  
-His compositions have been featured at prestigious festivals including the Thuringia Bach Weeks, Musica nova Helsinki, PODIUM Esslingen, zamus: early music festival, Köthen Bach Festival, Spring Festival in Tokyo and the “Born Creative” Festival.  
+Born in Tokyo in 2002, composer Yuri Umemoto stands where Western traditional notation and contemporary digital technology cross over. It is for him to explore a maximalistic aesthetic inspired by Japanese anime and Internet culture. 
+His compositions have been featured at prestigious festivals including the Thuringia Bach Weeks, Musica nova Helsinki, PODIUM Esslingen.  
+
+Upcoming project is the new opera [*crypt_*](https://www.muenchener-biennale.de/en/programm/kalender/crypt), commissioned by the Münchener Biennale. The work is a co-production with the Münchener Biennale, Ultima Oslo Contemporary Music Festival, Oslo Sinfonietta, Black Box teater Oslo, and KLANG Festival Kopenhagen.
 
 <small>[[life lately](/life-lately/)]</small>  
 
