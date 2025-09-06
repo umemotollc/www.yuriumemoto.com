@@ -7,7 +7,7 @@ permalink: /about/
 
 <small>[[portraits by Sophia Hegewald](https://sophia-hegewald.de/yuri-umemoto-komponist)]</small>  
 
-Composer. Born in Tokyo in 2002. In his works, personal expression is dubbed through character voices.
+Composer. Born in Tokyo in 2002.
 
 <small>[[Past events, collaborations, and broadcasts](/events/)]</small>  
 
