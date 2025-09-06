@@ -7,7 +7,7 @@ permalink: /about/
 
 <small>[[portraits by Sophia Hegewald](https://sophia-hegewald.de/yuri-umemoto-komponist)]</small>  
 
-Composer. Born in Tokyo in 2002. He works across tradition and contemporary technology through music and visual expression. In his works, personal expression is dubbed through character voices. His pieces have recently been performed at PODIUM Esslingen, Thüringer Bachwochen, and Musica nova Helsinki, and broadcast on BBC Radio 3, NHK FM, and NTS Radio.
+Composer. Born in Tokyo in 2002. He works across tradition and contemporary technology through music and visual expression. In his works, personal expression is dubbed through character voices. His pieces have recently been performed at PODIUM Esslingen, Thüringer Bachwochen, and Musica nova Helsinki.
 
 <small>[[Past events, collaborations, and broadcasts](/events/)]</small>  
 
