@@ -331,29 +331,84 @@ border: 0px solid #e8e8e8; }
   transform-origin: center top;
 }
 
-/* ロゴ画像を強制的に非表示 */
+/* ============================
+   強制的にロゴ／アイコンを消す（幅広くカバー）
+   貼る場所: custom-styles.scss の末尾
+   ============================ */
+
+/* 画像要素を消す（ヘッダ内） */
+.site-header img,
 .site-title img,
-.site-logo,
-header .site-title img {
+header img,
+.header-logo img,
+.logo img,
+.brand img,
+.site-logo img,
+.header .logo,
+.header .brand,
+a.site-title > img {
   display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
 }
 
-/* ハンバーガーメニューを強制的に非表示 */
-.site-nav,
-.site-nav .menu-icon,
-.site-header .menu-icon,
-.site-header .nav-trigger {
+/* SVG やアイコンフォントを消す */
+.site-header svg,
+.site-title svg,
+.logo svg,
+.header svg,
+.menu-icon svg,
+.hamburger,
+.burger,
+.icon-hamburger,
+.icon-menu,
+.menu-toggle,
+button.menu-toggle,
+button.nav-toggle,
+.nav-toggle,
+.nav-trigger,
+.menu-btn {
   display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
 }
 
-/* -------------------------------
-   サイトタイトルを本文と同じスタイルにする
-   - 本文と「同じ」になるように inherit を使う（body の font-family, font-size を継承）
-   - 不要な transform や余白を解除
-   ------------------------------- */
+/* 背景画像でロゴを表示している場合に備える */
+.site-header,
 .site-title,
-.site-title:visited {
-  /* 本文と同じにする */
+.header,
+.header .branding,
+.site-branding,
+.logo,
+.header-logo,
+a.site-title {
+  background-image: none !important;
+  background: transparent !important;
+}
+
+/* 疑わしい疑似要素（:before/:after） */
+.site-title::before,
+.site-title::after,
+.header::before,
+.header::after,
+.site-header::before,
+.site-header::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* もし .site-nav を丸ごと消すなら（ハンバーガー含む） */
+// .site-nav { display: none !important; }
+
+/* タイトルの見た目を本文と同じに揃える（transform 等をリセット） */
+.site-title,
+.site-title a,
+.site-header h1,
+.site-header h1 a {
   font-family: inherit !important;
   font-size: inherit !important;
   font-weight: inherit !important;
@@ -361,24 +416,14 @@ header .site-title img {
   color: inherit !important;
   text-decoration: none !important;
 
-  /* 見た目の差分を消す */
   transform: none !important;
-  transform-origin: none !important;
+  transform-origin: initial !important;
   letter-spacing: normal !important;
   display: inline !important;
   margin: 0 !important;
   padding: 0 !important;
   border: 0 !important;
-  text-align: left !important; /* 必要なら right に戻してください */
-}
-
-/* 小さい画面の余白調整（必要なら） */
-@media screen and (max-width: 600px) {
-  .site-title { padding-right: 0 !important; }
-}
-
-/* もしタイトルが h1 や a 要素で大きな余白を持っている場合はより強くリセット */
-.site-header h1, .site-header .site-title {
-  margin: 0 !important;
-  padding: 0 !important;
+  background: transparent !important;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
