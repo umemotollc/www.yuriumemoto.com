@@ -29,6 +29,17 @@ a:hover, a:focus, a:active {
 .social-media-list a:hover .username,
 .pagination a:hover .username { text-decoration: none; }
 
+a, button {
+  -webkit-tap-highlight-color: transparent; /* タップ/クリックハイライトを無効化 */
+  -webkit-touch-callout: none;              /* iOS長押し無効化ですが無害 */
+}
+
+a:visited,
+a:active {
+  color: #000000;                            /* 色を固定 */
+  text-decoration-color: #000000;
+}
+
 /* 選択時の文字色 */
 ::selection { color: #FF0000; background: #FFFFFF; }
 ::-moz-selection { color: #FF0000; background: #FFFFFF; }
