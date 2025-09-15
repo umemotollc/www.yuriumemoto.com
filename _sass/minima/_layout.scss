@@ -153,6 +153,16 @@
   flex: 1 0 auto;
 }
 
+/* ============================
+   本文見出しの文字間詰め
+   ============================ */
+.post-title,
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  letter-spacing: -1px;   /* 文字間を詰める */
+}
+
 .page-heading {
   @include relative-font-size(2);
 }
