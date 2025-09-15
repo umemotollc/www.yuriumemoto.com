@@ -1,234 +1,196 @@
-// Placeholder to allow defining custom styles that override everything else.
-// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
-
-/** 
-	CCS below is customized for Yuri UMEMOTO.  
-	(c)2024 Hijiri UMEMOTO, UMEMOTO LLC
-**/
-
-/**  Override **/
+/* ============================
+   Base Styles
+   ============================ */
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   color: #000000;
   line-height: 1.5;
   margin: 0;
-  padding: 2rem; /* ← ここでサイト全体に余白ができる */
+  padding: 2rem; /* サイト全体の余白 */
 }
 
-/** Links */
 a {
-	 color: #000000; 
-	text-decoration: none; 
-	//border-bottom:1px dotted #000000;
-	border-bottom:1px solid #000000;
+  color: #000000;
+  text-decoration: none;
+  border-bottom: 1px solid #000000;
 }
 a:visited { color: #000000; }
-a:hover { color: #FF0000; text-decoration: none; }
+a:hover { color: #FF0000; }
+
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
 .social-media-list a:hover .username,
 .pagination a:hover .username { text-decoration: none; }
-/* 選択時の文字色と背景色 */
-::selection {
-  color: #FF0000; /* 選択時の文字色（x色） */
-  background: #FFFFFF; /* 選択時の背景色（x色） */
+
+/* 選択時の文字色 */
+::selection { color: #FF0000; background: #FFFFFF; }
+::-moz-selection { color: #FF0000; background: #FFFFFF; }
+
+/* ============================
+   Site Header
+   ============================ */
+.site-header {
+  border-top: 5px solid #c0c0c0;
+  border-bottom: 1px solid #c0c0c0;
+  min-height: 55.95px;
+  line-height: 54px;
+  position: relative;
+  background: transparent;
 }
 
-::-moz-selection {
-  color: #FF0000; /* Mozilla 用 */
-  background: #FFFFFF;
+.site-title,
+.site-title a {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: inherit;
+  color: #000000;
+  text-decoration: none !important;
+  letter-spacing: 0;
+  transform: scaleY(1.9);
+  display: inline-block;
+  transform-origin: center;
+  margin: 0;
+  padding: 0;
+  float: none;
 }
 
-
-/** Site header */
-.site-header { border-top: 5px solid #c0c0c0; border-bottom: 1px solid #c0c0c0; min-height: 55.95px; line-height: 54px; position: relative; }
-
-.site-title {
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: 1rem;
-	margin-bottom: 0;
-	font-weight: normal;
-	text-decoration: none!important;	
-	border-bottom: 0px;
-	text-align: right;
-	letter-spacing: 0; /* ← セミコロン追加！ */
-	transform: scaleY(1.9);
-	display: inline-block;
-	transform-origin: center;
+@media screen and (max-width: 600px) {
+  .site-title { padding-right: 45px; }
 }
 
-@media screen and (max-width: 600px) { .site-title { padding-right: 45px; } }
-.site-title, .site-title:visited { color: #000000; }
+/* ============================
+   Site Navigation (整理)
+   ============================ */
+/* ハンバーガーアイコン関連はまとめて非表示 */
+.site-nav,
+.site-nav .menu-icon,
+.site-nav label[for="nav-trigger"],
+.site-nav .nav-trigger,
+.site-nav input ~ .trigger,
+.menu-btn,
+.hamburger,
+.icon-menu,
+.nav-toggle,
+button.nav-toggle {
+  display: none !important;
+}
 
-.site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; }
-.site-nav .nav-trigger { display: none; }
-.site-nav .menu-icon { float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; }
-.site-nav .menu-icon > svg path { fill: #000000; }
-.site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; }
-.site-nav input ~ .trigger { clear: both; display: none; }
-.site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }
+/* ページリンクは残す（表示する場合） */
 .site-nav .page-link {
-	color: #000000;
-	line-height: 1.25;
-	display: block;
-	padding: 5px 10px;
-	margin-left: 20px;
-	text-decoration: none;
+  color: #000000;
+  line-height: 1.25;
+  display: block;
+  padding: 5px 10px;
+  margin-left: 20px;
+  text-decoration: none;
 }
 .site-nav .page-link:not(:last-child) { margin-right: 0; }
-@media screen and (min-width: 600px) { .site-nav { position: static; float: right; border: none; background-color: inherit; }
-  .site-nav label[for="nav-trigger"] { display: none; }
-  .site-nav .menu-icon { display: none; }
-  .site-nav input ~ .trigger { display: block; }
+
+@media screen and (min-width: 600px) {
+  .site-nav {
+    position: static;
+    float: right;
+    border: none;
+    background-color: inherit;
+  }
   .site-nav .page-link { display: inline; padding: 0; margin-left: auto; }
-  .site-nav .page-link:not(:last-child) { margin-right: 20px; } }
+  .site-nav .page-link:not(:last-child) { margin-right: 20px; }
+}
 
-/** Site footer */
-
+/* ============================
+   Site Footer
+   ============================ */
 .site-footer {
   border-top: 0px solid #e8e8e8;
   padding: 30px 0;
-  margin-top: 2rem; /* ← 上に少し余白を追加して押し下げる */
+  margin-top: 2rem;
 }
 
-/* フッター内で "Last Modified" 以外を非表示にする */
-.site-footer .wrapper > *:not(small) {
-    display: none; /* "Last Modified" のみを表示 */
-}
+/* Last Modified 以外を非表示 */
+.site-footer .wrapper > *:not(small) { display: none; }
+.last-modified { font-size: 0.5rem !important; }
 
-.footer-heading { font-size: 1.125rem; margin-bottom: 15px; }
-
-.last-modified {
-  font-size: 0.5rem !important; /* 文字サイズを小さくする */
-}
-
-/** Icons */
+/* ============================
+   Icons
+   ============================ */
 .orange { color: #f66a0a; }
 .grey { color: #828282; }
 .blue { color: #1111FF; }
 
-.svg-icon { width: 1.25em; height: 1.25em; display: inline-block; fill: blue; vertical-align: text-bottom; }
-
-
-.feed-subscribe .svg-icon {
-	padding: 5px 5px 2px 0;
-	display: none;
-//	visibility: hidden;
+.svg-icon {
+  width: 1.25em;
+  height: 1.25em;
+  display: inline-block;
+  fill: blue;
+  vertical-align: text-bottom;
 }
 
-.contact-list, .social-media-list, .pagination { list-style: none; margin-left: 0; }
+/* feed-subscribe は非表示 */
+.feed-subscribe .svg-icon { display: none; }
 
-.footer-col-wrapper, .social-links {
-	font-size: 0.7rem;
-	color: #000000;
-}
-
-.footer-col { margin-bottom: 15px; }
-
-.footer-col-1, .footer-col-2 { width: calc(50% - (30px / 2)); }
-
-.footer-col-3 { width: calc(100% - (30px / 2)); }
-
-@media screen and (min-width: 800px) { .footer-col-1 { width: calc(35% - (30px / 2)); }
-  .footer-col-2 { width: calc(20% - (30px / 2)); }
-  .footer-col-3 { width: calc(45% - (30px / 2)); } }
-@media screen and (min-width: 600px) { .footer-col-wrapper { display: flex; }
-  .footer-col { width: calc(100% - (30px / 2)); padding: 0 15px; }
-  .footer-col:first-child { padding-right: 15px; padding-left: 0; }
-  .footer-col:last-child { padding-right: 0; padding-left: 15px; } }
-
-/** Page content */
+/* ============================
+   Page Content
+   ============================ */
 .page-content {
   padding: 30px 0;
   flex: 1 0 auto;
-  min-height: 80vh; /* ← 高さを確保！画面の80%分の高さ */
+  min-height: 80vh;
 }
+
 .page-heading { font-size: 1.125rem; }
-.post-list-heading { font-size: 1.00rem; }
+.post-list-heading { font-size: 1rem; }
+
 .post-list { margin-left: 0; list-style: none; }
 .post-list > li { margin-bottom: 30px; }
+
 .post-meta { font-size: 14px; color: #828282; }
-.post-link { display: block;
-	font-size: 1.0rem;
-	border-bottom: 0px;;
-}
+.post-link { display: block; font-size: 1rem; border-bottom: 0px; }
 
-.page-content h2 { font-size: 1.125rem;
-}
-
-/** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title, .post-content h1 { font-size: 1.125rem; letter-spacing: -1px; line-height: 1.15; }
-@media screen and (min-width: 800px) { .post-title, .post-content h1 { font-size: 1.125rem; } }
+.post-title, .post-content h1 {
+  font-size: 1.125rem;
+  letter-spacing: -1px;
+  line-height: 1.15;
+}
 
 .post-content { margin-bottom: 30px; }
-.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 { margin-top: 30px; }
+.post-content h1, .post-content h2, .post-content h3,
+.post-content h4, .post-content h5, .post-content h6 { margin-top: 30px; }
+
 .post-content h2 { font-size: 1.125rem; }
-@media screen and (min-width: 800px) { .post-content h2 { font-size: 1rem; } }
 .post-content h3 { font-size: 1.125rem; }
-@media screen and (min-width: 800px) { .post-content h3 { font-size: 1rem; } }
-.post-content h4 { font-size: 1rem; }
-.post-content h5 {
-	font-size: 1rem;
-	border: solid 1px;
-	padding: 0.5rem;
-	border-radius: 0.5rem;
-}
-.post-content h6 { font-size: 1rem; }
-
-.social-media-list, .pagination { display: table; margin: 0 auto; }
-.social-media-list li, .pagination li { float: left; margin: 5px 10px 5px 0; }
-.social-media-list li:last-of-type, .pagination li:last-of-type { margin-right: 0; }
-.social-media-list li a, .pagination li a {
-display: block; padding: 10px 12px;
-border: 0px solid #e8e8e8; }
-.social-media-list li a:hover, .pagination li a:hover { border-color: #c0c0c0; }
-
-* {
-  color: #000000 !important;
-  border-color: #000000 !important;
-}
-
-.stretched {
-  display: inline-block;
-  transform: scaleY(2.5);
-  transform-origin: center top;
-}
-
-/* デフォルト（スマホ用） */
-.header-image img {
-  width: 30%;
-}
-
-/* PC用にサイズを小さく調整（幅が600px以上のとき） */
-@media screen and (min-width: 600px) {
-  .header-image img {
-    width: 10%; /* PCではもっと小さく表示 */
-  }
-
-  .menu-btn {
-    width: 80px;
-    height: 40px;
-  }
-
-  .site-title {
-    font-size: 1.3rem;
-    transform: scaleY(1.8); /* 引き伸ばし度合いも調整可 */
-  }
-}
-
-.stretchedread {
-  display: inline-block;
-  transform: scaleY(1.0); /* インデックスより少し控えめにした例 */
-  transform-origin: center top;
-}
+.post-content h4, .post-content h5, .post-content h6 { font-size: 1rem; }
 
 /* ============================
-   強制的にロゴ／アイコンを消す（幅広くカバー）
-   貼る場所: custom-styles.scss の末尾
+   Social Media / Pagination
    ============================ */
+.social-media-list,
+.pagination {
+  list-style: none;
+  margin-left: 0;
+  display: table;
+  margin: 0 auto;
+}
 
-/* 画像要素を消す（ヘッダ内） */
+.social-media-list li,
+.pagination li { float: left; margin: 5px 10px 5px 0; }
+.social-media-list li:last-of-type,
+.pagination li:last-of-type { margin-right: 0; }
+
+.social-media-list li a,
+.pagination li a {
+  display: block;
+  padding: 10px 12px;
+  border: 0px solid #e8e8e8;
+}
+.social-media-list li a:hover,
+.pagination li a:hover { border-color: #c0c0c0; }
+
+/* ============================
+   Header Images / Logos
+   ============================ */
+/* ロゴやアイコンを強制的に非表示 */
 .site-header img,
 .site-title img,
 header img,
@@ -238,30 +200,11 @@ header img,
 .site-logo img,
 .header .logo,
 .header .brand,
-a.site-title > img {
-  display: none !important;
-  visibility: hidden !important;
-  width: 0 !important;
-  height: 0 !important;
-  overflow: hidden !important;
-}
-
-/* SVG やアイコンフォントを消す */
+a.site-title > img,
 .site-header svg,
 .site-title svg,
 .logo svg,
-.header svg,
-.menu-icon svg,
-.hamburger,
-.burger,
-.icon-hamburger,
-.icon-menu,
-.menu-toggle,
-button.menu-toggle,
-button.nav-toggle,
-.nav-toggle,
-.nav-trigger,
-.menu-btn {
+.header svg {
   display: none !important;
   visibility: hidden !important;
   width: 0 !important;
@@ -269,7 +212,6 @@ button.nav-toggle,
   overflow: hidden !important;
 }
 
-/* 背景画像でロゴを表示している場合に備える */
 .site-header,
 .site-title,
 .header,
@@ -277,73 +219,15 @@ button.nav-toggle,
 .site-branding,
 .logo,
 .header-logo,
-a.site-title {
-  background-image: none !important;
-  background: transparent !important;
-}
-
-/* 疑わしい疑似要素（:before/:after） */
+a.site-title,
 .site-title::before,
 .site-title::after,
 .header::before,
 .header::after,
 .site-header::before,
 .site-header::after {
-  display: none !important;
-  content: none !important;
-}
-
-/* もし .site-nav を丸ごと消すなら（ハンバーガー含む） */
-.site-nav { display: none !important; }
-
-/* タイトルの見た目を本文と同じに揃える（transform 等をリセット） */
-.site-title,
-.site-title a,
-.site-header h1,
-.site-header h1 a {
-  font-family: inherit !important;
-  font-size: inherit !important;
-  font-weight: inherit !important;
-  line-height: inherit !important;
-  color: inherit !important;
-  text-decoration: none !important;
-
-  transform: none !important;
-  transform-origin: initial !important;
-  letter-spacing: normal !important;
-  display: inline !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border: 0 !important;
   background: transparent !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-}
-
-/* ロゴ画像を消す（もし .site-title 内に <img> がある場合） */
-.site-title img {
-  display: none !important;
-}
-
-/* サイトタイトルを本文と同じスタイルに */
-.site-title,
-.site-title a {
-  font-family: inherit !important;
-  font-size: inherit !important;
-  font-weight: inherit !important;
-  line-height: inherit !important;
-  color: inherit !important;
-  letter-spacing: normal !important;
-  transform: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  text-decoration: none !important;
-  float: none !important;   /* ← 左寄せを解除 */
-  display: inline !important;
-}
-
-/* ハンバーガーアイコンとそのクリック領域を非表示 */
-.site-nav .menu-icon,
-.site-nav label[for="nav-trigger"] {
-  display: none !important;
+  background-image: none !important;
+  display: block !important;
+  content: none !important;
 }
