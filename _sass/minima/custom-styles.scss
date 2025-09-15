@@ -295,3 +295,21 @@ button.nav-toggle {
   border: none !important;
   background: none !important;
 }
+
+.site-header {
+  position: relative;
+}
+
+/* ホームボタン */
+.home-button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* 本文と同じ */
+  font-size: 0.9rem;   /* 本文と同じ */
+  color: #000000;      /* 本文と同じ */
+  text-decoration: none; /* 下線なし */
+  border: none;          /* ボーダーなし */
+  padding: 0;
+  margin: 0;
+}
