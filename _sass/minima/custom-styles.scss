@@ -331,27 +331,20 @@ border: 0px solid #e8e8e8; }
   transform-origin: center top;
 }
 
-/* -------------------------------
-   Logo を非表示
-   ------------------------------- */
+/* ロゴ画像を強制的に非表示 */
 .site-title img,
-.header-logo,
-.site-logo {
+.site-logo,
+header .site-title img {
   display: none !important;
 }
 
-/* -------------------------------
-   ハンバーガーメニュー（アイコン）を非表示
-   必要なら .site-nav 全体を消すこともできます（下の commented 行）
-   ------------------------------- */
+/* ハンバーガーメニューを強制的に非表示 */
+.site-nav,
 .site-nav .menu-icon,
-.site-nav .nav-toggle,
-.site-nav .nav-trigger {
+.site-header .menu-icon,
+.site-header .nav-trigger {
   display: none !important;
 }
-/* もしスマホ用のナビ（ドロワー）自体も不要なら下行のコメントを外す：
-.site-nav { display: none !important; }
-*/
 
 /* -------------------------------
    サイトタイトルを本文と同じスタイルにする
