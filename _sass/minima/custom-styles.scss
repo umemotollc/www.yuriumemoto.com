@@ -21,9 +21,16 @@ a {
   transition: color 0.2s, text-decoration-color 0.2s;
 }
 
+/* ホバー・クリック中 */
 a:hover, a:focus, a:active {
   color: #FF0000;                     
   text-decoration-color: #FF0000;     
+}
+
+/* 一度踏んだ後（visited） */
+a:visited {
+  color: #0000FF;                     /* 青 */
+  text-decoration-color: #0000FF;
 }
 
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
@@ -31,14 +38,8 @@ a:hover, a:focus, a:active {
 .pagination a:hover .username { text-decoration: none; }
 
 a, button {
-  -webkit-tap-highlight-color: transparent; /* タップ/クリックハイライトを無効化 */
-  -webkit-touch-callout: none;              /* iOS長押し無効化ですが無害 */
-}
-
-a:visited,
-a:active {
-  color: #000000;                            /* 色を固定 */
-  text-decoration-color: #000000;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
 }
 
 /* 選択時の文字色 */
