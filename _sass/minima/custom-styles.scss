@@ -330,3 +330,62 @@ border: 0px solid #e8e8e8; }
   transform: scaleY(1.0); /* インデックスより少し控えめにした例 */
   transform-origin: center top;
 }
+
+/* -------------------------------
+   Logo を非表示
+   ------------------------------- */
+.site-title img,
+.header-logo,
+.site-logo {
+  display: none !important;
+}
+
+/* -------------------------------
+   ハンバーガーメニュー（アイコン）を非表示
+   必要なら .site-nav 全体を消すこともできます（下の commented 行）
+   ------------------------------- */
+.site-nav .menu-icon,
+.site-nav .nav-toggle,
+.site-nav .nav-trigger {
+  display: none !important;
+}
+/* もしスマホ用のナビ（ドロワー）自体も不要なら下行のコメントを外す：
+.site-nav { display: none !important; }
+*/
+
+/* -------------------------------
+   サイトタイトルを本文と同じスタイルにする
+   - 本文と「同じ」になるように inherit を使う（body の font-family, font-size を継承）
+   - 不要な transform や余白を解除
+   ------------------------------- */
+.site-title,
+.site-title:visited {
+  /* 本文と同じにする */
+  font-family: inherit !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+  color: inherit !important;
+  text-decoration: none !important;
+
+  /* 見た目の差分を消す */
+  transform: none !important;
+  transform-origin: none !important;
+  letter-spacing: normal !important;
+  display: inline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  text-align: left !important; /* 必要なら right に戻してください */
+}
+
+/* 小さい画面の余白調整（必要なら） */
+@media screen and (max-width: 600px) {
+  .site-title { padding-right: 0 !important; }
+}
+
+/* もしタイトルが h1 や a 要素で大きな余白を持っている場合はより強くリセット */
+.site-header h1, .site-header .site-title {
+  margin: 0 !important;
+  padding: 0 !important;
+}
