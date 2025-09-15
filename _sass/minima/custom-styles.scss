@@ -231,3 +231,11 @@ a.site-title,
   display: block !important;
   content: none !important;
 }
+
+/* スマホ表示で site-nav の残骸を非表示に */
+@media screen and (max-width: 600px) {
+  .site-nav ul,
+  .site-nav li {
+    display: none !important;
+  }
+}
