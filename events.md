@@ -17,7 +17,7 @@ Composition, text: Yuri Umemoto, Libretto: Gareth Mattey, Stage direction: Ivar 
 Co-production by [Münchener Biennale](https://www.muenchener-biennale.de/en) and [Ultima Oslo Contemporary Music Festival](https://www.ultima.no/en/), [Oslo Sinfonietta](https://www.oslosinfonietta.no/), [Black Box teater Oslo](https://blackbox.no/en/) and [Klang Festival Kopenhagen](https://klang.dk/en).  
 Composition & libretto commissioned by the City of Munich for the Münchener Biennale.  
 
-**OCTOBER 10, 2025** | Sapporo, Japan @ Moerenuma Park Glass Pyramid / [Ott Yarris -Pyramid Reverb-](https://ja.ra.co/events/2257886)  
+**OCTOBER 10, 2025** | Sapporo, Japan @ [Moerenuma Park Glass Pyramid](https://moerenumapark.jp/english/) / [Ott Yarris -Pyramid Reverb-](https://ja.ra.co/events/2257886)  
 Will be Performed by Yuri Umemoto  
 
 **SEPTEMBER 26, 2025** | London, UK @ [Kings Place](https://www.kingsplace.co.uk/) / [Ben Goldscheider x Brother Tree Sound x Ben Nobuto](https://www.kingsplace.co.uk/whats-on/classical/ben-goldscheider-x-brother-tree-sound-x-ben-nobuto/)  
