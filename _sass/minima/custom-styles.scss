@@ -427,3 +427,31 @@ a.site-title {
   visibility: visible !important;
   opacity: 1 !important;
 }
+
+/* ロゴ画像を消す（もし .site-title 内に <img> がある場合） */
+.site-title img {
+  display: none !important;
+}
+
+/* サイトタイトルを本文と同じスタイルに */
+.site-title,
+.site-title a {
+  font-family: inherit !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+  color: inherit !important;
+  letter-spacing: normal !important;
+  transform: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  text-decoration: none !important;
+  float: none !important;   /* ← 左寄せを解除 */
+  display: inline !important;
+}
+
+/* ハンバーガーアイコンとそのクリック領域を非表示 */
+.site-nav .menu-icon,
+.site-nav label[for="nav-trigger"] {
+  display: none !important;
+}
