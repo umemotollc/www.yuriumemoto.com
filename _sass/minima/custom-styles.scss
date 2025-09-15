@@ -314,16 +314,33 @@ button.nav-toggle {
   margin: 0;
 }
 
-/* homeページ内リンク（通常は下線なし） */
+/* homeページ内リンク */
 .home a {
+  position: relative;
   color: #000000;
-  text-decoration: none;
+  text-decoration: none; /* 通常は下線なし */
 }
 
-/* タップ／クリック時に下線を表示 */
-.home a:active,
-.home a:focus,
-.home a:focus-visible {
-  text-decoration: underline;
-  text-decoration-color: #000000;
+/* 擬似要素で下線を作る */
+.home a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;             /* 初期は非表示 */
+  height: 1px;          /* 下線の太さ */
+  background: #000000;
+  transition: width 0.2s;
+}
+
+/* PC: ホバー時に下線 */
+.home a:hover::after {
+  width: 100%;
+}
+
+/* モバイル: タップ／クリック時に下線 */
+.home a:active::after,
+.home a:focus::after,
+.home a:focus-visible::after {
+  width: 100%;
 }
