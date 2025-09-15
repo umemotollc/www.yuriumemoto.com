@@ -37,7 +37,7 @@ a:hover, a:focus, a:active {
    Site Header
    ============================ */
 .site-header {
-  border-top: 5px solid #c0c0c0;
+  border-top: none !important; 
   border-bottom: none !important;
   min-height: 55.95px;
   line-height: 54px;
