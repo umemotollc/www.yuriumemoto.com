@@ -28,6 +28,31 @@
   }
 }
 
+/* ========================================
+   不要ナビゲーション要素の非表示
+   ハンバーガーアイコン・チェック項目・
+   homeリンクなど
+   既存の.site-navの上に追加でOK
+======================================== */
+.site-nav {
+  /* ハンバーガーアイコン非表示 */
+  .menu-icon,
+  label[for="nav-trigger"] {
+    display: none !important;
+  }
+
+  /* チェックボックス連動の残骸非表示 */
+  input ~ .trigger,
+  input:checked ~ .trigger {
+    display: none !important;
+  }
+
+  /* ナビリンク（homeなど）非表示 */
+  .page-link {
+    display: none !important;
+  }
+}
+
 .site-nav {
   position: absolute;
   top: 9px;
