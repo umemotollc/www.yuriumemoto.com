@@ -30,7 +30,7 @@ a:hover { color: #FF0000; }
    ============================ */
 .site-header {
   border-top: 5px solid #c0c0c0;
-  border-bottom: 1px solid #c0c0c0;
+  border-bottom: none !important;
   min-height: 55.95px;
   line-height: 54px;
   position: relative;
@@ -46,7 +46,7 @@ a:hover { color: #FF0000; }
   color: #000000;
   text-decoration: none !important;
   letter-spacing: 0;
-  transform: scaleY(1.9);
+  transform: scaleY(1);
   display: inline-block;
   transform-origin: center;
   margin: 0;
