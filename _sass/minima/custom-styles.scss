@@ -75,28 +75,6 @@ button.nav-toggle {
   display: none !important;
 }
 
-/* ページリンクは残す（表示する場合） */
-.site-nav .page-link {
-  color: #000000;
-  line-height: 1.25;
-  display: block;
-  padding: 5px 10px;
-  margin-left: 20px;
-  text-decoration: none;
-}
-.site-nav .page-link:not(:last-child) { margin-right: 0; }
-
-@media screen and (min-width: 600px) {
-  .site-nav {
-    position: static;
-    float: right;
-    border: none;
-    background-color: inherit;
-  }
-  .site-nav .page-link { display: inline; padding: 0; margin-left: auto; }
-  .site-nav .page-link:not(:last-child) { margin-right: 20px; }
-}
-
 /* ============================
    Site Footer
    ============================ */
