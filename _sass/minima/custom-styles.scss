@@ -232,10 +232,46 @@ a.site-title,
   content: none !important;
 }
 
-/* スマホ表示で site-nav の残骸を非表示に */
+/* ============================
+   Site Navigation Responsive
+   ============================ */
+
+/* ハンバーガーアイコン・トリガーを完全非表示 */
+.site-nav,
+.site-nav .menu-icon,
+.site-nav label[for="nav-trigger"],
+.site-nav .nav-trigger,
+.site-nav input ~ .trigger,
+.menu-btn,
+.hamburger,
+.icon-menu,
+.nav-toggle,
+button.nav-toggle {
+  display: none !important;
+}
+
+/* スマホ表示で ul/li リストも非表示 */
 @media screen and (max-width: 600px) {
-  .site-nav ul,
-  .site-nav li {
+  .site-nav {
     display: none !important;
+  }
+  .site-nav ul,
+  .site-nav li,
+  .site-nav a {
+    display: none !important;
+    border-bottom: none !important; /* 不自然な下線も消す */
+  }
+}
+
+/* PC表示では通常通り表示 */
+@media screen and (min-width: 601px) {
+  .site-nav {
+    display: block !important;
+  }
+  .site-nav ul,
+  .site-nav li,
+  .site-nav a {
+    display: block !important;
+    border-bottom: 1px solid #000; /* 必要に応じて調整 */
   }
 }
