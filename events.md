@@ -8,13 +8,28 @@ permalink: events/
 
 <a id="anchor1"></a>
 
+**MAY 17, 2026** | Munich, Germany @ [https://www.muenchener-biennale.de/en/programm/kalender/crypt]  
+*crypt_* (2025-26) (opera / music theatre)  
+Composition, text: Yuri Umemoto, Libretto: Gareth Mattey, Stage direction: Ivar Furre Aam, Musical direction: Christian Eggen, Stage design: Jakob Oredsson, Costume design: Ingrid Torvund, Dramaturgy: Takuya Maehara, Character design: Kei Ichikawa, Animator: Kanji Okai, Performers: Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien  
+Co-production by [Münchener Biennale](https://www.muenchener-biennale.de/en) and [Ultima Oslo Contemporary Music Festival](https://www.ultima.no/en/), [Oslo Sinfonietta](https://www.oslosinfonietta.no/), [Black Box teater Oslo](https://blackbox.no/en/) and [KLANG Festival Kopenhagen](https://klang.dk/en).  
+Composition & libretto commissioned by the City of Munich for the Münchener Biennale.  
+
+**MAY 16, 2026** | Munich, Germany @ [https://www.muenchener-biennale.de/en/programm/kalender/crypt]  
+*crypt_* (2025-26) (opera / music theatre)  
+Composition, text: Yuri Umemoto, Libretto: Gareth Mattey, Stage direction: Ivar Furre Aam, Musical direction: Christian Eggen, Stage design: Jakob Oredsson, Costume design: Ingrid Torvund, Dramaturgy: Takuya Maehara, Character design: Kei Ichikawa, Animator: Kanji Okai, Performers: Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien  
+Co-production by [Münchener Biennale](https://www.muenchener-biennale.de/en) and [Ultima Oslo Contemporary Music Festival](https://www.ultima.no/en/), [Oslo Sinfonietta](https://www.oslosinfonietta.no/), [Black Box teater Oslo](https://blackbox.no/en/) and [KLANG Festival Kopenhagen](https://klang.dk/en).  
+Composition & libretto commissioned by the City of Munich for the Münchener Biennale.  
+
+**OCTOBER 10, 2025** | Sapporo, Japan @ Moerenuma Park Glass Pyramid / [Ott Yarris -Pyramid Reverb-](https://ja.ra.co/events/2257886)  
+Will be Performed by Yuri Umemoto  
+
 **SEPTEMBER 26, 2025** | London, UK @ [Kings Place](https://www.kingsplace.co.uk/) / [Ben Goldscheider x Brother Tree Sound x Ben Nobuto](https://www.kingsplace.co.uk/whats-on/classical/ben-goldscheider-x-brother-tree-sound-x-ben-nobuto/)  
 *look at me, senpai* (2024) for violin, cello and fixed media  
 Will be performed by Anna de Bruin, Clare O’Connell
 
 **SEPTEMBER 11, 2025** | Yokohama, Japan @ [Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en)  
 *look at me, senpai* (2024) for violin, cello and fixed media, *Moe²Girl* (2022) for cello and fixed media, *SUPERBACHBOY* (2020) for cello, *Heidenröslein* (2025) for piano and fixed media, *aaaaa* (2025) for piano and fixed media and *my girl friend is not like me* (2025) for violin, cello and fixed media  
-Will be performed by Ayana Tsuji, Kei Yamazawa, Yusuke Takahashi and Shintaro Imai  
+Performed by Ayana Tsuji, Kei Yamazawa, Yusuke Takahashi and Shintaro Imai  
 
 **AUGUST 27, 2025** | Riga, Latvia @ [TUR TELPA](https://turtelpa.lv/) / [Robert Fleitz’s concert](https://www.baltictimes.com/robert_fleitz_s_concert/)  
 *Mass* (2025) for piano and fixed media  
