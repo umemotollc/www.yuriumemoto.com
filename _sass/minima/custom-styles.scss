@@ -294,7 +294,7 @@ a.site-title {
 }
 
 /* もし .site-nav を丸ごと消すなら（ハンバーガー含む） */
-// .site-nav { display: none !important; }
+.site-nav { display: none !important; }
 
 /* タイトルの見た目を本文と同じに揃える（transform 等をリセット） */
 .site-title,
