@@ -27,12 +27,6 @@ a:hover, a:focus, a:active {
   text-decoration-color: #FF0000;     
 }
 
-/* 一度踏んだ後（visited） */
-a:visited {
-  color: #0000FF;                     /* 青 */
-  text-decoration-color: #0000FF;
-}
-
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
 .social-media-list a:hover .username,
 .pagination a:hover .username { text-decoration: none; }
