@@ -320,13 +320,13 @@ border: 0px solid #e8e8e8; }
   }
 
   .site-title {
-    font-size: 1.2rem;
-    transform: scaleY(1.3); /* 引き伸ばし度合いも調整可 */
+    font-size: 1.0rem;
+    transform: scaleY(1.0); /* 引き伸ばし度合いも調整可 */
   }
 }
 
 .stretchedread {
   display: inline-block;
-  transform: scaleY(1.7); /* インデックスより少し控えめにした例 */
+  transform: scaleY(1.0); /* インデックスより少し控えめにした例 */
   transform-origin: center top;
 }
