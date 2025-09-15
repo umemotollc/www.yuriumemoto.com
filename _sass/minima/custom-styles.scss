@@ -4,10 +4,15 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   color: #000000;
-  line-height: 1.8;
+  line-height: 1.5;
   margin: 0;
   padding: 1.5rem;
   font-size: 0.9rem;
+}
+
+/* homeページ限定の行間調整 */
+.home {
+  line-height: 1.8; /* 好きな値に調整 */
 }
 
 /* 本文中リンク */
