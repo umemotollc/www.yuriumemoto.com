@@ -11,7 +11,7 @@ Composer. Born in Tokyo in 2002. He composes music through notation and instrume
 
 <small>[[Past events, collaborations, and broadcasts](/events/)]</small>  
 
-Upcoming project is the new opera [*crypt_*](https://www.muenchener-biennale.de/en/programm/kalender/crypt), commissioned by the Münchener Biennale. The work is a co-production with the Münchener Biennale, Ultima Oslo Contemporary Music Festival, Oslo Sinfonietta, Black Box teater Oslo, and KLANG Festival Kopenhagen.
+Upcoming project is the new opera [*crypt_*](https://www.muenchener-biennale.de/en/programm/kalender/crypt), commissioned by the Münchener Biennale. The work is a co-production with the Münchener Biennale, Ultima Oslo Contemporary Music Festival, Oslo Sinfonietta, Black Box teater Oslo, and Klang Festival Kopenhagen.
 
 **2025-2027** [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en/index.html) Composer  
 **2023-2026** [KUMA Foundation](https://kuma-foundation.org/student/yuri-umemoto/) Scholar  
