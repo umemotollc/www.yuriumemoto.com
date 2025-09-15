@@ -229,13 +229,24 @@ button.nav-toggle {
 }
 
 /* ============================
-   Site Navigation 完全非表示
+   Site Navigation 完全非表示（最終版）
    ============================ */
 
-/* PC・スマホ問わず site-nav の残骸を消す */
+/* .site-nav とそのすべての子要素を非表示 */
 .site-nav,
 .site-nav * {
   display: none !important;       /* ul/li, a, label, checkbox など全て非表示 */
-  border: none !important;        /* 不自然な下線も消す */
-  background: none !important;    /* チェックボックスや背景も消す */
+  border: none !important;        /* 下線を消す */
+  background: none !important;    /* チェックボックスや背景を消す */
+}
+
+/* 擬似要素も無効化 */
+.site-nav::before,
+.site-nav::after,
+.site-nav *::before,
+.site-nav *::after {
+  content: none !important;
+  display: none !important;
+  border: none !important;
+  background: none !important;
 }
