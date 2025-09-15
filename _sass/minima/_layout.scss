@@ -28,31 +28,6 @@
   }
 }
 
-/* ========================================
-   不要ナビゲーション要素の非表示
-   ハンバーガーアイコン・チェック項目・
-   homeリンクなど
-   既存の.site-navの上に追加でOK
-======================================== */
-.site-nav {
-  /* ハンバーガーアイコン非表示 */
-  .menu-icon,
-  label[for="nav-trigger"] {
-    display: none !important;
-  }
-
-  /* チェックボックス連動の残骸非表示 */
-  input ~ .trigger,
-  input:checked ~ .trigger {
-    display: none !important;
-  }
-
-  /* ナビリンク（homeなど）非表示 */
-  .page-link {
-    display: none !important;
-  }
-}
-
 .site-nav {
   position: absolute;
   top: 9px;
@@ -62,49 +37,12 @@
   border-radius: 5px;
   text-align: right;
 
-  .nav-trigger {
-    display: none;
-  }
-
-  .menu-icon {
-    float: right;
-    width: 36px;
-    height: 26px;
-    line-height: 0;
-    padding-top: 10px;
-    text-align: center;
-
-    > svg path {
-      fill: $border-color-03;
-    }
-  }
-
-  label[for="nav-trigger"] {
-    display: block;
-    float: right;
-    width: 36px;
-    height: 36px;
-    z-index: 2;
-    cursor: pointer;
-  }
-
-  input ~ .trigger {
-    clear: both;
-    display: none;
-  }
-
-  input:checked ~ .trigger {
-    display: block;
-    padding-bottom: 5px;
-  }
-
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
 
-    // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 0;
     }
@@ -117,18 +55,6 @@
     border: none;
     background-color: inherit;
 
-    label[for="nav-trigger"] {
-      display: none;
-    }
-
-    .menu-icon {
-      display: none;
-    }
-
-    input ~ .trigger {
-      display: block;
-    }
-
     .page-link {
       display: inline;
       padding: 0;
@@ -140,8 +66,6 @@
     }
   }
 }
-
-
 
 /**
  * Site footer
