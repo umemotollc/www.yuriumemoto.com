@@ -7,7 +7,7 @@ permalink: /about/
 
 <small>[[portraits by Sophia Hegewald](https://sophia-hegewald.de/yuri-umemoto-komponist)]</small>  
 
-Composer. Born in Tokyo in 2002. He composes music through notation and instruments, recording and editing. In his works, personal expression, his own voice and words, is dubbed through character voices.  
+Composer. Born in Tokyo in 2002. He composes music through notation and instruments, recording and editing.  
 
 His pieces have recently been performed at festivals including PODIUM Esslingen, Thüringer Bachwochen, and Musica nova Helsinki.  
 
