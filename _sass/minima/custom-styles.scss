@@ -313,3 +313,16 @@ button.nav-toggle {
   padding: 0;
   margin: 0;
 }
+
+/* homeページ内リンク */
+.home a {
+  text-decoration: none;       /* 通常は下線なし */
+  color: #000000;              /* 本文と同じ */
+}
+
+/* タップ/クリック時に下線を出す */
+.home a:active,
+.home a:focus {
+  text-decoration: underline;
+  text-decoration-color: #000000;
+}
