@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 # title: Yuri Umemoto
 ---
   <a href="/about">about</a>  
