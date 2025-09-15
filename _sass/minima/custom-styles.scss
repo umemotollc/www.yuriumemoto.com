@@ -9,13 +9,21 @@ body {
   padding: 2rem; /* サイト全体の余白 */
 }
 
+/* 本文中リンク */
 a {
-  color: #000000;
-  text-decoration: none;
-  border-bottom: 1px solid #000000;
+  color: #000000;                    
+  text-decoration: underline;         
+  text-decoration-color: #000000;    
+  text-decoration-thickness: 1px;    
+  text-underline-offset: 2px;        
+  text-decoration-skip-ink: auto;    
+  transition: color 0.2s, text-decoration-color 0.2s;
 }
-a:visited { color: #000000; }
-a:hover { color: #FF0000; }
+
+a:hover, a:focus, a:active {
+  color: #FF0000;                     
+  text-decoration-color: #FF0000;     
+}
 
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
 .social-media-list a:hover .username,
