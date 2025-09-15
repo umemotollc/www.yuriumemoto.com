@@ -250,3 +250,22 @@ button.nav-toggle {
   border: none !important;
   background: none !important;
 }
+
+/* Hamburger menu と内部すべてを非表示 */
+.hamburger-menu,
+.hamburger-menu * {
+  display: none !important;       /* input, label, ul/li, a すべて非表示 */
+  border: none !important;        /* 下線など消す */
+  background: none !important;    /* チェックボックス背景も消す */
+}
+
+/* 擬似要素も無効化 */
+.hamburger-menu::before,
+.hamburger-menu::after,
+.hamburger-menu *::before,
+.hamburger-menu *::after {
+  content: none !important;
+  display: none !important;
+  border: none !important;
+  background: none !important;
+}
