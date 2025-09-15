@@ -59,7 +59,7 @@ a:active {
 .site-title,
 .site-title a {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: normal;
   line-height: inherit;
   color: #000000;
@@ -134,8 +134,8 @@ button.nav-toggle {
   min-height: 80vh;
 }
 
-.page-heading { font-size: 1.125rem; }
-.post-list-heading { font-size: 1rem; }
+.page-heading { font-size: 0.9rem; }
+.post-list-heading { font-size: 0.9rem; }
 
 .post-list { margin-left: 0; list-style: none; }
 .post-list > li { margin-bottom: 30px; }
@@ -146,7 +146,7 @@ button.nav-toggle {
 .post-header { margin-bottom: 30px; }
 
 .post-title, .post-content h1 {
-  font-size: 1.125rem;
+  font-size: 0.9rem;
   letter-spacing: -1px;
   line-height: 1.15;
 }
@@ -155,9 +155,9 @@ button.nav-toggle {
 .post-content h1, .post-content h2, .post-content h3,
 .post-content h4, .post-content h5, .post-content h6 { margin-top: 30px; }
 
-.post-content h2 { font-size: 1.125rem; }
-.post-content h3 { font-size: 1.125rem; }
-.post-content h4, .post-content h5, .post-content h6 { font-size: 1rem; }
+.post-content h2 { font-size: 0.9rem; }
+.post-content h3 { font-size: 0.9rem; }
+.post-content h4, .post-content h5, .post-content h6 { font-size: 0.9rem; }
 
 /* ============================
    Social Media / Pagination
