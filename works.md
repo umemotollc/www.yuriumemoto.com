@@ -110,8 +110,6 @@ for string quartet (2020)
 
 **2024**: Produced the soundtrack for an [installation](https://vimeo.com/1031181683?share=copy) by [Chayarat Ritaram](https://www.lefresnoy.net/en/ecole/etudiant/607/) @ [Le Fresnoy](https://www.lefresnoy.net/en/), National Studio for Contemporary Arts in France.  
 
-**2024, 2025**: Composed music for the [QUQU](https://ququ.tokyo/) hair show.  
-
 **2023**: Arranged music by [Ryuichi Sakamoto](https://www.sitesakamoto.com/biography) for a TV Asahi program.  
 
 **2022**: Collaborated with [Lee Kan Kyo](https://leekankyo.com/) to create a [painting series](https://www.fashionsnap.com/article/leekankyo-interview/#lg=1&slide=11).  
