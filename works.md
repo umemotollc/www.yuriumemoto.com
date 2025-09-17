@@ -19,9 +19,6 @@ for violin, cello and fixed media (2025)
 **[goodbye](https://youtu.be/aX8Uu85CPoI?si=ryjQz5JCEvqMsQCC)**  
 for shō and fixed media (2025)
 
-**[i like music and poop. i can poop in one min, and i can make a music in one day. but i can't poop ten times a day, so i can't make ten pieces in one month.](https://yuriumemoto.bandcamp.com/track/i-like-music-and-poop-i-can-poop-in-one-min-and-i-can-make-a-music-in-one-day-but-i-cant-poop-ten-times-a-day-so-i-cant-make-ten-pieces-in-one-month)**  
-(2025)
-
 **[Qui sedes](https://youtu.be/peJE0L2dwjY)**  
 for violin, cello, piano and fixed media (2025)
 
@@ -68,9 +65,6 @@ videogram (2023)
 **[but...you're a minor, right?](https://youtu.be/0-B_Yw17b0k?si=_nPHYjKICoqUD4cd)**  
 for piano and fixed media (2023)
 
-**[Anime Phenomenological Reduction](https://www.youtube.com/watch?v=9QAmWViqJo8&t=3s)**  
-for voices (2023)
-
 **[i'm scared of dying. what do i do?](https://youtu.be/FHZgv7qcewc?si=jsd0hVsV4mZFUYhf)**  
 for violin (2023)  
 
@@ -114,15 +108,9 @@ for string quartet (2020)
 
 **collaborations**  
 
-**2025**: Composed music for the [pays des fées](https://www.pays-des-fees.com/) × [Junji Ito](https://en.wikipedia.org/wiki/Junji_Ito) 2025-26 A/W show during [Tokyo Fashion Week](https://rakutenfashionweektokyo.com/en/).  
-
 **2024**: Produced the soundtrack for an [installation](https://vimeo.com/1031181683?share=copy) by [Chayarat Ritaram](https://www.lefresnoy.net/en/ecole/etudiant/607/) @ [Le Fresnoy](https://www.lefresnoy.net/en/), National Studio for Contemporary Arts in France.  
 
 **2024, 2025**: Composed music for the [QUQU](https://ququ.tokyo/) hair show.  
-
-**2024**: Collaborated with [Astrophysics](https://www.youtube.com/channel/UCWSC_-y9QsDmACXRY3rvtsQ) on the track [“Permanence”](https://youtu.be/Y1hTFcH8wwg?si=L2paonDp0qdLIrpy) (feat. The Mall & Yuri Umemoto) from the album The [Unending Need for Perpetual Motion](https://youtu.be/xzPwmzUlXx0?si=xfRrZy3B_iARggq-).  
-
-**2024**: Composed music for the [pays des fées](https://www.pays-des-fees.com/) 2024 S/S show during [Tokyo Fashion Week](https://rakutenfashionweektokyo.com/en/).  
 
 **2023**: Arranged music by [Ryuichi Sakamoto](https://www.sitesakamoto.com/biography) for a TV Asahi program.  
 
