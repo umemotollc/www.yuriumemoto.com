@@ -20,7 +20,7 @@ Composition & libretto commissioned by the City of Munich for the Münchener Bie
 
 **NOVEMBER 24, 2025** | Berlin, Germany @ [Sammlung Hoffmann](https://sammlung-hoffmann.de/en/) / [SOMEHOW WE CAN – 12 String Quartets](https://kaleidoskopmusik.de/en/projects/somehow-we-can)  
 *Fluffy Pink!* (2020) for string quartet  
-Will be performed [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
+Will be performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
 
 **OCTOBER 10, 2025** | Sapporo, Japan @ [Moerenuma Park Glass Pyramid](https://moerenumapark.jp/english/) / [Ott Yarris -Pyramid Reverb-](https://ja.ra.co/events/2257886)  
 Will be performed by Yuri Umemoto  
