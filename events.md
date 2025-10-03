@@ -18,6 +18,10 @@ Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias M
 Co-production by [Münchener Biennale](https://www.muenchener-biennale.de/en) and [Ultima Oslo Contemporary Music Festival](https://www.ultima.no/en/), [Oslo Sinfonietta](https://www.oslosinfonietta.no/), [Black Box teater Oslo](https://blackbox.no/en/) and [Klang Festival Kopenhagen](https://klang.dk/en).  
 Composition & libretto commissioned by the City of Munich for the Münchener Biennale.  
 
+**NOVEMBER 30, 2025** | Köln, Germany @ [KLAENG Festival 2025]([https://kaleidoskopmusik.de/en/projects/somehow-we-can](https://stadtgarten.de/programm/klaeng-festival-2025-9326))  
+*typing on the keyboard, i feel so small* (2024) for harpsichord  
+Will be performed by Elina Albach  
+
 **NOVEMBER 23, 2025** | Berlin, Germany @ [Sammlung Hoffmann](https://sammlung-hoffmann.de/en/) / [SOMEHOW WE CAN – 12 String Quartets](https://kaleidoskopmusik.de/en/projects/somehow-we-can)  
 *Fluffy Pink!* (2020) for string quartet  
 Will be performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
