@@ -7,7 +7,7 @@ title: contact
 Orie Takita (she/her) / Gen Terai (he/him)  
 email: orie.takita@kajimotomusic.com  
 
-**IP Management & Publishing**  
+**Intellectual Property Management & Publishing**  
 UMEMOTO LLC  
 Hijiri Umemoto (he/him)  
 email: desk@umemoto.org  
