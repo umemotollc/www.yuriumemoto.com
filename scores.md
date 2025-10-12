@@ -23,3 +23,5 @@ If you're a younger student than I am*, studying music and wish to study the sco
 *) Anyone born on or after April 23, 2002.
 
 If needed, please provide 1. your name, 2. intended use, 3. school name, and 4. the score you would like, and send it to my email address: **desk@umemoto.org**
+
+<img src="https://www.yuriumemoto.com/pics/lost_sheep.png" alt="lost_sheep" width="150">  
