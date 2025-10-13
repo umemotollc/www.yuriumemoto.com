@@ -18,7 +18,14 @@ Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias M
 Co-production by [Münchener Biennale](https://www.muenchener-biennale.de/en) and [Ultima Oslo Contemporary Music Festival](https://www.ultima.no/en/), [Oslo Sinfonietta](https://www.oslosinfonietta.no/), [Black Box teater Oslo](https://blackbox.no/en/) and [Klang Festival Kopenhagen](https://klang.dk/en).  
 Composition & libretto commissioned by the City of Munich for the Münchener Biennale.  
 
-**DECEMBER, 2024** | Lausanne, Switzerland @ [Les Urbaines](https://urbaines.ch/en)  
+**DECEMBER, 2025** | Lausanne, Switzerland @ [Les Urbaines](https://urbaines.ch/en)  
+
+**NOVEMBER 30, 2025** | Copenhagen, Denmark @ [MINU Festival](https://minufestival.com/prog_Speedrunning)  
+*SUPERBACHBOY* (2020) for cello, *SUPERBACHBOY3* (2021) for cello and electronics  
+Will be performed by Current Resonance and Alexandra Hallén (cello)  
+
+**NOVEMBER 28, 2025** | Copenhagen, Denmark @ [MINU Festival](https://minufestival.com/prog_Yuri_Umemoto)  
+A DJ set with Umemoto’s own music and works by modern classical, experimental, electronic, and other artists and musicians who have influenced him.  
 
 **NOVEMBER 30, 2025** | Köln, Germany @ [KLAENG Festival 2025](https://stadtgarten.de/programm/klaeng-festival-2025-9326)  
 *typing on the keyboard, i feel so small* (2024) for harpsichord  
@@ -29,7 +36,8 @@ Will be performed by Elina Albach
 Will be performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
 
 **OCTOBER 10, 2025** | Sapporo, Japan @ [Moerenuma Park Glass Pyramid](https://moerenumapark.jp/english/) / [Ott Yarris -Pyramid Reverb-](https://ja.ra.co/events/2257886)  
-Will be performed by Yuri Umemoto  
+*i see* (2025) for piano, other unpublished piano works.  
+Performed by Yuri Umemoto  
 
 **SEPTEMBER 26, 2025** | London, UK @ [Kings Place](https://www.kingsplace.co.uk/) / [Ben Goldscheider x Brother Tree Sound x Ben Nobuto](https://www.kingsplace.co.uk/whats-on/classical/ben-goldscheider-x-brother-tree-sound-x-ben-nobuto/)  
 *look at me, senpai* (2024) for violin, cello and fixed media  
