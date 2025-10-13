@@ -19,6 +19,7 @@ Co-production by [Münchener Biennale](https://www.muenchener-biennale.de/en) an
 Composition & libretto commissioned by the City of Munich for the Münchener Biennale.  
 
 **DECEMBER, 2025** | Lausanne, Switzerland @ [Les Urbaines](https://urbaines.ch/en)  
+More details coming soon  
 
 **NOVEMBER 30, 2025** | Copenhagen, Denmark @ [MINU Festival](https://minufestival.com/prog_Speedrunning)  
 *SUPERBACHBOY* (2020) for cello, *SUPERBACHBOY3* (2021) for cello and electronics  
