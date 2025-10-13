@@ -25,12 +25,12 @@ More details coming soon
 *SUPERBACHBOY* (2020) for cello, *SUPERBACHBOY3* (2021) for cello and electronics  
 Will be performed by Current Resonance and Alexandra Hallén (cello)  
 
-**NOVEMBER 28, 2025** | Copenhagen, Denmark @ [MINU Festival](https://minufestival.com/prog_Yuri_Umemoto)  
-A DJ set with Umemoto’s own music and works by modern classical, experimental, electronic, and other artists and musicians who have influenced him.  
-
 **NOVEMBER 30, 2025** | Köln, Germany @ [KLAENG Festival 2025](https://stadtgarten.de/programm/klaeng-festival-2025-9326)  
 *typing on the keyboard, i feel so small* (2024) for harpsichord  
 Will be performed by Elina Albach  
+
+**NOVEMBER 28, 2025** | Copenhagen, Denmark @ [MINU Festival](https://minufestival.com/prog_Yuri_Umemoto)  
+A DJ set with Umemoto’s own music and works by modern classical, experimental, electronic, and other artists and musicians who have influenced him.  
 
 **NOVEMBER 23, 2025** | Berlin, Germany @ [Sammlung Hoffmann](https://sammlung-hoffmann.de/en/) / [SOMEHOW WE CAN – 12 String Quartets](https://kaleidoskopmusik.de/en/projects/somehow-we-can)  
 *Fluffy Pink!* (2020) for string quartet  
