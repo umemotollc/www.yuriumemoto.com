@@ -29,7 +29,7 @@ Will be performed by Current Resonance and Alexandra Hallén (cello)
 *typing on the keyboard, i feel so small* (2024) for harpsichord  
 Will be performed by Elina Albach  
 
-**NOVEMBER 28, 2025** | Copenhagen, Denmark @ [MINU Festival](https://minufestival.com/prog_Yuri_Umemoto)  
+**NOVEMBER 28, 2025** | Copenhagen, Denmark @ [MINU Festival](https://huset.kk.dk/en/events/minufestivalforexpandedmusic-2025/yuri-umemoto)  
 A DJ set with Umemoto’s own music and works by modern classical, experimental, electronic, and other artists and musicians who have influenced him.  
 
 **NOVEMBER 23, 2025** | Berlin, Germany @ [Sammlung Hoffmann](https://sammlung-hoffmann.de/en/) / [SOMEHOW WE CAN – 12 String Quartets](https://kaleidoskopmusik.de/en/projects/somehow-we-can)  
