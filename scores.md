@@ -4,24 +4,15 @@ title: scores
 permalink: scores
 ---
 
-Digital scores are available to buy. 
-Payment can be made by major credit cards, paypal, and bank transfer.
-To place your order,  please send your message to **desk@umemoto.org**.
- 
-- Work for Solo (PRICE: ¥3000 (YEN))
-- Work for Duo, Ensemble (PRICE: ¥4000 (YEN))
-- Work for Orchestra (PRICE: ¥5000 (YEN))
+Scores & audio available  
+Pay by card, PayPal, or bank transfer  
+Order: desk@umemoto.org (email)  
 
-- Work for Solo with audio/ video (PRICE: ¥4000 (YEN))
-- Work for Duo, Ensemble with audio/ video (PRICE: ¥5000 (YEN))
- - Digital score (in pdf) and audio tracks for practice will be provided for Works for live instruments with fixed media.
+**Solo** ¥3,000  
+**Duo/Ensemble** ¥4,000  
+**Orchestra** ¥5,000  
+**+Audio/Video** ¥2,000  
 
-
-**[study scores]**
-
-If you're a younger student than I am*, studying music and wish to study the score, I am happy to offer it to you for free. 
-*) Anyone born on or after April 23, 2002.
-
-If needed, please provide 1. your name, 2. intended use, 3. school name, and 4. the score you would like, and send it to my email address: **desk@umemoto.org**
+People aged 23 or under with financial difficulty can get the score for free. Send name, use, school, and score to desk@umemoto.org.  
 
 <img src="https://www.yuriumemoto.com/pics/lost_sheep.png" alt="lost_sheep" width="150">  
