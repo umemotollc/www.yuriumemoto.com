@@ -30,7 +30,7 @@ Will be performed by Current Resonance and Alexandra Hallén (cello)
 Will be performed by Elina Albach  
 
 **NOVEMBER 28, 2025** | Copenhagen, Denmark @ [MINU Festival](https://huset.kk.dk/en/events/minufestivalforexpandedmusic-2025/yuri-umemoto)  
-A DJ set with Umemoto’s own music and works by modern classical, experimental, electronic, and other artists and musicians who have influenced him.  
+DJ set
 
 **NOVEMBER 23, 2025** | Berlin, Germany @ [Sammlung Hoffmann](https://sammlung-hoffmann.de/en/) / [SOMEHOW WE CAN – 12 String Quartets](https://kaleidoskopmusik.de/en/projects/somehow-we-can)  
 *Fluffy Pink!* (2020) for string quartet  
@@ -53,7 +53,7 @@ Performed by Ayana Tsuji, Kei Yamazawa, Yusuke Takahashi and Shintaro Imai
 Performed by Robert Fleitz  
 
 **JULY 26, 2025** | Lehnin, Germany @ [Klosterkirche Lehnin (Lehnin Abbey)](https://en.wikipedia.org/wiki/Lehnin_Abbey) / [Lehniner Sommermusiken](https://www.klosterkirche-lehnin.de/lehniner-sommermusiken/)  
-*typing on the keyboard, i feel so small* (2024) for harpsichord  
+*typing on the keyboard (unreleased), i feel so small* (2024) for harpsichord  
 Performed by Elina Albach  
 
 **JUNE 22, 2025** | Berlin, Germany @ [Radialsystem](https://www.radialsystem.de/) / [SOMEHOW WE CAN – 12 String Quartets](https://www.radialsystem.de/de/veranstaltungen/somehow-we-can-12-streichquartette/?date=1750608000)  
@@ -68,10 +68,6 @@ Performed by Sanae Yoshida
 *Heidenröslein* (2025) for viola quartet and fixed media  
 Performed by Nefeli Galani, Marc Kopitzki, Laura Hovestadt, Sebastian Steinhilber  
 
-**MAY 12, 2025** | Berlin, Germany @ [Colosseum](https://www.colosseumberlin.com/) / [Condensed Music](https://classicalnext.com/event/condensed-music/)  
-*Super Grape!* (2021) for violin  
-Performed by Orest Smovzh  
-
 **MAY 8, 2025** | Copenhagen, Denmark @ [KOBE](https://www.instagram.com/kobe_cph/) / [(at)world](https://www.instagram.com/at___world/) presents: [Yuri Umemoto(JP), Kamil Dossar & Ryong](https://billetfix.dk/da/e/atworld-presents-yuri-umemotojp-kamil-dossar-ryong/?fbclid=PAZXh0bgNhZW0CMTEAAaeC3r9DOlSkOZfET_jf_MP4x5Aehgrwu2XJHRjNj6VtwH8RSiE3dWtQvIuqEA_aem_JOpfBKqFRk7K14aWvnfQVQ)  
 Performed by Yuri Umemoto  
 
@@ -83,15 +79,9 @@ Performed by [Weird aftertaste](https://www.weirdaftertastemusic.com/)
 *Moe²Girl* (2022) for cello  
 Performed by Robert Wheatley  
 
-**MARCH 30, 2025** | New York, USA @ Ray Wright Room, Eastman School of Music / [OSSIA New Music](https://www.ossianewmusic.org/our-mission)  
-Yuri Umemoto – *SUPERBACHBOY3* (2021)  
-
 **MARCH 29, 2025** | Tokyo, Japan @ Ryogoku Monten Hall / [Yuri Umemoto - Mass](https://www.yuriumemoto.com/0329)  
 Mass: *Kyrie eleison, Christe eleison, Gloria in excelsis Deo, Confiteor* for piano, *Et in terra pax* for piano, violin and cello ...etc. (2025)  
 Performed by Yuri Umemoto, Mai Kawano, Nobuaki Sato, Yuri Yamamoto, Miu Hirai, Ray Takatsuki  
-
-**MARCH 22-30, 2025** | Tokyo, Japan @ [KUMA Gallery](https://kuma-foundation.org/gallery/)  
-Miserere (2025) painting  
 
 **MARCH 21, 2025** | Offenbach, Germany @ [Atelier Wäscherei](https://rausgegangen.de/events/mach-kaputt-was-dich-kaputt-macht-1-kommunikation-0/)  
 *Moe²Girl* (2022) for violin  
@@ -100,18 +90,6 @@ Performed by Lola Rubio, [Broken Frames Syndicate](https://brokenframessyndicate
 **MARCH 16, 2025** | South Creake, Norfolk, UK @ Yorke Trust Benefit Concerts  
 *Moe²Girl* for cello  
 Performed by Robert Wheatley  
-
-**MARCH 8, 2025** | Fiskars, Finland @ [Anna-Maija & Lassi’s Sauna Lodge](https://fiskarsvillage.fi/en/see-and-do/events-and-exhibitions/condensed-music-in-raseborg/)  
-*Super Grape!* for violin  
-Performed by Orest Smovzh  
-
-**FEBRUARY 27, 2025** | Vilnius, Lithuania @ [Naujosios Operos studija](https://g.co/kgs/uJEnvpH)  
-*Super Grape!* for violin  
-[Performed by Orest Smovzh](https://orestsmovzh.bandcamp.com/album/condensed-music-live-from-vilnius-2025)  
-
-**FEBRUARY 26, 2025** | Riga, Latvia @ [TUR TELPA](https://turtelpa.lv/)  
-*Super Grape!* for violin  
-Performed by Orest Smovzh  
 
 **FEBRUARY 7, 2025** | Helsinki, Finland @ [Musica nova Helsinki](https://musicanova.fi/en/)  
 *aug.hocket* for cello and electronics  
@@ -122,12 +100,8 @@ Performed by Markus Hohti, [defunensemble](https://www.defunensemble.fi/en/)
 Performed by Saori Furukawa, [L’Instant Donné](https://www.instantdonne.net/en/ensemble/presentation)  
 
 **JANUARY 19, 2025** | Bonn, Germany @ [Ev. Kirche Oberwinter](https://www.kirchenmusik-oberwinter.de/jahresprogramm-2025.html?fbclid=PAZXh0bgNhZW0CMTEAAab2b88sqKSu9DAV1pqonIF3IC1svzcRvSe2zoinFdsy5sdSVR3JShyIQpo_aem_3Biwe1VpN8kGM3KRZn_j0g)  
-*typing on the keyboard, i feel so small* for harpsichord  
+*typing on the keyboard, i feel so small (unreleased)* for harpsichord  
 Performed by Elina Albach (concert with Liam Byrne)  
-
-**DECEMBER 12, 2024** | Copenhagen, Denmark @ [Mayhem](https://mayhemkbh.dk/)  
-*Super Grape!* for violin  
-Performed by Orest Smovzh  
 
 **DECEMBER 7, 2024** | Tokyo, Japan @ Tokyo Concerts Lab.  
 *Kyrie eleison, Christe eleison, Confiteor* for cello  
@@ -142,12 +116,8 @@ Performed by Robert Wheatley, [Ensemble S201](https://www.ensemble-s201.com/)
 Performed by Robert Wheatley, [Ensemble S201](https://www.ensemble-s201.com/)  
 
 **NOVEMBER 17, 2024** | Yokohama, Japan  
-*shopping mall in landfill* for tenor saxophone  
+*shopping mall in landfill (unreleased)* for tenor saxophone  
 Performed by Hiroshi Suzuki, commissioned by [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/)  
-
-**SEPTEMBER 7, 2024** | Aichi, Japan @ [Nagakute Cultural Center](https://bunkanoie.jp/) / mumyo - euphoria  
-*LOL STREAM, Divinely fuckin Gucci bag, Rest in my friends, McDonald, from Heaven’ NFT for violin and electronics, Ben Nobuto - BREAK-UP MANTRAS (solo violin version, arranged by Yuri Umemoto)*  
-Performed by Tatsuki Narita, Commissioned by Nagakute Cultural Center  
 
 **AUGUST 30, 2024** | Aachen, Germany @ St.-Marien-Kirche / [Köthen Bach Festival](https://www.bachfesttage.de/)  
 *i'm scared of dying. what do i do?* for violin  
@@ -162,10 +132,10 @@ Commissioned by Ryogoku Art Festival, Performed by Takuya Otaki　　
 Commissioned by Ryogoku Art Festival, Performed by Takuya Otaki　　
 
 **JULY 2, 2024** | Tokyo, Japan @ Shibuya PARCO / [SUPER DOMMUNE](https://www.dommune.com/)  
-*[Yuri Umemoto DJ Live](https://www.youtube.com/watch?v=TuJePa_gSS8&t=2074s) feat. Kei Yamazawa and diskslave*  
+*[DJ set](https://www.youtube.com/watch?v=TuJePa_gSS8&t=2074s) feat. Kei Yamazawa and diskslave*  
 
 **JUNE 17, 2024** | Bonn, Germany @ Pantheon Theater / [Beethoven Piano Club](https://beethoven-piano-club.com/)  
-*typing on the keyboard, i feel so small.* for harpsichord  
+*typing on the keyboard, i feel so small. (unreleased)* for harpsichord  
 Commissioned and performed by Elina Albach  
 
 **MAY 29, 2024** | Cologne, Germany @ Alte Feuerwache Köln / [zamus: early music festival](https://www.zamus.de/projects/zamus-early-music-festival)  
@@ -181,7 +151,7 @@ Performed by Jakob Nierenz
 Performed by Jakob Nierenz  
 
 **MARCH 24, 2024** | Aarhus, Denmark @ [AUT](https://autdk.com/)  
-*Moe²Girl*, *МОМОМОМОМОЕМОЕ♡*, *Dempa-chan never dies*, *Plastic Vagina*, *Overwritten Girl - "good night."*, *Song of the Data Angel*, *Overwritten Girl - Overwriting Overwritten Girl*  
+*Moe²Girl*, *МОМОМОМОМОЕМОЕ♡*  
 Performed by Current Resonance  
 
 **MARCH 21, 2024** | Eisenach, Germany @ Bachhaus / [Thüringer Bachwochen](https://www.thueringer-bachwochen.de/) (Thuringia Bach Festival)  
@@ -191,47 +161,6 @@ Performed by Jakob Nierenz, Rothko String Quartet
 **MARCH 15, 2024** | Offenbach, Germany @ Seilerei / [Ein Oratorium für Bach](https://rothkostringquartet.de/de/programme/item/49-love-reacts-only-2)  
 *SUPERBACHBOY* for cello  
 Performed by Jakob Nierenz, Rothko String Quartet  
-
-**DECEMBER 26, 2023** | Kanazawa, Japan @ Kanazawa Citizen's Art Center  
-*Dempa-chan never dies♡* for viola  
-Performed by Yoshiko Hannya  
-
-**NOVEMBER 11-26, 2023** | Tokyo, Japan @ KUMA Foundation / [KUMA experiment 2023-24](https://kuma-foundation.org/exhibition/07/archives/yuri-umemoto/)  
-*Overwritten Girl - "Overwriting Overwritten Girl"*, *Overwritten Girl - "good night."*, *Song of the Data Angel*  
-
-**OCTOBER 28, 2023** | Madrid, Spain @ Auditorio Manuel de Falla / Festival de Jóvenes Guitarristas José Luis Rodrigo  
-*Dawning* for guitar  
-Performed by Luís Miguel Leite  
-
-**AUGUST 29, 2023** | Tokyo, Japan @ [Rakuten Fashion Week TOKYO](https://rakutenfashionweektokyo.com/en/aboutrfwt/) / [pays des fées 2024 S/S](https://www.wwdjapan.com/articles/1633085)  
-*music for fashion show*  
-
-**JUNE 13, 2023** | Tokyo, Japan @ [Tokyo Opera City](https://www.operacity.jp/en/concert/) / B→C  
-*Dempa-chan never dies♡* for viola  
-Commissioned and performed by Ayako Tahara  
-
-**SEPTEMBER 22, 2022** | Tokyo, Japan @ Tokyo Concerts Lab.  
-*Moe²Girl*, *Moe²Girl No.2* for cello  
-Commissioned and performed by Kei Yamazawa  
-
-**MARCH 24, 2022** | Tokyo, Japan @ [The Ueno Royal Museum](https://www.ueno-mori.org/about/?enlang) / [Spring Festival in Tokyo](https://www.tokyo-harusai.com/)  
-*Plastic Vagina* for violin  
-Commissioned and performed by Tatsuki Narita  
-
-**FEBRUARY 18-27, 2022** | Tokyo, Japan @ [METEOR](https://super-meteor.com/) / Yuri Umemoto 'Phone Music'  
-*050-5445-5449*, *050-5445-5448*, *050-5857-9289*  
-Collaboration with [Lee Kan Kyo](https://leekankyo.com/)  
-
-**APRIL 2, 2021** | Tokyo, Japan @ Panasonic Center Tokyo / [Endless Imaginary](https://rhizomatiks.com/s/event/endlessimaginary/)  
-Talk event with [Rhizomatiks](https://rhizomatiks.com/)  
-
-**OCTOBER 21, 2020** | Tokyo, Japan @ Tokyo Concerts Lab.  
-*SUPERBACHBOY* for cello  
-Commissioned and performed by Kei Yamazawa  
-
-**SEPTEMBER 28, 2019** | Tokyo, Japan @ Tokyo Metropolitan Theater / Born Creative Festival  
-*Euangelion* for guitar  
-Performed by Norio Sato  
 
  <br> 
 
