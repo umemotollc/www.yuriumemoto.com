@@ -8,10 +8,7 @@ permalink: events/
 
 **MAY 16, 2026** | Munich, Germany @ [Munich Biennale (Münchener Biennale)](https://www.muenchener-biennale.de/en/programm/kalender/crypt)  
 *crypt_* (2025-26) (opera / music theatre)  
-Composition, text: Yuri Umemoto, Libretto: Gareth Mattey  
-Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien  
-Co-production by [Münchener Biennale](https://www.muenchener-biennale.de/en) and [Ultima Oslo Contemporary Music Festival](https://www.ultima.no/en/), [Oslo Sinfonietta](https://www.oslosinfonietta.no/), [Black Box teater Oslo](https://blackbox.no/en/) and [Klang Festival Kopenhagen](https://klang.dk/en).  
-Composition & libretto commissioned by the City of Munich for the Münchener Biennale.  
+Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale.  
 
 **DECEMBER, 2025** | Lausanne, Switzerland @ [Les Urbaines](https://urbaines.ch/en)  
 More details coming soon  
