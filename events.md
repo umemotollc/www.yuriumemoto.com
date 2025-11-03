@@ -3,11 +3,6 @@ title: events
 category: page
 permalink: events/
 ---
-<small>[[live & exhibitions](#anchor1)]</small>
-<small>[[media](#anchor2)]</small> 
-
-<a id="anchor1"></a>
-
 **MAY 17, 2026** | Munich, Germany @ [Munich Biennale (Münchener Biennale)](https://www.muenchener-biennale.de/en/programm/kalender/crypt)  
 *crypt_* (2025-26) (opera / music theatre)  
 
@@ -157,79 +152,3 @@ Performed by Jakob Nierenz, Rothko String Quartet
 **MARCH 15, 2024** | Offenbach, Germany @ Seilerei / [Ein Oratorium für Bach](https://rothkostringquartet.de/de/programme/item/49-love-reacts-only-2)  
 *SUPERBACHBOY* for cello  
 Performed by Jakob Nierenz, Rothko String Quartet  
-
- <br> 
-
-<a id="anchor2"></a>
-
-**media**  
-
-**JULY 22, 2025** | Germany @ [rbb, Radio 3](https://www.radiodrei.de/)  
-[Concert Introduction by Elina Albach](https://www.radiodrei.de/programm/schema/sendungen/klassik_bis_zwei/archiv/20250722_1000/gast_1210.html)  
-
-**JUNE 15, 2025** | UK @ [RTM.FM](https://rtm.fm/)  
-*be quiet* was mixed on [seek refuge](https://rtm.fm/listen/seek-refuge/) by Robbie Guthrie  
-
-**FEBRUARY 4, 2025** | Denmark, Copenhagen @ [Passive/Aggressive](https://passiveaggressive.dk/)  
-*but…you’re a minor, right?* was mixed on [Soli City –
-Musik mellem det smukke og det eerie (interview og mix)](https://passiveaggressive.dk/soli-city-musik-mellem-det-smukke-og-det-eerie/)  
-
-**DECEMBER 6, 2024** | Denmark, Copenhagen @ [Retreat Radio](https://www.retreatradio.net/)  
-*look at me, senpai*  was mixed on [REAL LIVE RADIO](https://www.retreatradio.net/real-live-radio) [#7 w/ Ryong](https://soundcloud.com/retreatradio/real-live-radio-7)
-
-**NOVEMBER 4, 2024** | France @ Radio Campus Paris (93.9 FM)  
-*Super Grape!* was mixed on [Absence!](https://www.radiocampusparis.org/emission/99P-absence/RPKL-absence-04112024)  
-
-**SEPTEMBER 25, 2024** | UK @ NTS Radio  
-*look at me, senpai*  was mixed on [Posh Isolation](https://www.nts.live/shows/posh-isolation/episodes/posh-isolation-25th-september-2024), curated by Loke Rahbek (Croatian Amor) and Soli City  
-
-**JULY 11, 2024** | Japan @ 中日新聞  
-[Long Interview with Yuri Umemoto](https://www.chunichi.co.jp/article/924718)  
-
-**JUNE 18, 2024** | Germany @ General-Anzeiger  
-[Review of *typing on the keyboard, i feel so small.*](https://ga.de/news/kultur-und-medien/regional/rueckkehr-zu-bach-mit-elina-albach_aid-114638937) – Premiered in Bonn by Elina Albach  
-
-**JUNE, 2024** | Japan @ 東京バッハ合唱団 月報  
-[Review of "SUPERBACHBOY" at the Thuringia Bach Festival by Junko Sonoda](http://www.bachchor-tokyo.jp/monthly_newsletter/pdf/mon744_202406.pdf)  
-
-**DECEMBER 25, 2023** | Japan @ 音楽之友社  
-[Publication of *Tokyo Syncopation (トーキョー・シンコペーション)*](https://www.ongakunotomo.co.jp/catalog/detail.php?id=210130) – Chapter 14 focuses on Yuri Umemoto  
-
-**NOVEMBER 12, 2023** | Germany @ Hessischer Rundfunk Frankfurt (hr2)  
-*MOMOMOMOEMOE♡* was mixed on [The Artist’s Corner](https://www.hr2.de/programm/sendezeiten/the-artists-corner--johannes-s-sistermanns---soundcard-nagoya,epg-the-artists-corner-736.html)  
-
-**SEPTEMBER 8, 2023** | UK @ Resonance FM  
-*Moe²Girl* was mixed on [mixtape by Ben Nobuto](https://www.mixcloud.com/Resonance/the-sampler-mixtape-61-ben-nobuto/)  
-
-**JULY 8, 2023** | Japan @ テレビ朝日  
-*Daimei no Nai Ongaku Kai – Koto Artist LEO Special*  
-
-**JULY 2023** | Japan @ 音楽之友社  
-*Record Art (レコード芸術)* – Final Issue  
-
-**APRIL 2023** | Japan @ 音楽之友社  
-*Band Journal (バンド・ジャーナル)* / *Record Art (レコード芸術)*  
-
-**MARCH 4, 2023** | Japan @ テレビ朝日  
-*Daimei no Nai Ongaku Kai – Ryuichi Sakamoto Special (2800th Episode)*  
-
-**OCTOBER 30, 2022** | Japan @ NHK-FM  
-*Moe²Girl* was mixed on *現代の音楽*  
-
-**2022** | Japan  
-*Talking Heads Series (トーキングヘッズ叢書) No.92* / *Eureka (ユリイカ)* – April Issue / *Ongaku no Tomo (音楽の友)* – May Issue / *intoxicate* – April Issue / *Tokyojin (東京人)* – April Issue / *FASHIONSNAP.COM*  
-
-**DECEMBER 8, 2021** | Japan @ 朝日新聞  
-Evening Edition (愛知版夕刊)  
-
-**DECEMBER 7, 2021** | Japan @ 中日新聞  
-Evening Edition  
-
-**JANUARY 11, 2021** | Japan @ 中日新聞  
-Evening Edition  
-
-**OCTOBER 9, 2020** | UK @ BBC  
-*Psychedelic Candy* for clarinet – [Performed by Yann Ghiro – Clarinet, BBC Scottish Symphony Orchestra](https://www.bbc.co.uk/programmes/p08tvn82)
-
-**SEPTEMBER 2020** | Japan @ 産経新聞社  
-*MOSTLY CLASSIC*  
