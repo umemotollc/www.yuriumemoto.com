@@ -91,10 +91,6 @@ Performed by Lola Rubio, [Broken Frames Syndicate](https://brokenframessyndicate
 *Moe²Girl* for cello  
 Performed by Robert Wheatley  
 
-**FEBRUARY 7, 2025** | Helsinki, Finland @ [Musica nova Helsinki](https://musicanova.fi/en/)  
-*aug.hocket* for cello and electronics  
-Performed by Markus Hohti, [defunensemble](https://www.defunensemble.fi/en/)  
-
 **JANUARY 26, 2025** | Paris, France @ Théâtre l'Echangeur - Bagnolet / [LE DERNIER DIMANCHE DU MOIS #63](https://www.instantdonne.net/content/home/dddm-63_janv.pdf)  
 *MOMOMOMOMOEMOE♡* for violin  
 Performed by Saori Furukawa, [L’Instant Donné](https://www.instantdonne.net/en/ensemble/presentation)  
