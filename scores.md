@@ -14,7 +14,7 @@ Order: desk@umemoto.org (email)
 **Orchestra score** ¥10,000  
 **+Audio/Video** ¥2,000  
 
-People aged 23 or under with financial difficulty can get the score for free.  
-Send name, use, school, and score to desk@umemoto.org.  
+People aged 23 or under with financial difficulty can get a score for free.  
+Send name, purpose, (school if any), and score to desk@umemoto.org.  
 
 <img src="https://www.yuriumemoto.com/pics/lost_sheep.png" alt="lost_sheep" width="150">  
