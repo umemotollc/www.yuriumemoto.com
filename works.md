@@ -23,30 +23,8 @@ for violin, cello and fixed media (2025)
 **[goodbye](https://youtu.be/aX8Uu85CPoI?si=ryjQz5JCEvqMsQCC)**  
 for shō and fixed media (2025)
 
-**[Qui sedes](https://youtu.be/peJE0L2dwjY)**  
-for violin, cello, piano and fixed media (2025)
-
-**[Laudamus te](https://youtu.be/AXXq4kSuWUg)**  
-for violin, cello and fixed media (2024)
-
-**[Et interra pax](https://youtu.be/ITQILA2tVlc)**  
-for violin, cello, piano and fixed media (2024)
-
-**[Gloria in excelsis Deo](https://youtu.be/vAVecQvKBJo)**  
-for any instrument(s) and fixed media (2024)  
-version for piano
-
-**[Christe eleison](https://youtu.be/rsQs0Q_mK2c)**  
-for any instrument(s) and fixed media (2024)  
-versions for piano or cello
-
-**[Kyrie eleison](https://youtu.be/nBXh8UH_2V8)**  
-for any instrument(s) and fixed media (2024)  
-versions for piano or cello
-
-**[Confiteor](https://youtu.be/EeS8XX4lmeM)**  
-for any instrument(s) and fixed media (2024)  
-versions for piano or cello
+**[Mass](https://www.youtube.com/watch?v=nBXh8UH_2V8&list=PLoHLPXbpY3JfxjGjAK54-6xt0r9p5YHY-)**  
+(2024)
 
 **[look at me, senpai](https://youtu.be/gCjOS_-_WLc?si=yb2C1UjMpIIn2t-s)**  
 for violin, cello and fixed media (2024)
@@ -57,35 +35,11 @@ for harpsichord (2024)
 **[I don't love you...Senpai.](https://www.youtube.com/watch?v=z_axOeS6H24&t=29s)**  
 for snare drum and electronics (2024)
 
-**[Overwritten Girl - “Overwriting Overwritten Girl”](https://youtu.be/vyrg_JCydHA?si=oasoWY3JBzqe0TiK)**  
-videogram (2023)
-
-**[Overwritten Girl - “good night.”](https://youtu.be/TfjUW81PZ-w?si=IiuDxSCQq_UAfAAR)**  
-videogram (2023)
-
-**[Song of the Data Angel](https://youtu.be/0X3MOmN9_KU?si=7nCDoemMPlukoyiR)**  
-videogram (2023)
-
-**[but...you're a minor, right?](https://youtu.be/0-B_Yw17b0k?si=_nPHYjKICoqUD4cd)**  
-for piano and fixed media (2023)
-
 **[i'm scared of dying. what do i do?](https://youtu.be/FHZgv7qcewc?si=jsd0hVsV4mZFUYhf)**  
 for violin (2023)  
 
-**[Copy and paste, mass produced/consumed irregular/imperfectly shaped plastic pearls and Me.](https://youtu.be/_ezdfHcVnOE?si=U3D3QKFJzFSQzSJ8)**  
+**[Copy and paste, mass produced/ consumed irregular/ imperfectly shaped plastic pearls and Me.](https://youtu.be/_ezdfHcVnOE?si=U3D3QKFJzFSQzSJ8)**  
 for violin (2023)  
-
-**[Embellish Me!](https://youtu.be/IgFRV0ZTsuw?si=orD_mcHEZbKSWu_8)**  
-for violin (2023)  
-
-**[Alice in Abandoned Akihabara No.1, No.2](https://youtu.be/IgFRV0ZTsuw?si=orD_mcHEZbKSWu_8)**  
-for violin (2023)  
-
-**[Melt Me!](https://youtu.be/IgFRV0ZTsuw?si=orD_mcHEZbKSWu_8)**  
-for violin (2023)
-
-**[What the hell are you doing?!](https://youtu.be/j-utfdxtvcI?si=AF42vSGbZihbyXmA)**  
-videogram (2023)
 
 **[Moe²Girl No.2](https://youtu.be/sFESuZJ9-jg?si=vCdv2LMcqUHT8I-g)**  
 for any instrument(s) and fixed media (2022)  
@@ -97,9 +51,6 @@ versions for piano, violin, cello, or violin-cello
 
 **[MOMOMOMOMOEMOE♡](https://youtu.be/KMLexWsqGdM?si=WI_QyOEnwGd75L56)**  
 for violin (2021)
-
-**[SUPERBACHBOY 3](https://youtu.be/EKFb66A6bdM?si=bXH3B90oU8qeHeKL)**  
-for cello and electronics (2021)
 
 **[SUPERBACHBOY](https://youtu.be/OdEGftdC2jE?si=_CZ0JMYJbBmp-BZN)**  
 for cello (2020)
