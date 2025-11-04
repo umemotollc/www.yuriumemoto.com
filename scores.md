@@ -12,7 +12,7 @@ Order: desk@umemoto.org (email)
 **Duo score  ¥6,000**  
 **Ensemble score  ¥8,000**  
 **Orchestra score  ¥10,000**  
-**+Audio/Video  ¥2,000**  
+**Audio  ¥2,000**  
 
 People aged 23 or under with financial difficulty can get a score for free.  
 Send your name, purpose, (school if any), and the piece you’d like to desk@umemoto.org.  
