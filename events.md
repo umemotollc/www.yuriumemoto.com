@@ -28,6 +28,10 @@ DJ set
 *Fluffy Pink!* (2020) for string quartet  
 Will be performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
 
+**NOVEMBER 21, 2025** | Oslo, Norway @ [Tøyen Kirke](https://maps.app.goo.gl/LW9m93jicDqepcBh8?g_st=ipc)  
+Mass: *Confiteor* (2024) for piano and fixed media  
+Will be performed by Sanae Yoshida  
+
 **NOVEMBER 5, 2025** | Manchester, UK @ [The Whiskey Jar](https://www.instagram.com/whiskeyjarnq?igsh=MThteDB0c3E0bHhkZQ==)  
 *Moe²Girl* (2022) for cello  
 Performed by Robert Wheatley  
