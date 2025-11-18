@@ -10,8 +10,9 @@ permalink: events/
 *crypt_* (2025-26) (opera / music theatre)  
 Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale.  
 
-**DECEMBER, 2025** | Lausanne, Switzerland @ [Les Urbaines](https://urbaines.ch/en)  
-More details coming soon  
+**DECEMBER 6, 2025** | Lausanne, Switzerland @ Ex-cinéma Eldorado / [Les Urbaines](https://urbaines.ch/en/program/yuri-umemoto)  
+Works for violin and cello
+Will be performed by William Overcash (violin), Mikołaj Piszczorowicz (cello)
 
 **NOVEMBER 30, 2025** | Copenhagen, Denmark @ [MINU Festival](https://minufestival.com/prog_Speedrunning)  
 *SUPERBACHBOY* (2020) for cello, *SUPERBACHBOY3* (2021) for cello and electronics  
