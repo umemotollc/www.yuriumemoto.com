@@ -33,7 +33,7 @@ Will be performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/
 Mass: *Confiteor* (2024) for piano and fixed media  
 Will be performed by Sanae Yoshida  
 
-**NOVEMBER 21, 2025** | Berlin, Germany @ Café Schätzchen  
+**NOVEMBER 20, 2025** | Berlin, Germany @ Café Schätzchen  
 Mass: ＊Alice in Abandoned Akihabara 1* (2023) for viola and fixed media  
 Will be performed by Ildiko Ludwig  
 
