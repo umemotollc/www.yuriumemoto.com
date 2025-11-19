@@ -41,7 +41,7 @@ for violin (2023)
 **[Copy and paste, mass produced/ consumed irregular/ imperfectly shaped plastic pearls and Me.](https://youtu.be/_ezdfHcVnOE?si=U3D3QKFJzFSQzSJ8)**  
 for violin (2023)  
 
-＊＊Alice in Abandoned Akihabara 1,2＊＊  
+**Alice in Abandoned Akihabara 1,2**  
 for violin or viola (2023)  
 
 **[Moe²Girl No.2](https://youtu.be/sFESuZJ9-jg?si=vCdv2LMcqUHT8I-g)**  
