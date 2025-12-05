@@ -10,32 +10,36 @@ permalink: events/
 *crypt_* (2025-26) (opera / music theatre)  
 Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale.  
 
+**JANUARY 29, 2029 | Helsinki, Finland @ Camerata, Musiikkitalo / [Ro­bert Fleitz – (Auto)bio­grap­hy of Sty­le](https://www.uniarts.fi/tapahtumat/robert-fleitz-autobiography-of-style/) (Robert Fleitz’s doctoral concert)  
+*Mass* for piano and fixed media (2024-2025)  
+Will be performed by Ro­bert Fleitz  
+
 **DECEMBER 6, 2025** | Lausanne, Switzerland @ Ex-cinéma Eldorado / [Les Urbaines](https://urbaines.ch/en/program/yuri-umemoto)  
 Works for violin, cello and fixed media (2024-2025)  
 Will be performed by William Overcash (violin), Mikołaj Piszczorowicz (cello)  
 
 **NOVEMBER 30, 2025** | Copenhagen, Denmark @ [MINU Festival](https://minufestival.com/prog_Speedrunning)  
 *SUPERBACHBOY* (2020) for cello, *SUPERBACHBOY3* (2021) for cello and electronics  
-Will be performed by Current Resonance and Alexandra Hallén (cello)  
+Performed by Current Resonance and Alexandra Hallén (cello)  
 
 **NOVEMBER 30, 2025** | Köln, Germany @ [KLAENG Festival 2025](https://stadtgarten.de/programm/klaeng-festival-2025-9326)  
 *typing on the keyboard, i feel so small* (2024) for harpsichord  
-Will be performed by Elina Albach  
+Performed by Elina Albach  
 
 **NOVEMBER 28, 2025** | Copenhagen, Denmark @ [MINU Festival](https://huset.kk.dk/en/events/minufestivalforexpandedmusic-2025/yuri-umemoto)  
 DJ set
 
 **NOVEMBER 23, 2025** | Berlin, Germany @ [Sammlung Hoffmann](https://sammlung-hoffmann.de/en/) / [SOMEHOW WE CAN – 12 String Quartets](https://kaleidoskopmusik.de/en/projects/somehow-we-can)  
 *Fluffy Pink!* (2020) for string quartet  
-Will be performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
+Performed by [Solistenensemble Kaleidoskop](https://kaleidoskopmusik.de/en/)  
 
 **NOVEMBER 21, 2025** | Oslo, Norway @ [Tøyen Kirke](https://maps.app.goo.gl/LW9m93jicDqepcBh8?g_st=ipc)  
 Mass: *Confiteor* (2024) for piano and fixed media  
-Will be performed by Sanae Yoshida  
+Performed by Sanae Yoshida  
 
 **NOVEMBER 20, 2025** | Berlin, Germany @ Café Schätzchen  
 Mass: *Alice in Abandoned Akihabara 1* (2023) for viola and fixed media  
-Will be performed by Ildiko Ludwig  
+Performed by Ildiko Ludwig  
 
 **NOVEMBER 5, 2025** | Manchester, UK @ [The Whiskey Jar](https://www.instagram.com/whiskeyjarnq?igsh=MThteDB0c3E0bHhkZQ==)  
 *Moe²Girl* (2022) for cello  
