@@ -10,7 +10,7 @@ permalink: events/
 *crypt_* (2025-26) (opera / music theatre)  
 Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale.  
 
-**JANUARY 29, 2029 | Helsinki, Finland @ Camerata, Musiikkitalo / [Ro­bert Fleitz – (Auto)bio­grap­hy of Sty­le](https://www.uniarts.fi/tapahtumat/robert-fleitz-autobiography-of-style/) (Robert Fleitz’s doctoral concert)  
+**JANUARY 29, 2026** | Helsinki, Finland @ Camerata, Musiikkitalo / [Ro­bert Fleitz – (Auto)bio­grap­hy of Sty­le](https://www.uniarts.fi/tapahtumat/robert-fleitz-autobiography-of-style/) (Robert Fleitz’s doctoral concert)  
 *Mass* for piano and fixed media (2024-2025)  
 Will be performed by Ro­bert Fleitz  
 
