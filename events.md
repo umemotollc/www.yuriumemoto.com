@@ -16,7 +16,7 @@ Will be performed by Ro­bert Fleitz
 
 **DECEMBER 6, 2025** | Lausanne, Switzerland @ Ex-cinéma Eldorado / [Les Urbaines](https://urbaines.ch/en/program/yuri-umemoto)  
 Works for violin, cello and fixed media (2024-2025)  
-Will be performed by William Overcash (violin), Mikołaj Piszczorowicz (cello)  
+Performed by William Overcash (violin), Mikołaj Piszczorowicz (cello)  
 
 **NOVEMBER 30, 2025** | Copenhagen, Denmark @ [MINU Festival](https://minufestival.com/prog_Speedrunning)  
 *SUPERBACHBOY* (2020) for cello, *SUPERBACHBOY3* (2021) for cello and electronics  
