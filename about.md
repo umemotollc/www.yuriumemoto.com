@@ -13,4 +13,4 @@ Recent performances include a portrait concert at Les Urbaines Festival, Lausann
 
 (Snobby bios exist for wiki-maniacs—like a tiny golf trophy your grandpa, forever stuck in a time loop, keeps dusting on his shelf. And somehow, he’s in my heart too).　　
 
-<img src="https://www.yuriumemoto.com/pics/trophy.PNG" alt="trophy.PNG" width="150">  
+<img src="https://www.yuriumemoto.com/pics/trophy.PNG" alt="trophy.PNG" width="190">  
