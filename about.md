@@ -11,6 +11,4 @@ Upcoming project is the new opera [*crypt_*](https://www.muenchener-biennale.de/
 
 Recent performances include a portrait concert at Les Urbaines Festival, Lausanne, Switzerland (2025); at Radialsystem and Sammlung Hoffmann, Berlin, Germany, performed by Solistenensemble Kaleidoskop (2025); at Kings Place, London, UK, performed by Brother Tree Sound (2025); PODIUM Esslingen Festival, Germany (2024–2025); and Thüringer Bachwochen, Germany (2024). 
 
-Snobby bios exist for wiki-maniacs—like a tiny golf trophy your grandpa. And somehow, he’s in my heart too.  
-
 <img src="https://www.yuriumemoto.com/pics/trophy.png" alt="trophy.png" width="170">  
