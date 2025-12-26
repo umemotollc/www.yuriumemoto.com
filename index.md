@@ -7,7 +7,7 @@ layout: home
 <a href="/contact">contact</a>&nbsp;&nbsp;
 <a href="/scores">scores</a>&nbsp;&nbsp;
 <a href="/disclaimer/">disclaimer</a>&nbsp;&nbsp;
-<br/>  
+<br/><br/>  
 1.  
 <img src="https://www.yuriumemoto.com/pics/20250824.jpg" alt="portrait" width="200">  
 2.  
