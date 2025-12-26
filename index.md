@@ -3,10 +3,10 @@ layout: home
 # title: Yuri Umemoto
 ---
 
-<a href="/about">about</a>&nbsp;&nbsp;  
-<a href="/contact">contact</a>&nbsp;&nbsp;  
-<a href="/scores">scores</a>&nbsp;&nbsp;  
-<a href="/disclaimer/">disclaimer</a>&nbsp;&nbsp;  
+♩&nbsp;<a href="/about">about</a>&nbsp;&nbsp;  
+♫&nbsp;<a href="/contact">contact</a>&nbsp;&nbsp;  
+♪&nbsp;<a href="/scores">scores</a>&nbsp;&nbsp;  
+♬&nbsp;<a href="/disclaimer/">disclaimer</a>&nbsp;&nbsp;  
 <br/><br/>  
 1.  
 <img src="https://www.yuriumemoto.com/pics/20250824.jpg" alt="portrait" width="200">  
