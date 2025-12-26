@@ -343,8 +343,3 @@ button.nav-toggle {
 .home a:focus-visible::after {
   width: 100%;
 }
-
-/* index (/) のときだけ site-title を非表示 */
-body:has(link[rel="canonical"][href$="/"]) .site-title {
-  display: none !important;
-}
