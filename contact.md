@@ -1,6 +1,5 @@
 ---
 style: page
-layout: page-back
 title: contact
 ---
 Management & Bookings  
