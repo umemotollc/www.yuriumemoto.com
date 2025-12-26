@@ -3,6 +3,7 @@ layout: home
 # title: Yuri Umemoto
 body_class: is-home
 ---
+<style>.site-header .site-title{display:none!important;}</style>
 
 <a href="/about">about</a>&nbsp;&nbsp;  
 <a href="/contact">contact</a>&nbsp;&nbsp;  
