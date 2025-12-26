@@ -16,5 +16,3 @@ Order: desk@umemoto.org (email)
 
 People aged 23 or under with financial difficulty can get a score for free.  
 Send your name, purpose, (school if any), and the piece you’d like to desk@umemoto.org.  
-
-<img src="https://www.yuriumemoto.com/pics/lost_sheep.png" alt="lost_sheep" width="150">  
