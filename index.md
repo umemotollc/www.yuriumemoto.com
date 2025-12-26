@@ -1,6 +1,7 @@
 ---
 layout: home
 # title: Yuri Umemoto
+body_class: is-home
 ---
 
 <a href="/about">about</a>&nbsp;&nbsp;  
