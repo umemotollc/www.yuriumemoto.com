@@ -344,9 +344,7 @@ button.nav-toggle {
   width: 100%;
 }
 
-/* ============================
-   index(home)だけサイトタイトルを非表示
-   ============================ */
-body.home .site-title {
+/* index (/) のときだけ site-title を非表示 */
+body:has(link[rel="canonical"][href$="/"]) .site-title {
   display: none !important;
 }
