@@ -343,3 +343,8 @@ button.nav-toggle {
 .home a:focus-visible::after {
   width: 100%;
 }
+
+/* トップページだけサイトタイトルを非表示（要素は残す） */
+body.is-home .site-header .site-title {
+  display: none !important;
+}
