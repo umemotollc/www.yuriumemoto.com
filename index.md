@@ -8,13 +8,18 @@ layout: home
 ♬ &nbsp;<a href="/scores">scores</a>&nbsp;&nbsp;
 ♩ &nbsp;<a href="/disclaimer/">disclaimer</a>&nbsp;&nbsp;
 <br/>  
+1.  
 <img src="https://www.yuriumemoto.com/pics/20250824.jpg" alt="portrait" width="200">  
-Sunday  
+Sunday<br>
+2.  
 <img src="https://www.yuriumemoto.com/pics/20251118.jpg" alt="portrait" width="200">  
-Monday  
+Monday<br>
+3.  
 <img src="https://www.yuriumemoto.com/pics/20251116.jpg" alt="portrait" width="200">  
-Tuesday  
+Tuesday<br>
+6.  
 <img src="https://www.yuriumemoto.com/pics/20250822.jpeg" alt="portrait" width="200">  
-Friday  
+Friday<br>
+7.  
 <img src="https://www.yuriumemoto.com/pics/20250831.jpg" alt="portrait" width="200">  
-Saturday  
+Saturday<br>
