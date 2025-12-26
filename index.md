@@ -1,6 +1,5 @@
 ---
-layout: home
-title: false
+layout: home-no-title
 ---
 
 <a href="/about">about</a>&nbsp;&nbsp;  
