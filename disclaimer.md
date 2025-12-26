@@ -1,5 +1,4 @@
 ---
-layout: page-back
 title: disclaimer
 permalink: /disclaimer/
 ---
