@@ -343,3 +343,10 @@ button.nav-toggle {
 .home a:focus-visible::after {
   width: 100%;
 }
+
+/* ============================
+   index(home)だけサイトタイトルを非表示
+   ============================ */
+body.home .site-title {
+  display: none !important;
+}
