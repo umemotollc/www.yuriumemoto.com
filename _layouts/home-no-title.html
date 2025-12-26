@@ -1,8 +1,14 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
 
-<!-- site-header を呼ばない -->
-<main class="page-content" aria-label="Content">
-  {{ content }}
-</main>
+  <body>
+    <!-- header を呼ばない -->
+
+    <main class="page-content" aria-label="Content">
+      {{ content }}
+    </main>
+
+    {%- include footer.html -%}
+  </body>
+</html>
