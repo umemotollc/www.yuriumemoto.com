@@ -10,16 +10,11 @@ layout: home
 <br/>  
 <img src="https://www.yuriumemoto.com/pics/20250824.jpg" alt="portrait" width="200">  
 Sunday  
-<br/>  
 <img src="https://www.yuriumemoto.com/pics/20251118.jpg" alt="portrait" width="200">  
 Monday  
-<br/>  
 <img src="https://www.yuriumemoto.com/pics/20251116.jpg" alt="portrait" width="200">  
 Tuesday  
-<br/>  
 <img src="https://www.yuriumemoto.com/pics/20250822.jpeg" alt="portrait" width="200">  
 Friday  
-<br/>  
 <img src="https://www.yuriumemoto.com/pics/20250831.jpg" alt="portrait" width="200">  
 Saturday  
-<br/>  
