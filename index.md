@@ -2,9 +2,14 @@
 layout: home
 # title: Yuri Umemoto
 ---
-♩ &nbsp;<a href="/about">about</a><br>
-♪ &nbsp;<a href="/events/">events</a><br>
-♫ &nbsp;<a href="/concerts/">concerts</a><br>
-♬ &nbsp;<a href="/scores">scores</a><br>
-♩ &nbsp;<a href="/contact">contact</a><br>
-♪ &nbsp;<a href="/disclaimer/">disclaimer</a>
+
+♩ &nbsp;<a href="/about">about</a>&nbsp;&nbsp;
+♪ &nbsp;<a href="/scores">scores</a>&nbsp;&nbsp;
+♬ &nbsp;<a href="/contact">contact</a>&nbsp;&nbsp;
+♩ &nbsp;<a href="/disclaimer/">disclaimer</a>&nbsp;&nbsp;
+<br/>  
+<img src="https://www.yuriumemoto.com/pics/20250824.jpg" alt="portrait" width="200">  
+<img src="https://www.yuriumemoto.com/pics/20251118.jpg" alt="portrait" width="200">  
+<img src="https://www.yuriumemoto.com/pics/20251116.jpg" alt="portrait" width="200">  
+<img src="https://www.yuriumemoto.com/pics/20250822.jpeg" alt="portrait" width="200">  
+<img src="https://www.yuriumemoto.com/pics/20250831.jpg" alt="portrait" width="200">  
