@@ -15,4 +15,4 @@ Order: desk@umemoto.org (email)
 **Audio  ¥2,000**  
 
 People aged 23 or under with financial difficulty can get a score for free.  
-Send your name, purpose, (school if any), and the piece you’d like to desk@umemoto.org.  
+Send your name, purpose, (school if any), and the piece you’d like to desk@umemoto.org  
