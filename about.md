@@ -8,6 +8,6 @@ Upcoming project is the new opera [*crypt_*](https://www.muenchener-biennale.de/
 
 2026 Residency Fellow, [Akademie Schloss Solitude](https://www.akademie-solitude.de/en/person/yuri-umemoto/), Stuttgart, Germany  
 
-Recent performances include a portrait concert at Les Urbaines Festival, Lausanne, Switzerland (2025); at Radialsystem and Sammlung Hoffmann, Berlin, Germany, performed by Solistenensemble Kaleidoskop (2025); at Kings Place, London, UK, performed by Brother Tree Sound (2025); PODIUM Esslingen Festival, Germany (2024–2025); and Thüringer Bachwochen, Germany (2024).  
+Recent performances include a portrait concert at Les Urbaines, Lausanne, Switzerland (2025); at Radialsystem and Sammlung Hoffmann, Berlin, Germany, performed by Solistenensemble Kaleidoskop (2025); at Kings Place, London, UK, performed by Brother Tree Sound (2025); PODIUM Esslingen, Germany (2024–2025); and Thüringer Bachwochen, Germany (2024).  
 <br>
 <img src="https://www.yuriumemoto.com/pics/YURI_2025_CPH.jpeg" alt="portrait" width="200">  
