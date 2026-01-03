@@ -2,7 +2,7 @@
 title: about
 permalink: /about/
 ---
-Yuri Umemoto (b.2002) is a composer born in Tokyo/Japan, whose work is performed in Europe. His music is built through notation, recording, and editing, often incorporating recorded voices and songs, and blending a naive approach to language with influences from commercial anime and consumer culture, while weaving in meditative instrumental sounds. He creates works ranging from stage performances to recordings. His practice spans classical and contemporary music/art, as well as club, experimental, ambient, and pop music scenes.
+Yuri Umemoto (b.2002) is a composer born in Tokyo. His music is built through notation, recording, and editing, often incorporating recorded voices and songs, and blending a naive approach to language with influences from commercial anime and consumer culture, while weaving in meditative instrumental sounds. He creates works ranging from stage performances to recordings. His practice spans classical and contemporary music/art, as well as club, experimental, ambient, and pop music scenes.
 
 Upcoming project is the new opera [*crypt_*](https://www.muenchener-biennale.de/en/programm/kalender/crypt), commissioned by the Münchener Biennale. The work is a co-production with the Münchener Biennale, Ultima Oslo Contemporary Music Festival, Oslo Sinfonietta, Black Box teater Oslo, and Klang Festival Kopenhagen.  
 
