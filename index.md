@@ -14,10 +14,10 @@ layout: home-no-title
 3.  
 <img src="https://www.yuriumemoto.com/pics/20251116.jpg" alt="portrait" width="200">  
 4.  
-<img src="https://www.yuriumemoto.com/pics/20250822.jpeg" alt="portrait" width="200">  
+?  
 5.  
 ?  
 6.  
-?  
+<img src="https://www.yuriumemoto.com/pics/20250822.jpeg" alt="portrait" width="200">  
 7.  
 <img src="https://www.yuriumemoto.com/pics/20250831.jpg" alt="portrait" width="200">
