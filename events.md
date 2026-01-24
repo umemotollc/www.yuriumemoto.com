@@ -14,6 +14,10 @@ Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean B
 *Mass* for piano and fixed media (2024-2025)  
 Will be performed by Ro­bert Fleitz  
 
+**JANUARY 21, 2026 | Brussels, Belgium @ Kiosk Radio
+/ [Isengard w/ Yuri Umemoto & Ozgur Kaya (live)](https://kioskradio.com/episode/2026-01-21/isengard-w-yuri-umemoto-and-ozgur-kaya-live)  
+live and DJ set  
+
 **DECEMBER 6, 2025** | Lausanne, Switzerland @ Ex-cinéma Eldorado / [Les Urbaines](https://urbaines.ch/en/program/yuri-umemoto)  
 Works for violin, cello and fixed media (2024-2025)  
 Performed by William Overcash (violin), Mikołaj Piszczorowicz (cello)  
