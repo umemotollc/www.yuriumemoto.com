@@ -17,7 +17,7 @@ Will be performed by Ro­bert Fleitz
 **JANUARY 26, 2026** | London, UK @ Cafe Oto / [KIOSK RADIO PRESENTS: FELICITY J LORD (LIVE)](https://www.cafeoto.co.uk/events/kiosk-radio-jan-26/)  
 Live w/ [FELICITY J LORD](https://www.instagram.com/felicityj.lord/)  
 
-**JANUARY 25, 2029** | Tokyo, Japan @ Ryogoku Monten Hall  
+**JANUARY 25, 2026** | Tokyo, Japan @ Ryogoku Monten Hall  
 Mass: *Confiteor* (2024) for piano and fixed media  
 [Performed by Nobuaki Satoh](https://teket.jp/15964/58444?utm_source=ig)  
 
