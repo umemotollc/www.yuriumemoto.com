@@ -21,8 +21,10 @@ Live w/ [FELICITY J LORD](https://www.instagram.com/felicityj.lord/)
 Mass: *Confiteor* (2024) for piano and fixed media  
 [Performed by Nobuaki Satoh](https://teket.jp/15964/58444?utm_source=ig)  
 
-**JANUARY 21, 2026** | Brussels, Belgium @ Kiosk Radio
-/ [Isengard w/ Yuri Umemoto & Ozgur Kaya (live)](https://kioskradio.com/episode/2026-01-21/isengard-w-yuri-umemoto-and-ozgur-kaya-live)  
+**JANUARY 21, 2026** | Copenhagen, Denmark @ REAL LIVE RADIO / Malmö, Sweden @ [Retreat Radio](https://www.retreatradio.net/)  
+[Mixtape](https://on.soundcloud.com/aBHMVTHui2SoDs7sui)  
+
+**JANUARY 21, 2026** | Brussels, Belgium @ Kiosk Radio / [Isengard w/ Yuri Umemoto & Ozgur Kaya (live)](https://kioskradio.com/episode/2026-01-21/isengard-w-yuri-umemoto-and-ozgur-kaya-live)  
 Live and DJ set  
 
 **DECEMBER 6, 2025** | Lausanne, Switzerland @ Ex-cinéma Eldorado / [Les Urbaines](https://urbaines.ch/en/program/yuri-umemoto)  
