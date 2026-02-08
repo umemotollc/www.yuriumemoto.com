@@ -15,7 +15,7 @@ Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean B
 Will be performed by Ro­bert Fleitz  
 
 **JANUARY 26, 2026** | London, UK @ Cafe Oto / [KIOSK RADIO PRESENTS: FELICITY J LORD (LIVE)](https://www.cafeoto.co.uk/events/kiosk-radio-jan-26/)  
-Live w/ [FELICITY J LORD](https://www.instagram.com/felicityj.lord/)  
+Live w/ [FELICITY J LORD](https://stroomtv.bandcamp.com/album/fjl)  
 
 **JANUARY 25, 2026** | Tokyo, Japan @ Ryogoku Monten Hall  
 Mass: *Confiteor* (2024) for piano and fixed media  
