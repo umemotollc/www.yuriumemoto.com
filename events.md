@@ -10,9 +10,14 @@ permalink: events/
 *crypt_* (2025-26) (opera / music theatre)  
 Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale.  
 
+**MARCH 8, 2026** | Stuttgart, Germany @ [»Shindig #6« with current Solitude Fellows, in cooperation with PODIUM Esslingen and Akademie Schloss Solitude](https://www.akademie-solitude.de/en/event/shindig-6-with-current-solitude-fellows-in-cooperation-with-podium-esslingen-and-akademie-schloss-solitude/)  
+Live and DJ set (DJ: Yuri Umemoto and Mai Kawano)  
+Works for strings and fixed media (2024-2025)  
+Performed by Rothko String Quartet  
+
 **JANUARY 29, 2026** | Helsinki, Finland @ Camerata, Musiikkitalo / [Ro­bert Fleitz – (Auto)bio­grap­hy of Sty­le](https://www.uniarts.fi/tapahtumat/robert-fleitz-autobiography-of-style/) (Robert Fleitz’s doctoral concert)  
 *Mass* for piano and fixed media (2024-2025)  
-Will be performed by Ro­bert Fleitz  
+Performed by Ro­bert Fleitz  
 
 **JANUARY 26, 2026** | London, UK @ Cafe Oto / [KIOSK RADIO PRESENTS: FELICITY J LORD (LIVE)](https://www.cafeoto.co.uk/events/kiosk-radio-jan-26/)  
 Live w/ [FELICITY J LORD](https://stroomtv.bandcamp.com/album/fjl)  
