@@ -10,6 +10,11 @@ permalink: events/
 *crypt_* (2025-26) (opera / music theatre)  
 Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale.  
 
+**April 4, 2026** | Berlin, Germany @ [CCA Berlin - Center for Contemporary Arts](https://cca.berlin/en/program/2349/yuri-umemoto-concerts/) / Yuri Umemoto - Concerts  
+*Concerts* for violin, cello and fixed media (2025-2026), Works for strings, piano and fixed media (2024-2026)  
+
+Will be performed by Yuri Umemoto (piano), Ozgur Kaya (cello, and gamba), Eliott Bougant (violin)  
+
 **MARCH 8, 2026** | Stuttgart, Germany @ [»Shindig #6« with current Solitude Fellows, in cooperation with PODIUM Esslingen and Akademie Schloss Solitude](https://www.akademie-solitude.de/en/event/shindig-6-with-current-solitude-fellows-in-cooperation-with-podium-esslingen-and-akademie-schloss-solitude/)  
 Live and DJ set (DJ: Yuri Umemoto and Mai Kawano)  
 Works for strings and fixed media (2024-2025)  
