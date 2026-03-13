@@ -10,7 +10,7 @@ permalink: events/
 *crypt_* (2025-26) (opera / music theatre)  
 Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale.  
 
-**MAY 9, 2026** | Esslingen, Germany @ [PODIUM Esslingen]([https://www.muenchener-biennale.de/en/programm/kalender/crypt](https://podium-esslingen.de/veranstaltungen/2026-05-09-2026-05-09-zabschlusskonzert-lichtspielscene)) / Abschlusskonzert: Lichtspielscene  
+**MAY 9, 2026** | Esslingen, Germany @ [PODIUM Esslingen](https://podium-esslingen.de/) / [Abschlusskonzert: Lichtspielscene](https://podium-esslingen.de/veranstaltungen/2026-05-09-2026-05-09-zabschlusskonzert-lichtspielscene)  
 *Make money by making songs*, *Win awards by making songs*, *Fuck by making songs* (2026) for orchestra  
 Will be performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen.  
 
