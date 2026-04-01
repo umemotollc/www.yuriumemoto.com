@@ -14,7 +14,7 @@ Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean B
 *Make money by making songs*, *Win awards by making songs*, *Fuck by making songs* (2026) for orchestra  
 Will be performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen.  
 
-**April 4, 2026** | Berlin, Germany @ [CCA Berlin - Center for Contemporary Arts](https://cca.berlin/en/program/2349/yuri-umemoto-concerts/) / Yuri Umemoto - Concerts  
+**April 4, 2026** | Berlin, Germany @ Chapel of the Kaiser Wilhelm Memorial Church, [CCA Berlin - Center for Contemporary Arts](https://cca.berlin/en/program/2349/yuri-umemoto-concerts/) / Yuri Umemoto - Concerts  
 *Concerts* for violin, cello and fixed media (2025-2026), Works for strings, piano and fixed media (2024-2026)  
 Will be performed by Yuri Umemoto (piano), Ozgur Kaya (cello, and gamba), Eliott Bougant (violin)  
 
