@@ -3,8 +3,8 @@ title: events
 category: page
 permalink: events/
 ---
-**JUNE 28, 2026** | Toulouse, France @ [Les Siestes][(https://www.muenchener-biennale.de/en/programm/kalender/crypt](https://www.les-siestes.com/)  
-*Concerts* (2025-2026), Works for instruments and fixed media (2024-2026).  
+**JUNE 28, 2026** | Toulouse, France @ [Les Siestes](https://www.les-siestes.com/)  
+*Concerts* (2025-2026) and Works for instruments and fixed media (2024-2026).  
 
 **MAY 18, 2026** | Munich, Germany @ [Munich Biennale (Münchener Biennale)](https://www.muenchener-biennale.de/en/programm/kalender/crypt)  
 *crypt_* (2025-26) (opera / music theatre)  
