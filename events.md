@@ -3,6 +3,12 @@ title: events
 category: page
 permalink: events/
 ---
+**JUNE 28, 2026** | Toulouse, France @ [Les Siestes][(https://www.muenchener-biennale.de/en/programm/kalender/crypt](https://www.les-siestes.com/)  
+*Concerts* (2025-2026), Works for instruments and fixed media (2024-2026).  
+
+**MAY 18, 2026** | Munich, Germany @ [Munich Biennale (Münchener Biennale)](https://www.muenchener-biennale.de/en/programm/kalender/crypt)  
+*crypt_* (2025-26) (opera / music theatre)  
+
 **MAY 17, 2026** | Munich, Germany @ [Munich Biennale (Münchener Biennale)](https://www.muenchener-biennale.de/en/programm/kalender/crypt)  
 *crypt_* (2025-26) (opera / music theatre)  
 
@@ -15,7 +21,7 @@ Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean B
 Will be performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen.  
 
 **April 4, 2026** | Berlin, Germany @ Chapel of the Kaiser Wilhelm Memorial Church, [CCA Berlin - Center for Contemporary Arts](https://cca.berlin/en/program/2349/yuri-umemoto-concerts/) / Yuri Umemoto - Concerts  
-*Concerts* for violin, cello and fixed media (2025-2026), Works for strings, piano and fixed media (2024-2026)  
+*Concerts* (2025-2026), Works for strings, piano and fixed media (2024-2026).  
 Will be performed by Yuri Umemoto (piano), Ozgur Kaya (cello, and gamba), Eliott Bougant (violin)  
 
 **MARCH 8, 2026** | Stuttgart, Germany @ [»Shindig #6« with current Solitude Fellows, in cooperation with PODIUM Esslingen and Akademie Schloss Solitude](https://www.akademie-solitude.de/en/event/shindig-6-with-current-solitude-fellows-in-cooperation-with-podium-esslingen-and-akademie-schloss-solitude/)  
