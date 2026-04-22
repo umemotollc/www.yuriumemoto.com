@@ -6,6 +6,10 @@ permalink: events/
 **JUNE 28, 2026** | Toulouse, France @ [Les Siestes](https://www.les-siestes.com/)  
 *Concerts* (2025-2026) and Works for instruments and fixed media (2024-2026).  
 
+**MAY 28, 2026** | London, UK @ [Avalon Cafe](https://www.instagram.com/avaloncafebermondsey/) / [Minor Attractions](https://minorattractions.com/) [Summer Sessions](https://minorattractions.com/events/summer-sessions)  
+*Concerts* (2025-2026), Works for strings, piano and fixed media (2024-2026).  
+Performed by Eliott Bougant (violin), Ozgur Kaya (cello) and Yuri Umemoto (piano)  
+
 **MAY 18, 2026** | Munich, Germany @ [Munich Biennale (Münchener Biennale)](https://www.muenchener-biennale.de/en/programm/kalender/crypt)  
 *crypt_* (2025-26) (opera / music theatre)  
 
@@ -20,16 +24,20 @@ Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean B
 *Make money by making songs*, *Win awards by making songs*, *Fuck by making songs* (2026) for orchestra  
 Will be performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen.  
 
+**April 18, 2026** | Stuttgart, Germany @ [Kunstraum 34](https://kunstraum34.de/) / [Shindig #7](https://kunstraum34.de/veranstaltung/shindig-7/)  
+*Concerts* (2025-2026), *Mass* (2024-2025), I see for piano and fixed media  
+Performed by Mai Kawano (piano)  
+
 **April 4, 2026** | Berlin, Germany @ Chapel of the Kaiser Wilhelm Memorial Church, [CCA Berlin - Center for Contemporary Arts](https://cca.berlin/en/program/2349/yuri-umemoto-concerts/) / Yuri Umemoto - Concerts  
 *Concerts* (2025-2026), Works for strings, piano and fixed media (2024-2026).  
-Will be performed by Yuri Umemoto (piano), Ozgur Kaya (cello, and gamba), Eliott Bougant (violin)  
+Performed by Weronika Weiss (violin), Ozgur Kaya (cello) and Yuri Umemoto (piano)  
 
-**MARCH 8, 2026** | Stuttgart, Germany @ [»Shindig #6« with current Solitude Fellows, in cooperation with PODIUM Esslingen and Akademie Schloss Solitude](https://www.akademie-solitude.de/en/event/shindig-6-with-current-solitude-fellows-in-cooperation-with-podium-esslingen-and-akademie-schloss-solitude/)  
+**MARCH 8, 2026** | Stuttgart, Germany @ [Shindig #6](https://www.akademie-solitude.de/en/event/shindig-6-with-current-solitude-fellows-in-cooperation-with-podium-esslingen-and-akademie-schloss-solitude/)  
 Live and DJ set (DJ: Yuri Umemoto and Mai Kawano)  
 Works for strings and fixed media (2024-2025)  
 Performed by Rothko String Quartet  
 
-**JANUARY 29, 2026** | Helsinki, Finland @ Camerata, Musiikkitalo / [Ro­bert Fleitz – (Auto)bio­grap­hy of Sty­le](https://www.uniarts.fi/tapahtumat/robert-fleitz-autobiography-of-style/) (Robert Fleitz’s doctoral concert)  
+**JANUARY 29, 2026** | Helsinki, Finland @ [Camerata, Musiikkitalo](https://www.uniarts.fi/tapahtumat/robert-fleitz-autobiography-of-style/)   
 *Mass* for piano and fixed media (2024-2025)  
 Performed by Ro­bert Fleitz  
 
@@ -78,7 +86,7 @@ Performed by Ildiko Ludwig
 Performed by Robert Wheatley  
 
 **OCTOBER 10, 2025** | Sapporo, Japan @ [Moerenuma Park Glass Pyramid](https://moerenumapark.jp/english/) / [Ott Yarris -Pyramid Reverb-](https://ja.ra.co/events/2257886)  
-*i see* (2025) for piano, other unpublished piano works.  
+*I see* (2025) for piano, other unpublished piano works.  
 Performed by Yuri Umemoto  
 
 **SEPTEMBER 26, 2025** | London, UK @ [Kings Place](https://www.kingsplace.co.uk/) / [Ben Goldscheider x Brother Tree Sound x Ben Nobuto](https://www.kingsplace.co.uk/whats-on/classical/ben-goldscheider-x-brother-tree-sound-x-ben-nobuto/)  
