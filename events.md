@@ -3,12 +3,16 @@ title: events
 category: page
 permalink: events/
 ---
+**JULY 17, 2026** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en) / I forgot the song and cried  
+*I forgot the song and cried* (2026) for Choir, Works for Choir, cello and fixed media (2024-2026)  
+Will be performed by : NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani, Soshi Hara and Shintaro Imai . Commissioned by Yokohama Minato Mirai Hall  
+
 **JUNE 28, 2026** | Toulouse, France @ [Les Siestes](https://www.les-siestes.com/)  
-*Concerts* (2025-2026) and Works for instruments and fixed media (2024-2026).  
+*Concerts* (2025-2026) and Works for instruments and fixed media (2024-2026)  
 
 **MAY 28, 2026** | London, UK @ [Avalon Cafe](https://www.instagram.com/avaloncafebermondsey/) / [Minor Attractions](https://minorattractions.com/) [Summer Sessions](https://minorattractions.com/events/summer-sessions)  
-*Concerts* (2025-2026), Works for strings, piano and fixed media (2024-2026).  
-Performed by Eliott Bougant (violin), Ozgur Kaya (cello) and Yuri Umemoto (piano)  
+*Concerts* (2025-2026), Works for strings, piano and fixed media (2024-2026)  
+Will be performed by Eliott Bougant, Ozgur Kaya and Yuri Umemoto  
 
 **MAY 18, 2026** | Munich, Germany @ [Munich Biennale (Münchener Biennale)](https://www.muenchener-biennale.de/en/programm/kalender/crypt)  
 *crypt_* (2025-26) (opera / music theatre)  
@@ -18,19 +22,19 @@ Performed by Eliott Bougant (violin), Ozgur Kaya (cello) and Yuri Umemoto (piano
 
 **MAY 16, 2026** | Munich, Germany @ [Munich Biennale (Münchener Biennale)](https://www.muenchener-biennale.de/en/programm/kalender/crypt)  
 *crypt_* (2025-26) (opera / music theatre)  
-Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale.  
+Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale  
 
 **MAY 9, 2026** | Esslingen, Germany @ [PODIUM Esslingen](https://podium-esslingen.de/) / [Abschlusskonzert: Lichtspielscene](https://podium-esslingen.de/veranstaltungen/2026-05-09-2026-05-09-zabschlusskonzert-lichtspielscene)  
 *Make money by making songs*, *Win awards by making songs*, *Fuck by making songs* (2026) for orchestra  
-Will be performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen.  
+Will be performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen  
 
 **April 18, 2026** | Stuttgart, Germany @ [Kunstraum 34](https://kunstraum34.de/) / [Shindig #7](https://kunstraum34.de/veranstaltung/shindig-7/)  
 *Concerts* (2025-2026), *Mass* (2024-2025), I see for piano and fixed media  
-Performed by Mai Kawano (piano)  
+Performed by Mai Kawano  
 
 **April 4, 2026** | Berlin, Germany @ Chapel of the Kaiser Wilhelm Memorial Church, [CCA Berlin - Center for Contemporary Arts](https://cca.berlin/en/program/2349/yuri-umemoto-concerts/) / Yuri Umemoto - Concerts  
-*Concerts* (2025-2026), Works for strings, piano and fixed media (2024-2026).  
-Performed by Weronika Weiss (violin), Ozgur Kaya (cello) and Yuri Umemoto (piano)  
+*Concerts* (2025-2026), Works for strings, piano and fixed media (2024-2026)  
+Performed by Weronika Weiss, Ozgur Kaya and Yuri Umemoto  
 
 **MARCH 8, 2026** | Stuttgart, Germany @ [Shindig #6](https://www.akademie-solitude.de/en/event/shindig-6-with-current-solitude-fellows-in-cooperation-with-podium-esslingen-and-akademie-schloss-solitude/)  
 Live and DJ set (DJ: Yuri Umemoto and Mai Kawano)  
@@ -95,7 +99,7 @@ Performed by Anna de Bruin, Clare O’Connell
 
 **SEPTEMBER 11, 2025** | Yokohama, Japan @ [Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en)  
 *look at me, senpai* (2024) for violin, cello and fixed media, *Moe²Girl* (2022) for cello and fixed media, *SUPERBACHBOY* (2020) for cello, *Heidenröslein* (2025) for piano and fixed media, *aaaaa* (2025) for piano and fixed media and *my girl friend is not like me* (2025) for violin, cello and fixed media  
-Performed by Ayana Tsuji, Kei Yamazawa, Yusuke Takahashi and Shintaro Imai  
+Performed by Ayana Tsuji, Kei Yamazawa, Yusuke Takahashi and Shintaro Imai. Commissioned by Yokohama Minato Mirai Hall  
 
 **AUGUST 27, 2025** | Riga, Latvia @ [TUR TELPA](https://turtelpa.lv/) / [Robert Fleitz’s concert](https://www.baltictimes.com/robert_fleitz_s_concert/)  
 *Mass* (2025) for piano and fixed media  
