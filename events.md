@@ -32,6 +32,14 @@ Will be performed by Eliott Bougant, Ozgur Kaya and Yuri Umemoto
 *crypt_* (2025-26) (opera / music theatre)  
 Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean Bell, Tenor: Mathias Monrad Møller, Baritone: Halvor Festervoll Melien. Commissioned by the City of Munich for the Münchener Biennale  
 
+**MAY 12, 2026** | Hamburg, Germany @ [Halle 424, Hamburg](https://halle424.de/veranstaltung/lichtspielscene-ensemble-reflektor-2/) / [Lichtspielscene](https://ensemble-reflektor.de/concert/lichtspielscene-2/)  
+*Make money by making songs*, *Win awards by making songs*, *Fuck by making songs* (2026) for orchestra  
+Will be performed by ensemble reflektor and Xizi Wang.  
+
+**MAY 11, 2026** | Lüneburg, Germany @ [FORUM, Musikschule Lüneburg](https://musikschule-lueneburg.de/) / [Lichtspielscene](https://ensemble-reflektor.de/concert/lichtspielscene/)  
+*Make money by making songs*, *Win awards by making songs*, *Fuck by making songs* (2026) for orchestra  
+Will be performed by ensemble reflektor and Xizi Wang.  
+
 **MAY 9, 2026** | Esslingen, Germany @ [PODIUM Esslingen](https://podium-esslingen.de/) / [Abschlusskonzert: Lichtspielscene](https://podium-esslingen.de/veranstaltungen/2026-05-09-2026-05-09-zabschlusskonzert-lichtspielscene)  
 *Make money by making songs*, *Win awards by making songs*, *Fuck by making songs* (2026) for orchestra  
 Performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen  
