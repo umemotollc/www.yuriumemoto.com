@@ -9,6 +9,7 @@ Will be performed by NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani,
 
 **JUNE 28, 2026** | Toulouse, France @ [Les Siestes](https://www.les-siestes.com/)  
 *Concerts* (2025-2026) and Works for instruments and fixed media (2024-2026)  
+Will be performed by Eliott Bougant, Ozgur Kaya, Mai Kawano and Yuri Umemoto  
 
 **JUNE 13, 2026** | Bremen, Germany @ [Zentrum für Kunst](https://zentrum-fuer-kunst.de/en/) / [HYPER 3](https://pulsepulse.de/hyper/)  
 *Moe2Girl*, *Moe2Girl No.2* (2022), *Look at me Senpai* (2024) for strings and fixed media  
@@ -44,11 +45,11 @@ Will be performed by ensemble reflektor and Xizi Wang.
 *Make money by making songs*, *Win awards by making songs*, *Fuck by making songs* (2026) for orchestra  
 Performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen  
 
-**April 18, 2026** | Stuttgart, Germany @ [Kunstraum 34](https://kunstraum34.de/) / [Shindig #7](https://kunstraum34.de/veranstaltung/shindig-7/)  
+**APRIL 18, 2026** | Stuttgart, Germany @ [Kunstraum 34](https://kunstraum34.de/) / [Shindig #7](https://kunstraum34.de/veranstaltung/shindig-7/)  
 *Concerts* (2025-2026), *Mass* (2024-2025), I see for piano and fixed media  
 Performed by Mai Kawano  
 
-**April 4, 2026** | Berlin, Germany @ Chapel of the Kaiser Wilhelm Memorial Church, [CCA Berlin - Center for Contemporary Arts](https://cca.berlin/en/program/2349/yuri-umemoto-concerts/) / Yuri Umemoto - Concerts  
+**APRIL 4, 2026** | Berlin, Germany @ Chapel of the Kaiser Wilhelm Memorial Church, [CCA Berlin - Center for Contemporary Arts](https://cca.berlin/en/program/2349/yuri-umemoto-concerts/) / Yuri Umemoto - Concerts  
 *Concerts* (2025-2026), Works for strings, piano and fixed media (2024-2026)  
 Performed by Weronika Weiss, Ozgur Kaya and Yuri Umemoto  
 
