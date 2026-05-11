@@ -5,10 +5,18 @@ permalink: events/
 ---
 **JULY 17, 2026** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en) / I forgot the song and cried  
 *I forgot the song and cried* (2026) for Choir, Works for Choir, cello and fixed media (2024-2026)  
-Will be performed by : NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani, Soshi Hara and Shintaro Imai . Commissioned by Yokohama Minato Mirai Hall  
+Will be performed by NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani, Soshi Hara and Shintaro Imai . Commissioned by Yokohama Minato Mirai Hall  
 
 **JUNE 28, 2026** | Toulouse, France @ [Les Siestes](https://www.les-siestes.com/)  
 *Concerts* (2025-2026) and Works for instruments and fixed media (2024-2026)  
+
+**JUNE 13, 2026** | Bremen, Germany @ [Zentrum für Kunst](https://zentrum-fuer-kunst.de/en/) / [HYPER 3](https://pulsepulse.de/hyper/)  
+*Moe2Girl*, *Moe2Girl No.2* (2022), *Look at me Senpai* (2024) for strings and fixed media  
+Will be performed by [PULSE](https://pulsepulse.de/)  
+
+**JUNE 12, 2026** | Bremen, Germany @ [Zentrum für Kunst](https://zentrum-fuer-kunst.de/en/) / [HYPER 3](https://pulsepulse.de/hyper/)  
+*Moe2Girl*, *Moe2Girl No.2* (2022), *Look at me Senpai* (2024) for strings and fixed media  
+Will be performed by [PULSE](https://pulsepulse.de/)  
 
 **MAY 28, 2026** | London, UK @ [Avalon Cafe](https://www.instagram.com/avaloncafebermondsey/) / [Minor Attractions](https://minorattractions.com/) [Summer Sessions](https://minorattractions.com/events/summer-sessions)  
 *Concerts* (2025-2026), Works for strings, piano and fixed media (2024-2026)  
@@ -26,7 +34,7 @@ Will be performed by Oslo Sinfonietta, Soprano: Peyee Chen, Countertenor: Sean B
 
 **MAY 9, 2026** | Esslingen, Germany @ [PODIUM Esslingen](https://podium-esslingen.de/) / [Abschlusskonzert: Lichtspielscene](https://podium-esslingen.de/veranstaltungen/2026-05-09-2026-05-09-zabschlusskonzert-lichtspielscene)  
 *Make money by making songs*, *Win awards by making songs*, *Fuck by making songs* (2026) for orchestra  
-Will be performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen  
+Performed by ensemble reflektor and Xizi Wang. Commissioned by PODIUM Esslingen  
 
 **April 18, 2026** | Stuttgart, Germany @ [Kunstraum 34](https://kunstraum34.de/) / [Shindig #7](https://kunstraum34.de/veranstaltung/shindig-7/)  
 *Concerts* (2025-2026), *Mass* (2024-2025), I see for piano and fixed media  
