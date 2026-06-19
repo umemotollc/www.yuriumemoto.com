@@ -7,9 +7,38 @@ permalink: events/
 *I forgot the song and cried* (2026) for Choir, Works for Choir, cello and fixed media (2024-2026)  
 Will be performed by NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani, Soshi Hara and Shintaro Imai . Commissioned by Yokohama Minato Mirai Hall  
 
+**JULY 9-11, 2026** | Norberg, Sweden @ [Norbergfestival 2026](https://norbergfestival.com/) / [Real Live x Norbergfestival](https://norbergfestival.com/artist/reallive)  
+Artists: vio lino, Heva Vaupel, Soli City, Swiss Bank Transfer, Yuri Umemoto  
+
+**JULY 6, 2026** | London, UK @ [Avalon Cafe](https://www.instagram.com/avaloncafebermondsey/) / [Samba Jean-Baptiste, Bernard Rocks, Taylor Richardson, Yuri Umemoto](https://gel.now/events/573)  
+Artists: Samba Jean-Baptiste, Bernard Rocks, Taylor Richardson, Yuri Umemoto  
+By [spike fern](https://spikefern.com/)  
+
+**JULY 1, 2026** | London, UK @ [Spanners](https://www.instagram.com/spanners.club/) / [Video Salon International (VSI)](https://www.instagram.com/v_______s_______i/) presents [Transcendence](https://www.eventbrite.com/e/transcendence-tickets-1991906464857)  
+Artists: Mark Leckey (screening + lecture), Umi Ishihara (screening), Fiontan Moran (performance), Yuri Umemoto (sound)  
+
 **JUNE 28, 2026** | Toulouse, France @ [Les Siestes](https://www.les-siestes.com/)  
 *Concerts* (2025-2026) and Works for instruments and fixed media (2024-2026)  
 Will be performed by Eliott Bougant, Ozgur Kaya, Mai Kawano and Yuri Umemoto  
+
+**JUNE 27, 2026** | Hamburg, Germany @ [resonanzraum St. Pauli](https://www.resonanzraum.club/) / [urban string »a slug's dream«](https://www.ensembleresonanz.com/en/termine-und-tickets/urban-string-a-slugs-dream-2026-06-27)  
+*waaaaa* (2026) for string quartet and fixed media, Copy and paste, mass produced/ consumed irregular/ imperfectly shaped plastic Pearls and Me. (2022) for violin  
+Will be performed by [Ensemble Resonanz](https://www.ensembleresonanz.com/en/ensemble-resonanz)  
+
+**JUNE 26, 2026** | Brussels, Belgium @ [Kiosk Radio](https://www.kioskradio.com/)  
+13:00 -14:00 Isengard w/ Yuri Umemoto  
+DJ set  
+
+**JUNE 25, 2026** | Brussels, Belgium @ [Atelier Bardaf](https://atelierbardaf.be/) / [Yuri Umemoto - ‘Concerts’ album release party](https://ra.co/events/2465032)  
+Yuri Umemoto (live), TM (live), iced lattina, PAM & VINESSETT  
+[Isengard Guilde](https://www.instagram.com/isengard_guilde/?hl=en) and [Office PSR](https://www.instagram.com/officepsr/) presents  
+
+**JUNE 24, 2026** | Paris, France @ [Péniche Adélaïde](https://maps.app.goo.gl/9xQwXQdaeP5kCioB8) / [Yuri Umemoto - ‘Concerts’ album release party](https://ra.co/events/2467097)  
+Artists: Yuri Umemoto (live), TM (live), iced lattina, PAM & VINESSETT  
+[Isengard Guilde](https://www.instagram.com/isengard_guilde/?hl=en) and [Office PSR](https://www.instagram.com/officepsr/) presents  
+
+**JUNE 19, 2026** | London, UK @ [OPERFORMANCEF](https://www.operformancef.com/) / [PICNIC X Metamorphika](https://www.operformancef.com/rsvp)  
+Artists: Gian Sanghera-Warren, Uta Sienkiewicz, Yuri Umemoto, Dani Marcel, Alexander Tarasenko, Neli Font, Sarah Yemalla + Sarah Mawen  
 
 **JUNE 13, 2026** | Bremen, Germany @ [Zentrum für Kunst](https://zentrum-fuer-kunst.de/en/) / [HYPER 3](https://pulsepulse.de/hyper/)  
 *Moe2Girl*, *Moe2Girl No.2* (2022), *Look at me Senpai* (2024) for strings and fixed media  
