@@ -4,7 +4,7 @@ category: page
 permalink: events/
 ---
 **JULY 17, 2026** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en) / I forgot the song and cried  
-Works for Choir, cello and fixed media (2024-2026)  
+Works for Choir, cello and fixed media (2026)  
 Will be performed by NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani, Soshi Hara and Shintaro Imai . Commissioned by Yokohama Minato Mirai Hall  
 
 **JULY 9-11, 2026** | Norberg, Sweden @ [Norbergfestival 2026](https://norbergfestival.com/) / [Real Live x Norbergfestival](https://norbergfestival.com/artist/reallive)  
