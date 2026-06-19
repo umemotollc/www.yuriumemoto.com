@@ -6,5 +6,7 @@ layout: home-no-title
 <a href="/about">about</a>&nbsp;&nbsp;  
 <a href="/contact">contact</a>&nbsp;&nbsp;  
 <a href="/events/">events</a>&nbsp;&nbsp;  
+<a href="https://www.instagram.com/yuri_umemoto/">instagram</a>&nbsp;&nbsp;  
+<a href="https://www.youtube.com/@yuriumemoto">youtube</a>&nbsp;&nbsp;  
 <a href="/scores">scores</a>&nbsp;&nbsp;  
 <a href="/disclaimer/">disclaimer</a>&nbsp;&nbsp;  
