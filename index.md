@@ -1,20 +1,7 @@
 ---
 layout: home-no-title
 ---
-1.  
-<img src="https://www.yuriumemoto.com/pics/20250824.jpg" alt="portrait" width="200">  
-2.  
-<img src="https://www.yuriumemoto.com/pics/20251118.jpg" alt="portrait" width="200">  
-3.  
-<img src="https://www.yuriumemoto.com/pics/20251116.jpg" alt="portrait" width="200">  
-4.  
-<img src="https://www.yuriumemoto.com/pics/20260122.png" alt="portrait" width="200">
-5.  
-<img src="https://www.yuriumemoto.com/pics/20260119.jpeg" alt="portrait" width="200">  
-6.  
-<img src="https://www.yuriumemoto.com/pics/20250822.jpeg" alt="portrait" width="200">  
-7.  
-<img src="https://www.yuriumemoto.com/pics/20250831.jpg" alt="portrait" width="200">  
+<img src="https://www.yuriumemoto.com/pics/concerts_cover.jpg" alt="portrait" width="200">  
 <br/><br/>  
 <a href="/about">about</a>&nbsp;&nbsp;  
 <a href="/contact">contact</a>&nbsp;&nbsp;  
