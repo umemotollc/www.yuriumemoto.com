@@ -19,7 +19,7 @@ Artists: Mark Leckey (screening + lecture), Umi Ishihara (screening), Fiontan Mo
 
 **JUNE 28, 2026** | Toulouse, France @ [Les Siestes](https://www.les-siestes.com/)  
 *Concerts* (2025-2026) and Works for instruments and fixed media (2024-2026)  
-Will be performed by Eliott Bougant, Ozgur Kaya, Mai Kawano and Yuri Umemoto  
+Will be performed by Eliott Bougant, Mai Kawano and Yuri Umemoto  
 
 **JUNE 27, 2026** | Hamburg, Germany @ [resonanzraum St. Pauli](https://www.resonanzraum.club/) / [urban string »a slug's dream«](https://www.ensembleresonanz.com/en/termine-und-tickets/urban-string-a-slugs-dream-2026-06-27)  
 *waaaaa* (2026) for string quartet and fixed media, Copy and paste, mass produced/ consumed irregular/ imperfectly shaped plastic Pearls and Me. (2022) for violin  
