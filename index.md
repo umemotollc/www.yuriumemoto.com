@@ -1,7 +1,10 @@
 ---
 layout: home-no-title
 ---
-<img src="https://www.yuriumemoto.com/pics/concerts_cover.jpg" alt="portrait" width="200">  
+<a href="/concerts/">
+    <img src="https://www.yuriumemoto.com/pics/concerts_cover.jpg" alt="concerts" width="200">
+</a>
+<br/>
 <br/>
 <a href="/about">about</a>&nbsp;&nbsp;  
 <a href="/contact">contact</a>&nbsp;&nbsp;  
