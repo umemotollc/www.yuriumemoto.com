@@ -2,6 +2,7 @@
 title: concerts
 category: page
 permalink: concerts/
+layout: home-no-title
 ---
 Yuri Umemoto - Concerts (2026)  
 <a href="https://open.spotify.com/album/78nBGVieGEyU8KV2DMfS8s">Spotify</a>&nbsp;&nbsp;  
