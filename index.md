@@ -9,7 +9,7 @@ layout: home-no-title
 <a href="/about">about</a>&nbsp;&nbsp;  
 <a href="/concerts/">album</a>&nbsp;&nbsp;  
 <a href="/interviews/">interviews</a>&nbsp;&nbsp;  
-<a href="/mixtapes/">mixtapess</a>&nbsp;&nbsp;  
+<a href="/mixtapes/">mixtapes</a>&nbsp;&nbsp;  
 <a href="https://www.youtube.com/@yuriumemoto">videos</a>&nbsp;&nbsp;  
 <a href="/contact">contact</a>&nbsp;&nbsp;  
 <a href="/events/">events</a>&nbsp;&nbsp;  
