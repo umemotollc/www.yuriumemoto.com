@@ -7,6 +7,8 @@ layout: home-no-title
 <br/>
 <br/>
 <a href="/about">about</a>&nbsp;&nbsp;  
+<a href="/interviews/">interviews</a>&nbsp;&nbsp;  
+<a href="/mixtapes/">mixtapess</a>&nbsp;&nbsp;  
 <a href="/contact">contact</a>&nbsp;&nbsp;  
 <a href="/events/">events</a>&nbsp;&nbsp;  
 <a href="/scores">scores</a>&nbsp;&nbsp;  
