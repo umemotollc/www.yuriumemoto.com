@@ -3,6 +3,11 @@ title: events
 category: page
 permalink: events/
 ---
+**AUGUST 14, 2026** | Tokyo, Japan @ Alley Hall, Shimokitazawa  
+17:00-22:00  
+Artists: Yuri Umemoto, Mai Kawano, vq, 1LDK, sudden star, Guillaume  
+Presented by Ether  
+
 **JULY 17, 2026** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en) / I forgot the song and cried  
 Works for Choir, cello and fixed media (2026)  
 Will be performed by NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani, Soshi Hara and Shintaro Imai . Commissioned by Yokohama Minato Mirai Hall  
