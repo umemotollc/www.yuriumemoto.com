@@ -5,12 +5,13 @@ permalink: events/
 ---
 **AUGUST 14, 2026** | Tokyo, Japan @ Alley Hall, Shimokitazawa  
 17:00-22:00  
-Artists: Yuri Umemoto, Mai Kawano, vq, 1LDK, sudden star, Guillaume  
+[Tickets](https://ra.co/events/2500802)  
+Artists: Yuri Umemoto, Mai Kawano, eijin, vq, 1LDK, lupingreen  
 Presented by Ether  
 
 **JULY 17, 2026** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en) / I forgot the song and cried  
 Works for Choir, cello and fixed media (2026)  
-Will be performed by NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani, Soshi Hara and Shintaro Imai . Commissioned by Yokohama Minato Mirai Hall  
+Performed by NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani, Soshi Hara and Shintaro Imai . Commissioned by Yokohama Minato Mirai Hall  
 
 **JULY 9-11, 2026** | Norberg, Sweden @ [Norbergfestival 2026](https://norbergfestival.com/) / [Real Live x Norbergfestival](https://norbergfestival.com/artist/reallive)  
 Artists: vio lino, Heva Vaupel, Soli City, Swiss Bank Transfer, Yuri Umemoto  
