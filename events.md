@@ -3,11 +3,9 @@ title: events
 category: page
 permalink: events/
 ---
-**AUGUST 14, 2026** | Tokyo, Japan @ Alley Hall, Shimokitazawa  
-17:00-22:00  
-[Tickets](https://ra.co/events/2500802)  
+**AUGUST 14, 2026** | Tokyo, Japan @ Alley Hall, Shimokitazawa / [Ether presents...](https://ra.co/events/2500802)  
+18:00-22:00  
 Artists: Yuri Umemoto, Mai Kawano, eijin, vq, 1LDK, lupingreen  
-Presented by Ether  
 
 **JULY 17, 2026** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en) / I forgot the song and cried  
 Works for Choir, cello and fixed media (2026)  
