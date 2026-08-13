@@ -3,7 +3,7 @@ title: events
 category: page
 permalink: events/
 ---
-**AUGUST 14, 2026** | Tokyo, Japan @ Alley Hall, Shimokitazawa / [Ether presents...](https://ra.co/events/2500802)  
+**AUGUST 14, 2026** | Tokyo, Japan @ Alley Hall, Shimokitazawa / [Ether presents...](https://www.yuriumemoto.com/20260814/)  
 18:00-22:00  
 Artists: Yuri Umemoto, Mai Kawano, eijin, vq, 1LDK, lupingreen  
 
