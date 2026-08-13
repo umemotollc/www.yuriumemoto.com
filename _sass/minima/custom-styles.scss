@@ -348,3 +348,20 @@ button.nav-toggle {
 body.is-home .site-header .site-title {
   display: none !important;
 }
+
+/* ============================
+   Blockquote Styles (インデント＋濃い灰色)
+   ============================ */
+blockquote {
+  font-size: 0.9rem;      /* 本文と同じサイズ */
+  color: #444444;         /* 濃いめの灰色 */
+  font-style: normal;     /* 斜め文字にせず普通の真っ直ぐな文字 */
+  border-left: none;      /* 縦線を消す */
+  margin-left: 2rem;      /* 右にずらす幅（もっとずらしたい場合は 3rem 等に） */
+  padding-left: 0;        /* 隙間調整のリセット */
+}
+
+/* 引用内の段落の改行間隔 */
+blockquote p {
+  margin-bottom: 0.8em;
+}
