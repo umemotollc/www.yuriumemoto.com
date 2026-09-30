@@ -3,6 +3,13 @@ title: events
 category: page
 permalink: events/
 ---
+**SEPTEMBER 5, 2026** | Tokyo, Japan @ 三哥, Kiyosumi Shirakawa / [jvnpey/4.44%,Ott Yarris,Yuri Umemoto](https://www.instagram.com/p/Dc-3HeaDwt8/?img_index=1)  
+19:00-  
+
+**SEPTEMBER 5, 2026** | Tokyo, Japan @ SALOON, Daikanyama / [Mana City After Party](https://manaontheline.com/events/)  
+23:00-  
+春麗, DJ CENTERFOLD, dj woah, eijin, Uris, Yuri Umemoto  
+
 **AUGUST 14, 2026** | Tokyo, Japan @ Alley Hall, Shimokitazawa / [Ether presents...](https://www.yuriumemoto.com/20260814/)  
 18:00-22:00  
 Artists: Yuri Umemoto, Mai Kawano, eijin, vq, 1LDK, lupingreen  
