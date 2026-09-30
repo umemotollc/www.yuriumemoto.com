@@ -3,7 +3,7 @@ title: events
 category: page
 permalink: events/
 ---
-**SEPTEMBER 5, 2026** | Tokyo, Japan @ 三哥, Kiyosumi Shirakawa / [jvnpey/4.44%,Ott Yarris,Yuri Umemoto](https://www.instagram.com/p/Dc-3HeaDwt8/?img_index=1)  
+**SEPTEMBER 13, 2026** | Tokyo, Japan @ 三哥, Kiyosumi Shirakawa / [jvnpey/4.44%,Ott Yarris,Yuri Umemoto](https://www.instagram.com/p/Dc-3HeaDwt8/?img_index=1)  
 19:00-  
 
 **SEPTEMBER 5, 2026** | Tokyo, Japan @ SALOON, Daikanyama / [Mana City After Party](https://manaontheline.com/events/)  
