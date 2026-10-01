@@ -3,6 +3,7 @@ title: mixtapes
 category: page
 permalink: mixtapes/
 ---
+<a href="https://on.soundcloud.com/aaVcTdbiWG60K9JoBI">Lace Radio</a> (October 2026)&nbsp;&nbsp;  
 <a href="https://www.nts.live/shows/adults-play-radio/episodes/adults-play-radio-30th-june-2026">NTS Radio</a> (June 2026)&nbsp;&nbsp;  
 <a href="https://www.kioskradio.com/episode/2026-04-30/outsiders-tmlab-w-yuri-umemoto">Kiosk Radio</a> (April 2026)&nbsp;&nbsp;  
 <a href="https://on.soundcloud.com/mCHRXjvOhDgyaPDQDT">odyxxey</a> (April 2026)&nbsp;&nbsp;  
