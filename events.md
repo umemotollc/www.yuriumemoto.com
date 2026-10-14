@@ -3,6 +3,10 @@ title: events
 category: page
 permalink: events/
 ---
+**OCTOBER 30, 2026** | Tokyo, Japan @ [DOMICILE TOKYO](https://domicile.tokyo/) / [Night Wear Sports Club](https://instagram.com/nightwearsc) FW26 Release  
+12:00-
+Yuri Umemoto, 1LDK, Yoyou, sudden star, number1fairytale  
+
 **SEPTEMBER 13, 2026** | Tokyo, Japan @ 三哥, Kiyosumi Shirakawa / [jvnpey/4.44%,Ott Yarris,Yuri Umemoto](https://www.instagram.com/p/Dc-3HeaDwt8/?img_index=1)  
 19:00-  
 
