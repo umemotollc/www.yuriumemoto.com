@@ -7,6 +7,9 @@ permalink: events/
 12:00-
 Yuri Umemoto, 1LDK, Yoyou, sudden star, number1fairytale  
 
+**OCTOBER 21, 2026** | New York, US @ Montez Press Radio / [Talking about Music, Music about Talking](https://radio.montezpress.com/#/show/4090)  
+19:00-  
+
 **SEPTEMBER 13, 2026** | Tokyo, Japan @ 三哥, Kiyosumi Shirakawa / [jvnpey/4.44%,Ott Yarris,Yuri Umemoto](https://www.instagram.com/p/Dc-3HeaDwt8/?img_index=1)  
 19:00-  
 
