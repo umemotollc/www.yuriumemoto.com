@@ -24,6 +24,9 @@ HYPER III: PULSE performs works by Yuri Umemoto, Nicolas Berge, Ahmetcan Gökçe
 Support: Ahmetcan Gökçeer b2b Nicolas Berge  
 PULSE presents  
 
+**NOVEMBER 4, 2026** | Tokyo, Japan @ [Forestlimit](https://ra.co/clubs/58885) / [【DE|EM M/A/S/S/A/C/R/E】](https://ra.co/events/2573311)  
+Yuri Umemoto (live), fui (live), brain node (live), djmerrychristmas (live), Vís, koot, neimi, cellulose, kotakunisaki, aiso  
+
 **OCTOBER 30, 2026** | Tokyo, Japan @ [DOMICILE TOKYO](https://domicile.tokyo/) / [Night Wear Sports Club](https://instagram.com/nightwearsc) FW26 Release  
 12:00-
 Yuri Umemoto, 1LDK, Yoyou, sudden star, number1fairytale  
