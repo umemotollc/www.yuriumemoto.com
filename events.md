@@ -3,6 +3,27 @@ title: events
 category: page
 permalink: events/
 ---
+**DECEMBER 20, 2026** | Berlin, Germany @ [Chausseestrasse 131](https://ra.co/clubs/152749) / [Musicality](https://ra.co/events/2582262)  
+Yuri Umemoto, Afonso Arrepia Ferreira, e03 (1), masking girlfriend  
+Local Gr0up presents  
+ 
+**DECEMBER 19, 2026** | Barcelona, Spain @ Casa Androna (metro Fontana, Gràcia) / [salo x casa androna: Jazz Lambaux + Yuri Umemoto](https://entradium.com/events/colectivo-salo-x-casa-androna)  
+Yuri Umemoto, Jazz Lambaux  
+salo and Casa Androna present  
+ 
+**DECEMBER 17, 2026** | Montreuil, France @ [Bal Chavaux](http://maps.google.fr/maps?q=Bal+Chavaux%2C+Boulevard+Chanzy%2C+Montreuil%2C+France) / [Collerette présente: Jazz Lambaux Xmas Band + Felicity J Lord + Yuri Umemoto](https://www.billetweb.fr/colerette-presente-jazz-lambaux-xmas-band-felicity-j-lord-yuri-umemoto)  
+Yuri Umemoto, Felicity J Lord, Jazz Lambaux Xmas Band  
+Collerette presents  
+ 
+**DECEMBER 16, 2026** | Brussels, Belgium @ [Paramour](https://www.google.com/maps/dir/?api=1&destination=Aarlenstraat+104%2C+1040+Brussel%2C+Brussel%2C+Belgi%C3%AB) / [Felicity J. Lord, Jazz Lambaux and Yuri Umemoto in Brussels](https://fienta.com/felicity-j-lord-jazz-lambaux-and-yuri-umemoto-in-brussels)  
+Yuri Umemoto, Felicity J Lord, Jazz Lambaux  
+Toverberg Collective, [Isengard Guilde](https://www.instagram.com/isengard_guilde/?hl=en) and Lise present  
+
+**NOVEMBER 24, 2026** | Cologne, Germany @ [Stadtgarten Köln](https://stadtgarten.de/en) / [PULSE](https://stadtgarten.de/en/program/pulse-11827)  
+HYPER III: PULSE performs works by Yuri Umemoto, Nicolas Berge, Ahmetcan Gökçeer, Nicole Lizée and Pablo Garretón  
+Support: Ahmetcan Gökçeer b2b Nicolas Berge  
+PULSE presents  
+
 **OCTOBER 30, 2026** | Tokyo, Japan @ [DOMICILE TOKYO](https://domicile.tokyo/) / [Night Wear Sports Club](https://instagram.com/nightwearsc) FW26 Release  
 12:00-
 Yuri Umemoto, 1LDK, Yoyou, sudden star, number1fairytale  
@@ -19,21 +40,21 @@ Yuri Umemoto, 1LDK, Yoyou, sudden star, number1fairytale
 
 **AUGUST 14, 2026** | Tokyo, Japan @ Alley Hall, Shimokitazawa / [Ether presents...](https://www.yuriumemoto.com/20260814/)  
 18:00-22:00  
-Artists: Yuri Umemoto, Mai Kawano, eijin, vq, 1LDK, lupingreen  
+Yuri Umemoto, Mai Kawano, eijin, vq, 1LDK, lupingreen  
 
 **JULY 17, 2026** | Yokohama, Japan @ [Yokohama Minato Mirai Hall](https://yokohama-minatomiraihall.jp/en) / I forgot the song and cried  
 Works for Choir, cello and fixed media (2026)  
 Performed by NHK Tokyo Children's Chorus Youth Men's Choir, Kenji Otani, Soshi Hara and Shintaro Imai . Commissioned by Yokohama Minato Mirai Hall  
 
 **JULY 9-11, 2026** | Norberg, Sweden @ [Norbergfestival 2026](https://norbergfestival.com/) / [Real Live x Norbergfestival](https://norbergfestival.com/artist/reallive)  
-Artists: vio lino, Heva Vaupel, Soli City, Swiss Bank Transfer, Yuri Umemoto  
+vio lino, Heva Vaupel, Soli City, Swiss Bank Transfer, Yuri Umemoto  
 
 **JULY 6, 2026** | London, UK @ [Avalon Cafe](https://www.instagram.com/avaloncafebermondsey/) / [Samba Jean-Baptiste, Bernard Rocks, Taylor Richardson, Yuri Umemoto](https://gel.now/events/573)  
-Artists: Samba Jean-Baptiste, Bernard Rocks, Taylor Richardson, Yuri Umemoto  
+Samba Jean-Baptiste, Bernard Rocks, Taylor Richardson, Yuri Umemoto  
 By [spike fern](https://spikefern.com/)  
 
 **JULY 1, 2026** | London, UK @ [Spanners](https://www.instagram.com/spanners.club/) / [Video Salon International (VSI)](https://www.instagram.com/v_______s_______i/) presents [Transcendence](https://www.eventbrite.com/e/transcendence-tickets-1991906464857)  
-Artists: Mark Leckey (screening + lecture), Umi Ishihara (screening), Fiontan Moran (performance), Yuri Umemoto (sound)  
+Mark Leckey (screening + lecture), Umi Ishihara (screening), Fiontan Moran (performance), Yuri Umemoto (sound)  
 
 **JUNE 28, 2026** | Toulouse, France @ [Les Siestes](https://www.les-siestes.com/)  
 *Concerts* (2025-2026) and Works for instruments and fixed media (2024-2026)  
@@ -52,11 +73,11 @@ Yuri Umemoto (live), TM (live), iced lattina, PAM & VINESSETT
 [Isengard Guilde](https://www.instagram.com/isengard_guilde/?hl=en) and [Office PSR](https://www.instagram.com/officepsr/) presents  
 
 **JUNE 24, 2026** | Paris, France @ [Péniche Adélaïde](https://maps.app.goo.gl/9xQwXQdaeP5kCioB8) / [Yuri Umemoto - ‘Concerts’ album release party](https://ra.co/events/2467097)  
-Artists: Yuri Umemoto (live), TM (live), iced lattina, PAM & VINESSETT  
+Yuri Umemoto (live), TM (live), iced lattina, PAM & VINESSETT  
 [Isengard Guilde](https://www.instagram.com/isengard_guilde/?hl=en) and [Office PSR](https://www.instagram.com/officepsr/) presents  
 
 **JUNE 19, 2026** | London, UK @ [OPERFORMANCEF](https://www.operformancef.com/) / [PICNIC X Metamorphika](https://www.operformancef.com/rsvp)  
-Artists: Gian Sanghera-Warren, Uta Sienkiewicz, Yuri Umemoto, Dani Marcel, Alexander Tarasenko, Neli Font, Sarah Yemalla + Sarah Mawen  
+Gian Sanghera-Warren, Uta Sienkiewicz, Yuri Umemoto, Dani Marcel, Alexander Tarasenko, Neli Font, Sarah Yemalla + Sarah Mawen  
 
 **JUNE 13, 2026** | Bremen, Germany @ [Zentrum für Kunst](https://zentrum-fuer-kunst.de/en/) / [HYPER 3](https://pulsepulse.de/hyper/)  
 *Moe2Girl*, *Moe2Girl No.2* (2022), *Look at me Senpai* (2024) for strings and fixed media  
